@@ -1,0 +1,338 @@
+{
+ "Source Camera": [
+  "org/openpnp/machine/neoden4/wizards/Neoden4SwitcherCameraConfigurationWizard.class",
+  "org/openpnp/machine/reference/camera/wizards/SwitcherCameraConfigurationWizard.class"
+ ],
+ "Switcher Number": [
+  "org/openpnp/machine/neoden4/wizards/Neoden4SwitcherCameraConfigurationWizard.class",
+  "org/openpnp/machine/reference/camera/wizards/SwitcherCameraConfigurationWizard.class"
+ ],
+ "Actuator Value": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+  "org/openpnp/machine/reference/camera/wizards/SwitcherCameraConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferenceSlotAutoFeederConfigurationWizard.class"
+ ],
+ "Camera \u0001 thread \u0001 started.": [
+  "org/openpnp/machine/reference/camera/AbstractBroadcastingCamera.class"
+ ],
+ "Camera \u0001 thread \u0001 interrupt failed, closing anyway.": [
+  "org/openpnp/machine/reference/camera/AbstractBroadcastingCamera.class"
+ ],
+ "Camera \u0001 thread \u0001 bye-bye.": [
+  "org/openpnp/machine/reference/camera/AbstractBroadcastingCamera.class"
+ ],
+ "Camera settling, frame number \u0001, t=+\u0001ms": [
+  "org/openpnp/machine/reference/camera/AbstractSettlingCamera.class"
+ ],
+ "Auto Focus ⚫": [
+  "org/openpnp/machine/reference/camera/AutoFocusProvider.class"
+ ],
+ "Auto Focus \u0001": [
+  "org/openpnp/machine/reference/camera/AutoFocusProvider.class"
+ ],
+ "Focus score at \u0001 is \u0001, step size \u0001": [
+  "org/openpnp/machine/reference/camera/AutoFocusProvider.class"
+ ],
+ "Exception parsing pipeline {}": [
+  "org/openpnp/machine/reference/camera/GstreamerCamera.class"
+ ],
+ "Failed parsing pipeline {}": [
+  "org/openpnp/machine/reference/camera/GstreamerCamera.class"
+ ],
+ "Set pipeline: {}": [
+  "org/openpnp/machine/reference/camera/GstreamerCamera.class"
+ ],
+ "Part \u0001 has no footprint.": [
+  "org/openpnp/machine/reference/camera/ImageCamera.class"
+ ],
+ "No PnP location recognized in target view at location \u0001": [
+  "org/openpnp/machine/reference/camera/ImageCamera.class"
+ ],
+ "No good PnP location recognized in target area at location \u0001. Best match score \u0001 does not meet \u0001, distance \u0001": [
+  "org/openpnp/machine/reference/camera/ImageCamera.class"
+ ],
+ "PnP location distance \u0001mm greater than allowed \u0001mm + (\u0001mm px tol), match \u0001, at location \u0001": [
+  "org/openpnp/machine/reference/camera/ImageCamera.class"
+ ],
+ "PnP location distance \u0001mm from best match score \u0001": [
+  "org/openpnp/machine/reference/camera/ImageCamera.class"
+ ],
+ "Content-Length: ": [
+  "org/openpnp/machine/reference/camera/MjpgCaptureCamera.class"
+ ],
+ "Invalid image size": [
+  "org/openpnp/machine/reference/camera/MjpgCaptureCamera.class"
+ ],
+ "Unknown error communicating with MJPG stream at \u0001: \u0001": [
+  "org/openpnp/machine/reference/camera/MjpgCaptureCamera.class"
+ ],
+ "IOException reading from MJPG stream: \u0001": [
+  "org/openpnp/machine/reference/camera/MjpgCaptureCamera.class"
+ ],
+ "Could not read header from MJPG stream: \u0001": [
+  "org/openpnp/machine/reference/camera/MjpgCaptureCamera.class"
+ ],
+ "Incomplete header in MJPG stream: \u0001\r\n\u0001": [
+  "org/openpnp/machine/reference/camera/MjpgCaptureCamera.class"
+ ],
+ "Invalid JPG frame in MJPG steram: \u0001\r\n\u0001": [
+  "org/openpnp/machine/reference/camera/MjpgCaptureCamera.class"
+ ],
+ "Incomplete JPG frame in MJPG stream: \u0001": [
+  "org/openpnp/machine/reference/camera/MjpgCaptureCamera.class"
+ ],
+ "Snapshot URI: \u0001": [
+  "org/openpnp/machine/reference/camera/OnvifIPCamera.class"
+ ],
+ "Could not connect to IP camera at \u0001: \u0001": [
+  "org/openpnp/machine/reference/camera/OnvifIPCamera.class"
+ ],
+ "Error communicating with IP camera at \u0001: \u0001": [
+  "org/openpnp/machine/reference/camera/OnvifIPCamera.class"
+ ],
+ "Malformed URL for IP camera at \u0001: \u0001": [
+  "org/openpnp/machine/reference/camera/OnvifIPCamera.class"
+ ],
+ "Unknown error initializing IP camera at \u0001: \u0001": [
+  "org/openpnp/machine/reference/camera/OnvifIPCamera.class"
+ ],
+ "No JPEG profiles available for camera at \u0001": [
+  "org/openpnp/machine/reference/camera/OnvifIPCamera.class"
+ ],
+ "Unknown error communicating with IP camera at \u0001: \u0001": [
+  "org/openpnp/machine/reference/camera/OnvifIPCamera.class"
+ ],
+ "Setting property {} on camera {} to {}": [
+  "org/openpnp/machine/reference/camera/OpenCvCamera.class"
+ ],
+ "Setting camera {} width to {}": [
+  "org/openpnp/machine/reference/camera/OpenCvCamera.class"
+ ],
+ "Camera {} reports width {}": [
+  "org/openpnp/machine/reference/camera/OpenCvCamera.class"
+ ],
+ "Setting camera {} height to {}": [
+  "org/openpnp/machine/reference/camera/OpenCvCamera.class"
+ ],
+ "Camera {} reports height {}": [
+  "org/openpnp/machine/reference/camera/OpenCvCamera.class"
+ ],
+ "Multiple cameras found with ID {} for camera {}": [
+  "org/openpnp/machine/reference/camera/OpenPnpCaptureCamera.class"
+ ],
+ "No camera found with ID {} for camera {}": [
+  "org/openpnp/machine/reference/camera/OpenPnpCaptureCamera.class"
+ ],
+ "No format found with ID {} for camera {}": [
+  "org/openpnp/machine/reference/camera/OpenPnpCaptureCamera.class"
+ ],
+ "open called with null device": [
+  "org/openpnp/machine/reference/camera/OpenPnpCaptureCamera.class"
+ ],
+ "open called with null format": [
+  "org/openpnp/machine/reference/camera/OpenPnpCaptureCamera.class"
+ ],
+ "Camera stream not properly initialized.": [
+  "org/openpnp/machine/reference/camera/OpenPnpCaptureCamera.class"
+ ],
+ "Camera {} failed to return an image. Retrying.": [
+  "org/openpnp/machine/reference/camera/ReferenceCamera.class"
+ ],
+ "Camera {} failed to return an image after {} tries.": [
+  "org/openpnp/machine/reference/camera/ReferenceCamera.class"
+ ],
+ "The camera \u0001 exposure is too low!": [
+  "org/openpnp/machine/reference/camera/ReferenceCamera.class"
+ ],
+ "Image does not contain grayscales at level \u0001 ... \u0001%.": [
+  "org/openpnp/machine/reference/camera/ReferenceCamera.class"
+ ],
+ "SwitcherCamera \u0001 failed to actuate \u0001 with timeout.": [
+  "org/openpnp/machine/reference/camera/SwitcherCamera.class"
+ ],
+ "SwitcherCamera \u0001 failed to actuate \u0001 with exception.": [
+  "org/openpnp/machine/reference/camera/SwitcherCamera.class"
+ ],
+ "SwitcherCamera \u0001 failed to obtain switcher lock within timeout.": [
+  "org/openpnp/machine/reference/camera/SwitcherCamera.class"
+ ],
+ "SwitcherCamera \u0001 was interrupted trying to obtain switcher lock.": [
+  "org/openpnp/machine/reference/camera/SwitcherCamera.class"
+ ],
+ "Upgrading AdvancedCalibration.pipeline": [
+  "org/openpnp/machine/reference/camera/calibration/AdvancedCalibration.class"
+ ],
+ "Falling back to assigning default AdvancedCalibration.pipeline.": [
+  "org/openpnp/machine/reference/camera/calibration/AdvancedCalibration.class"
+ ],
+ "Model didn't converge as expected - camera matrix has much larger magnitudes than expected": [
+  "org/openpnp/machine/reference/camera/calibration/AdvancedCalibration.class"
+ ],
+ "Model didn't converge as expected - distortion coefficients have much larger magnitudes than expected, resetting them to zero.": [
+  "org/openpnp/machine/reference/camera/calibration/AdvancedCalibration.class"
+ ],
+ "Physical camera rotational errors from ideal (as measured by the right hand rule about each machine axis):": [
+  "org/openpnp/machine/reference/camera/calibration/AdvancedCalibration.class"
+ ],
+ "Z axis rotational error = {} degrees": [
+  "org/openpnp/machine/reference/camera/calibration/AdvancedCalibration.class"
+ ],
+ "Y axis rotational error = {} degrees": [
+  "org/openpnp/machine/reference/camera/calibration/AdvancedCalibration.class"
+ ],
+ "X axis rotational error = {} degrees": [
+  "org/openpnp/machine/reference/camera/calibration/AdvancedCalibration.class"
+ ],
+ "initial cameraMatrix = \u0001": [
+  "org/openpnp/machine/reference/camera/calibration/AdvancedCalibration.class"
+ ],
+ "Calib3d.calibrateCamera rms = \u0001": [
+  "org/openpnp/machine/reference/camera/calibration/AdvancedCalibration.class"
+ ],
+ "width field of view [deg] = \u0001": [
+  "org/openpnp/machine/reference/camera/calibration/AdvancedCalibration.class"
+ ],
+ "height field of view [deg] = \u0001": [
+  "org/openpnp/machine/reference/camera/calibration/AdvancedCalibration.class"
+ ],
+ "Camera model failed to converge. Try increasing the number of Radial Lines Per Cal Z.": [
+  "org/openpnp/machine/reference/camera/calibration/CameraCalibrationUtils.class"
+ ],
+ "No outliers found in the data set": [
+  "org/openpnp/machine/reference/camera/calibration/CameraCalibrationUtils.class"
+ ],
+ "Repeating parameter estimation with {} outliers removed from the set of {} points": [
+  "org/openpnp/machine/reference/camera/calibration/CameraCalibrationUtils.class"
+ ],
+ "Iteration failed to converge": [
+  "org/openpnp/machine/reference/camera/calibration/CameraCalibrationUtils.class"
+ ],
+ "rms error = \u0001": [
+  "org/openpnp/machine/reference/camera/calibration/CameraCalibrationUtils.class"
+ ],
+ "number of evaluations = \u0001": [
+  "org/openpnp/machine/reference/camera/calibration/CameraCalibrationUtils.class"
+ ],
+ "number of iterations = \u0001": [
+  "org/openpnp/machine/reference/camera/calibration/CameraCalibrationUtils.class"
+ ],
+ "Index of outliers found in the data set: \u0001": [
+  "org/openpnp/machine/reference/camera/calibration/CameraCalibrationUtils.class"
+ ],
+ "Distortion Coefficients have extreme values - resetting all to zero": [
+  "org/openpnp/machine/reference/camera/calibration/LensCalibrationParams.class"
+ ],
+ "A nozzle tip must be loaded, or the \"unloaded\" nozzle tip stand-in must be defined.": [
+  "org/openpnp/machine/reference/camera/wizards/AutoFocusProviderConfigurationWizard$1.class"
+ ],
+ "Expected \u0001 to be a ReferenceNozzle": [
+  "org/openpnp/machine/reference/camera/wizards/AutoFocusProviderConfigurationWizard$1.class",
+  "org/openpnp/machine/reference/camera/wizards/AutoFocusProviderConfigurationWizard$2.class"
+ ],
+ "Nozzle \u0001 has part on. Use nozzle tip to measure.": [
+  "org/openpnp/machine/reference/camera/wizards/AutoFocusProviderConfigurationWizard$2.class"
+ ],
+ "Expected \u0001 to be a ReferenceCamera": [
+  "org/openpnp/machine/reference/camera/wizards/AutoFocusProviderConfigurationWizard$2.class"
+ ],
+ "Nozzle \u0001 unexpected location. Please center and focus first.": [
+  "org/openpnp/machine/reference/camera/wizards/AutoFocusProviderConfigurationWizard$2.class"
+ ],
+ "Setting camera \u0001 Z to \u0001 (previously \u0001": [
+  "org/openpnp/machine/reference/camera/wizards/AutoFocusProviderConfigurationWizard$2.class",
+  "org/openpnp/machine/reference/solutions/VisionSolutions.class"
+ ],
+ "Adjust Camera Z": [
+  "org/openpnp/machine/reference/camera/wizards/AutoFocusProviderConfigurationWizard.class"
+ ],
+ "Auto Focus Settings": [
+  "org/openpnp/machine/reference/camera/wizards/AutoFocusProviderConfigurationWizard.class"
+ ],
+ "Focal Resolution": [
+  "org/openpnp/machine/reference/camera/wizards/AutoFocusProviderConfigurationWizard.class"
+ ],
+ "Finest step length to seek the best focus.": [
+  "org/openpnp/machine/reference/camera/wizards/AutoFocusProviderConfigurationWizard.class"
+ ],
+ "Averaged Frames": [
+  "org/openpnp/machine/reference/camera/wizards/AutoFocusProviderConfigurationWizard.class"
+ ],
+ "Number of camera frames captured and averaged to reduce camera noise and improve the auto focus.": [
+  "org/openpnp/machine/reference/camera/wizards/AutoFocusProviderConfigurationWizard.class"
+ ],
+ "Focus Speed": [
+  "org/openpnp/machine/reference/camera/wizards/AutoFocusProviderConfigurationWizard.class"
+ ],
+ "Focus motion speed factor.": [
+  "org/openpnp/machine/reference/camera/wizards/AutoFocusProviderConfigurationWizard.class"
+ ],
+ "Show Diagnostics?": [
+  "org/openpnp/machine/reference/camera/wizards/AutoFocusProviderConfigurationWizard.class"
+ ],
+ "Show detected edges and Auto Focus status text in the camera view.": [
+  "org/openpnp/machine/reference/camera/wizards/AutoFocusProviderConfigurationWizard.class"
+ ],
+ "Last Focus Distance": [
+  "org/openpnp/machine/reference/camera/wizards/AutoFocusProviderConfigurationWizard.class"
+ ],
+ "GStreamer Pipeline": [
+  "org/openpnp/machine/reference/camera/wizards/GstreamerCameraConfigurationWizard.class"
+ ],
+ "Pipeline launch string": [
+  "org/openpnp/machine/reference/camera/wizards/GstreamerCameraConfigurationWizard.class"
+ ],
+ "Camera IP Address and Port Number": [
+  "org/openpnp/machine/reference/camera/wizards/MjpgCaptureCameraWizard.class"
+ ],
+ "Timeout [ms]": [
+  "org/openpnp/machine/reference/camera/wizards/MjpgCaptureCameraWizard.class"
+ ],
+ "Camera IP": [
+  "org/openpnp/machine/reference/camera/wizards/OnvifIPCameraConfigurationWizard.class"
+ ],
+ "Target Width": [
+  "org/openpnp/machine/reference/camera/wizards/OnvifIPCameraConfigurationWizard.class"
+ ],
+ "Target Height": [
+  "org/openpnp/machine/reference/camera/wizards/OnvifIPCameraConfigurationWizard.class"
+ ],
+ "Read Property Value": [
+  "org/openpnp/machine/reference/camera/wizards/OpenCvCameraConfigurationWizard$2.class"
+ ],
+ "Read the current property value directly from the camera.": [
+  "org/openpnp/machine/reference/camera/wizards/OpenCvCameraConfigurationWizard$2.class"
+ ],
+ "USB Device Index": [
+  "org/openpnp/machine/reference/camera/wizards/OpenCvCameraConfigurationWizard.class"
+ ],
+ "Preferred Width": [
+  "org/openpnp/machine/reference/camera/wizards/OpenCvCameraConfigurationWizard.class"
+ ],
+ "Preferred Height": [
+  "org/openpnp/machine/reference/camera/wizards/OpenCvCameraConfigurationWizard.class"
+ ],
+ "Properties (Experimental)": [
+  "org/openpnp/machine/reference/camera/wizards/OpenCvCameraConfigurationWizard.class"
+ ],
+ "Set Before Open": [
+  "org/openpnp/machine/reference/camera/wizards/OpenCvCameraConfigurationWizard.class"
+ ],
+ "Set After Open": [
+  "org/openpnp/machine/reference/camera/wizards/OpenCvCameraConfigurationWizard.class"
+ ],
+ "Actuator Delay (ms)": [
+  "org/openpnp/machine/reference/camera/wizards/SwitcherCameraConfigurationWizard.class"
+ ],
+ "Device ID": [
+  "org/openpnp/machine/reference/camera/wizards/WebcamConfigurationWizard.class"
+ ],
+ "Force Grayscale?": [
+  "org/openpnp/machine/reference/camera/wizards/WebcamConfigurationWizard.class"
+ ],
+ "Webcam connected: %s \n": [
+  "org/openpnp/machine/reference/camera/wizards/WebcamConfigurationWizard.class"
+ ],
+ "Webcam disconnected: %s \n": [
+  "org/openpnp/machine/reference/camera/wizards/WebcamConfigurationWizard.class"
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "Maximum Value": [
+  "org/openpnp/machine/reference/actuator/wizards/ThermistorToLinearSensorActuatorTransforms.class"
+ ],
+ "Voltage Reference": [
+  "org/openpnp/machine/reference/actuator/wizards/ThermistorToLinearSensorActuatorTransforms.class"
+ ],
+ "Linear Transform": [
+  "org/openpnp/machine/reference/actuator/wizards/ThermistorToLinearSensorActuatorTransforms.class"
+ ],
+ "Axes \u0001 and \u0001 both have the same type in a linear transformation.": [
+  "org/openpnp/machine/reference/axis/ReferenceLinearTransformAxis.class"
+ ],
+ "Axes \u0001 has a different input \u0001 axis than other linear transformation axes.": [
+  "org/openpnp/machine/reference/axis/ReferenceLinearTransformAxis.class"
+ ],
+ "Only an axis on a down-looking camera can be calibrated.": [
+  "org/openpnp/machine/reference/axis/wizards/BacklashCompensationConfigurationWizard$1.class"
+ ],
+ "Cam Clockwise Axis": [
+  "org/openpnp/machine/reference/axis/wizards/ReferenceCamClockwiseAxisConfigurationWizard.class"
+ ],
+ "Counter-Clockwise Axis": [
+  "org/openpnp/machine/reference/axis/wizards/ReferenceCamClockwiseAxisConfigurationWizard.class"
+ ],
+ "Cam Counter-Clockwise Axis": [
+  "org/openpnp/machine/reference/axis/wizards/ReferenceCamCounterClockwiseAxisConfigurationWizard.class"
+ ],
+ "Input Axis": [
+  "org/openpnp/machine/reference/axis/wizards/ReferenceCamCounterClockwiseAxisConfigurationWizard.class",
+  "org/openpnp/machine/reference/axis/wizards/ReferenceMappedAxisConfigurationWizard.class"
+ ],
+ "Cam Radius": [
+  "org/openpnp/machine/reference/axis/wizards/ReferenceCamCounterClockwiseAxisConfigurationWizard.class"
+ ],
+ "Cam Arms Angle": [
+  "org/openpnp/machine/reference/axis/wizards/ReferenceCamCounterClockwiseAxisConfigurationWizard.class"
+ ],
+ "Angle between the two arms": [
+  "org/openpnp/machine/reference/axis/wizards/ReferenceCamCounterClockwiseAxisConfigurationWizard.class"
+ ],
+ "Cam Wheel Radius": [
+  "org/openpnp/machine/reference/axis/wizards/ReferenceCamCounterClockwiseAxisConfigurationWizard.class"
+ ],
+ "Cam Wheel Gap": [
+  "org/openpnp/machine/reference/axis/wizards/ReferenceCamCounterClockwiseAxisConfigurationWizard.class"
+ ],
+ "Linear Transformation": [
+  "org/openpnp/machine/reference/axis/wizards/ReferenceLinearTransformAxisConfigurationWizard.class"
+ ],
+ "Axis Mapping": [
+  "org/openpnp/machine/reference/axis/wizards/ReferenceMappedAxisConfigurationWizard.class"
+ ],
+ "Map Point A": [
+  "org/openpnp/machine/reference/axis/wizards/ReferenceMappedAxisConfigurationWizard.class"
+ ],
+ "Map Point B": [
+  "org/openpnp/machine/reference/axis/wizards/ReferenceMappedAxisConfigurationWizard.class"
+ ],
+ "New Actuator...": [
+  "org/openpnp/machine/reference/psh/ActuatorsPropertySheetHolder$1.class"
+ ],
+ "Camera Error": [
+  "org/openpnp/machine/reference/psh/ActuatorsPropertySheetHolder$1.class",
+  "org/openpnp/machine/reference/psh/CamerasPropertySheetHolder$1.class"
+ ],
+ "New Axis...": [
+  "org/openpnp/machine/reference/psh/AxesPropertySheetHolder$1.class"
+ ],
+ "Axis Error": [
+  "org/openpnp/machine/reference/psh/AxesPropertySheetHolder$1.class"
+ ],
+ "Couldn't set default vision provider.": [
+  "org/openpnp/machine/reference/psh/CamerasPropertySheetHolder$1.class"
+ ],
+ "Driver Error": [
+  "org/openpnp/machine/reference/psh/DriversPropertySheetHolder$1.class"
+ ],
+ "New Nozzle...": [
+  "org/openpnp/machine/reference/psh/NozzlesPropertySheetHolder$1.class"
+ ],
+ "New Signaler...": [
+  "org/openpnp/machine/reference/psh/SignalersPropertySheetHolder$1.class"
+ ]
+}

@@ -1,0 +1,821 @@
+{
+ "About OpenPnP %s": [
+  "org/openpnp/gui/AboutDialog.class"
+ ],
+ "Lucida Grande": [
+  "org/openpnp/gui/AboutDialog.class",
+  "org/openpnp/gui/JogControlsPanel.class",
+  "org/openpnp/gui/SubmitDiagnosticsDialog.class",
+  "org/openpnp/gui/Welcome2_0Dialog.class",
+  "org/openpnp/machine/reference/feeder/wizards/AdvancedLoosePartFeederConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferenceLoosePartFeederConfigurationWizard.class"
+ ],
+ "Copyright © Jason von Nieda and OpenPnP Contributors": [
+  "org/openpnp/gui/AboutDialog.class"
+ ],
+ "Release Notes": [
+  "org/openpnp/gui/AboutDialog.class"
+ ],
+ "Set Boolean Value": [
+  "org/openpnp/gui/ActuatorControlDialog.class"
+ ],
+ "Set Value": [
+  "org/openpnp/gui/ActuatorControlDialog.class"
+ ],
+ "Set Profile": [
+  "org/openpnp/gui/ActuatorControlDialog.class"
+ ],
+ "Read Value": [
+  "org/openpnp/gui/ActuatorControlDialog.class"
+ ],
+ "Read with Double": [
+  "org/openpnp/gui/ActuatorControlDialog.class"
+ ],
+ "Remove Board": [
+  "org/openpnp/gui/BoardsPanel.class"
+ ],
+ "Search failed": [
+  "org/openpnp/gui/FeedersPanel.class",
+  "org/openpnp/gui/PackagesPanel.class",
+  "org/openpnp/gui/PartsPanel.class"
+ ],
+ "There are currently no parts defined in the system. Please create at least one part before creating a feeder.": [
+  "org/openpnp/gui/FeedersPanel.class"
+ ],
+ "Feeder Error": [
+  "org/openpnp/gui/FeedersPanel.class"
+ ],
+ "Part vacuum-detected on nozzle before pick.": [
+  "org/openpnp/gui/FeedersPanel.class",
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$Pick.class"
+ ],
+ "No part detected.": [
+  "org/openpnp/gui/FeedersPanel.class"
+ ],
+ "Feeder has not part set.": [
+  "org/openpnp/gui/FeedersPanel.class"
+ ],
+ "Feeder \u0001 has no part.": [
+  "org/openpnp/gui/FeedersPanel.class",
+  "org/openpnp/machine/reference/feeder/wizards/AdvancedLoosePartFeederConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferenceLoosePartFeederConfigurationWizard.class"
+ ],
+ "Don't know how to change from state \u0001": [
+  "org/openpnp/gui/JobPanel$13.class"
+ ],
+ "OpenPnP - %s%s": [
+  "org/openpnp/gui/JobPanel.class"
+ ],
+ "Exception source is board location: {}": [
+  "org/openpnp/gui/JobPanel.class"
+ ],
+ "Exception source is placement: {}": [
+  "org/openpnp/gui/JobPanel.class"
+ ],
+ "Exception source is part: {}": [
+  "org/openpnp/gui/JobPanel.class"
+ ],
+ "Exception source is feeder: {}": [
+  "org/openpnp/gui/JobPanel.class"
+ ],
+ "Exception source is nozzle: {}": [
+  "org/openpnp/gui/JobPanel.class"
+ ],
+ "Exception contains an unsupported source: {}": [
+  "org/openpnp/gui/JobPanel.class"
+ ],
+ "Can't resume, job not in Paused state.": [
+  "org/openpnp/gui/JobPanel.class"
+ ],
+ "No Part on the current nozzle!": [
+  "org/openpnp/gui/JogControlsPanel$17.class"
+ ],
+ "jog blocked while modal dialog is open": [
+  "org/openpnp/gui/JogControlsPanel.class"
+ ],
+ "X:%-9s Y:%-9s Z:%-9s C:%-9s": [
+  "org/openpnp/gui/MachineControlsPanel.class"
+ ],
+ "Unable to launch update application.": [
+  "org/openpnp/gui/MainFrame$22.class"
+ ],
+ "Wizard does not have a valid Id.": [
+  "org/openpnp/gui/MainFrame.class"
+ ],
+ "Another wizard (%s - %s) already has an active process, it must complete or be cancelled before this wizard can start another process.": [
+  "org/openpnp/gui/MainFrame.class"
+ ],
+ "Configuration Load Error": [
+  "org/openpnp/gui/MainFrame.class"
+ ],
+ "OpenPnp - Camera": [
+  "org/openpnp/gui/MainFrame.class"
+ ],
+ "OpenPnp - Machine Controls": [
+  "org/openpnp/gui/MainFrame.class"
+ ],
+ "mac os x": [
+  "org/openpnp/gui/MainFrame.class"
+ ],
+ "Save Preferences": [
+  "org/openpnp/gui/MainFrame.class"
+ ],
+ "Configuration Save Error": [
+  "org/openpnp/gui/MainFrame.class"
+ ],
+ "Config saved successfully!": [
+  "org/openpnp/gui/MainFrame.class"
+ ],
+ "Shutting down...": [
+  "org/openpnp/gui/MainFrame.class"
+ ],
+ "Shutdown complete, exiting.": [
+  "org/openpnp/gui/MainFrame.class"
+ ],
+ "There was a problem loading the configuration. The reason was:<br/><br/>\u0001<br/><br/>Please check your configuration files and try again. They are located at: \u0001<br/><br/>If you would like to start with a fresh configuration, just delete the entire directory at the location above.<br/><br/>Retry loading (else openpnp will exit) ?": [
+  "org/openpnp/gui/MainFrame.class"
+ ],
+ "Error while loading the OSXAdapter: \u0001": [
+  "org/openpnp/gui/MainFrame.class"
+ ],
+ "There was a problem saving the configuration. The reason was:\n\n\u0001\n\n": [
+  "org/openpnp/gui/MainFrame.class"
+ ],
+ "There was a problem saving the configuration. The reason was:\n\n\u0001\n\nDo you want to quit without saving?": [
+  "org/openpnp/gui/MainFrame.class"
+ ],
+ "Please enter an ID for the pasted package.": [
+  "org/openpnp/gui/PackagesPanel$10.class"
+ ],
+ "Paste Failed": [
+  "org/openpnp/gui/PackagesPanel$10.class",
+  "org/openpnp/gui/PartsPanel$10.class",
+  "org/openpnp/gui/VisionSettingsPanel$5.class",
+  "org/openpnp/machine/reference/driver/wizards/GcodeDriverGcodes$7.class",
+  "org/openpnp/machine/reference/driver/wizards/GcodeDriverSettings$5.class"
+ ],
+ "Package ID \u0001 already exists.": [
+  "org/openpnp/gui/PackagesPanel$10.class",
+  "org/openpnp/gui/PackagesPanel$7.class"
+ ],
+ "Please enter an ID for the new package.": [
+  "org/openpnp/gui/PackagesPanel$7.class"
+ ],
+ "Copy Failed": [
+  "org/openpnp/gui/PackagesPanel$9.class",
+  "org/openpnp/gui/PartsPanel$9.class",
+  "org/openpnp/gui/VisionSettingsPanel$4.class",
+  "org/openpnp/machine/reference/driver/wizards/GcodeDriverGcodes$6.class",
+  "org/openpnp/machine/reference/driver/wizards/GcodeDriverSettings$4.class"
+ ],
+ "package selection index {} out of bounds": [
+  "org/openpnp/gui/PackagesPanel.class"
+ ],
+ "Please enter an ID for the pasted part.": [
+  "org/openpnp/gui/PartsPanel$10.class"
+ ],
+ "Part ID \u0001 already exists.": [
+  "org/openpnp/gui/PartsPanel$10.class",
+  "org/openpnp/gui/PartsPanel$6.class"
+ ],
+ "There are currently no packages defined in the system. Please create at least one package before creating a part.": [
+  "org/openpnp/gui/PartsPanel$6.class"
+ ],
+ "Please enter an ID for the new part.": [
+  "org/openpnp/gui/PartsPanel$6.class"
+ ],
+ "No valid feeder found for \u0001": [
+  "org/openpnp/gui/PartsPanel$8.class"
+ ],
+ "part selection index {} out of bounds": [
+  "org/openpnp/gui/PartsPanel.class"
+ ],
+ "OpenPnP Diagnostics Images": [
+  "org/openpnp/gui/SubmitDiagnosticsDialog$1.class"
+ ],
+ "OpenPnP Diagnostics": [
+  "org/openpnp/gui/SubmitDiagnosticsDialog$1.class"
+ ],
+ "OpenPnP Diagnostics\n\nImages: %s\n\nDescription: %s\n\nFiles:\n\n%s": [
+  "org/openpnp/gui/SubmitDiagnosticsDialog$1.class"
+ ],
+ "Submit Failed": [
+  "org/openpnp/gui/SubmitDiagnosticsDialog$1.class"
+ ],
+ "Created diagnostics package at: \u0001": [
+  "org/openpnp/gui/SubmitDiagnosticsDialog$1.class"
+ ],
+ "Submit Diagnostics": [
+  "org/openpnp/gui/SubmitDiagnosticsDialog.class"
+ ],
+ "Describe the problem you are experiencing below, select the checkboxes to include content that will help the developers resolve your issue, then click send.\n\nWhen the upload finishes your browser will open to Pastebin. You may be prompted to enter a captcha to complete the process - this is normal. You can then copy the URL to share it.\n\nBe aware that the information you send may be visible to the OpenPnP community, so you should not include private or proprietary information.": [
+  "org/openpnp/gui/SubmitDiagnosticsDialog.class"
+ ],
+ "Warning: If you include a screenshot or Vision Debug Images these images may include output from your machine's cameras. If these images contain content you don't want to share you should uncheck these options. You can review the images from the generated link before sharing it.": [
+  "org/openpnp/gui/SubmitDiagnosticsDialog.class"
+ ],
+ "Please Describe The Issue": [
+  "org/openpnp/gui/SubmitDiagnosticsDialog.class"
+ ],
+ "Latest Log File": [
+  "org/openpnp/gui/SubmitDiagnosticsDialog.class"
+ ],
+ "Anonymous System Information": [
+  "org/openpnp/gui/SubmitDiagnosticsDialog.class"
+ ],
+ "Current Job Data (Job Will Be Saved First)": [
+  "org/openpnp/gui/SubmitDiagnosticsDialog.class"
+ ],
+ "OpenPnP Window Screen Shot": [
+  "org/openpnp/gui/SubmitDiagnosticsDialog.class"
+ ],
+ "Vision Debug Images (10 Newest)": [
+  "org/openpnp/gui/SubmitDiagnosticsDialog.class"
+ ],
+ "Memory Total: %.2f\n": [
+  "org/openpnp/gui/SubmitDiagnosticsDialog.class"
+ ],
+ "Memory Free: %.2f\n": [
+  "org/openpnp/gui/SubmitDiagnosticsDialog.class"
+ ],
+ "Memory Max: %.2f\n": [
+  "org/openpnp/gui/SubmitDiagnosticsDialog.class"
+ ],
+ "OpenPnp Version: %s": [
+  "org/openpnp/gui/SubmitDiagnosticsDialog.class"
+ ],
+ "vision settings selection index {} out of bounds": [
+  "org/openpnp/gui/VisionSettingsPanel.class"
+ ],
+ "Copyright © 2011 - 2025 Jason von Nieda and contributors": [
+  "org/openpnp/gui/Welcome2_0Dialog.class"
+ ],
+ "Show All Horizontal": [
+  "org/openpnp/gui/components/CameraPanel.class"
+ ],
+ "Show All Vertical": [
+  "org/openpnp/gui/components/CameraPanel.class"
+ ],
+ "Show None": [
+  "org/openpnp/gui/components/CameraPanel.class"
+ ],
+ "Failed to load camera specific reticle, checking default.": [
+  "org/openpnp/gui/components/CameraView.class"
+ ],
+ "No reticle preference found.": [
+  "org/openpnp/gui/components/CameraView.class"
+ ],
+ "Resolution: %d x %d\nZoom: %d%%\nFPS: %.1f\nHistogram:": [
+  "org/openpnp/gui/components/CameraView.class"
+ ],
+ "Enter the size in %s": [
+  "org/openpnp/gui/components/CameraViewPopupMenu$22.class"
+ ],
+ "Show Image Info?": [
+  "org/openpnp/gui/components/CameraViewPopupMenu.class"
+ ],
+ "Estimate Z Coordinate of Object": [
+  "org/openpnp/gui/components/CameraViewPopupMenu.class"
+ ],
+ "Move Selected Nozzle to Camera": [
+  "org/openpnp/gui/components/CameraViewPopupMenu.class"
+ ],
+ "Zoom Sensitivity": [
+  "org/openpnp/gui/components/CameraViewPopupMenu.class"
+ ],
+ "One mouse wheel tick changes the zoom by 2x.": [
+  "org/openpnp/gui/components/CameraViewPopupMenu.class"
+ ],
+ "Two mouse wheel ticks change the zoom by 2x.": [
+  "org/openpnp/gui/components/CameraViewPopupMenu.class"
+ ],
+ "Four mouse wheel ticks change the zoom by 2x.": [
+  "org/openpnp/gui/components/CameraViewPopupMenu.class"
+ ],
+ "Rendering Quality": [
+  "org/openpnp/gui/components/CameraViewPopupMenu.class"
+ ],
+ "Low Quality": [
+  "org/openpnp/gui/components/CameraViewPopupMenu.class"
+ ],
+ "High Quality": [
+  "org/openpnp/gui/components/CameraViewPopupMenu.class"
+ ],
+ "Highest Quality (best scale)": [
+  "org/openpnp/gui/components/CameraViewPopupMenu.class"
+ ],
+ "Units Per Tick": [
+  "org/openpnp/gui/components/CameraViewPopupMenu.class"
+ ],
+ "Please select an implemention class from the list.": [
+  "org/openpnp/gui/components/ClassSelectionDialog.class"
+ ],
+ "Unsupported operation for class \u0001": [
+  "org/openpnp/gui/components/ExistingBoardOrPanelDialog.class"
+ ],
+ "4, \u0001, fill, fill": [
+  "org/openpnp/gui/components/IssuePanel.class"
+ ],
+ "2, \u0001, right, default": [
+  "org/openpnp/gui/components/IssuePanel.class",
+  "org/openpnp/gui/components/PipelineControls.class"
+ ],
+ "4, \u0001,fill, fill": [
+  "org/openpnp/gui/components/IssuePanel.class"
+ ],
+ "4, \u0001, left, default": [
+  "org/openpnp/gui/components/IssuePanel.class"
+ ],
+ "4, \u0001, left, fill": [
+  "org/openpnp/gui/components/IssuePanel.class"
+ ],
+ "Nozzle \u0001 is not a ContactProbeNozzle.": [
+  "org/openpnp/gui/components/LocationButtonsPanel$7.class"
+ ],
+ "No Actuator with name %s on Head %s": [
+  "org/openpnp/gui/components/LocationButtonsPanel.class"
+ ],
+ "4, \u0001, 7, 1, fill, default": [
+  "org/openpnp/gui/components/PipelineControls.class"
+ ],
+ "no data": [
+  "org/openpnp/gui/components/SimpleGraphView.class",
+  "org/openpnp/gui/components/VisionCompositingPreview.class"
+ ],
+ "no image": [
+  "org/openpnp/gui/components/TemplateImageControl.class"
+ ],
+ "IntelliJ Light": [
+  "org/openpnp/gui/components/ThemeSettingsPanel.class"
+ ],
+ "Altium .csv": [
+  "org/openpnp/gui/importer/AltiumCsvImporter.class"
+ ],
+ "Parsing \u0001 CSV FIle": [
+  "org/openpnp/gui/importer/CsvImporter$Dlg$SwingAction_2.class"
+ ],
+ "X units are in mils": [
+  "org/openpnp/gui/importer/CsvImporter.class"
+ ],
+ "Y units are in mils": [
+  "org/openpnp/gui/importer/CsvImporter.class"
+ ],
+ "Height units are in mils": [
+  "org/openpnp/gui/importer/CsvImporter.class"
+ ],
+ "Unable to find relevant headers' names.\n See https://github.com/openpnp/openpnp/wiki/Importing-Centroid-Data for more.": [
+  "org/openpnp/gui/importer/CsvImporter.class"
+ ],
+ "Byte Order Mark detected, will read \u0001 using UTF-16 character set": [
+  "org/openpnp/gui/importer/CsvImporter.class"
+ ],
+ "No Byte Order Mark detected, will read \u0001 using the default ISO-8859-1 character set": [
+  "org/openpnp/gui/importer/CsvImporter.class"
+ ],
+ "no part for placement \u0001 (\u0001) found, skipped.": [
+  "org/openpnp/gui/importer/CsvImporter.class"
+ ],
+ "Import Error": [
+  "org/openpnp/gui/importer/DipTraceImporter$Dlg$SwingAction_2.class",
+  "org/openpnp/gui/importer/LabcenterProteusImporter$Dlg$SwingAction_2.class"
+ ],
+ "The expected file format is the default file export in DipTrace PCB: File -> Export -> Pick and Place. The first line indicates RefDes, Name, X (mm), Y (mm), Side, Rotate, Value.The lines that follow are data.": [
+  "org/openpnp/gui/importer/DipTraceImporter$Dlg$SwingAction_2.class"
+ ],
+ "Diptrace .csv": [
+  "org/openpnp/gui/importer/DipTraceImporter.class"
+ ],
+ "CadSoft EAGLE Board": [
+  "org/openpnp/gui/importer/EagleBoardImporter.class"
+ ],
+ "Warning: \u0001contains a SMD pad that is not on a topLayer or bottomLayer": [
+  "org/openpnp/gui/importer/EagleBoardImporter.class"
+ ],
+ "Warning: \u0001 contains a Polygon pad - this functionality has been implmented as the smallest bounded rectangle and may over paste the area": [
+  "org/openpnp/gui/importer/EagleBoardImporter.class"
+ ],
+ "Vertex: X=\u0001 y=\u0001": [
+  "org/openpnp/gui/importer/EagleBoardImporter.class"
+ ],
+ "Pad generated width is \u0001 height \u0001 centered at x = \u0001 y = \u0001": [
+  "org/openpnp/gui/importer/EagleBoardImporter.class"
+ ],
+ "EAGLE mountsmd.ulp": [
+  "org/openpnp/gui/importer/EagleMountsmdUlpImporter.class"
+ ],
+ "Warning: Unsupported pad type: \u0001": [
+  "org/openpnp/gui/importer/KicadModImporter.class"
+ ],
+ "KiCAD .pos": [
+  "org/openpnp/gui/importer/KicadPosImporter.class"
+ ],
+ "PartId = 'Package'-'Value'": [
+  "org/openpnp/gui/importer/KicadPosImporterDialog.class"
+ ],
+ "The expected file format is the default file export in Labcenter Proteus Data after header information should be :\nPart ID, Value, Package,[Stock Code,] Layer, Rotation, X, Y\nLikely cause: the number of data fields does not match expected input\nie: Include stock codes check box is not checked but file has stock codes": [
+  "org/openpnp/gui/importer/LabcenterProteusImporter$Dlg$SwingAction_2.class"
+ ],
+ "Labcenter Proteus .pkp": [
+  "org/openpnp/gui/importer/LabcenterProteusImporter.class"
+ ],
+ "Blank line must skip this": [
+  "org/openpnp/gui/importer/LabcenterProteusImporter.class"
+ ],
+ "units are inches": [
+  "org/openpnp/gui/importer/LabcenterProteusImporter.class"
+ ],
+ "include stock codes \u0001": [
+  "org/openpnp/gui/importer/LabcenterProteusImporter.class"
+ ],
+ "create Missing Parts \u0001": [
+  "org/openpnp/gui/importer/LabcenterProteusImporter.class"
+ ],
+ "Reference CSV": [
+  "org/openpnp/gui/importer/ReferenceCsvImporter.class"
+ ],
+ "X (MM)": [
+  "org/openpnp/gui/importer/ReferenceCsvImporter.class"
+ ],
+ "REF X": [
+  "org/openpnp/gui/importer/ReferenceCsvImporter.class"
+ ],
+ "Y (MM)": [
+  "org/openpnp/gui/importer/ReferenceCsvImporter.class"
+ ],
+ "REF Y": [
+  "org/openpnp/gui/importer/ReferenceCsvImporter.class"
+ ],
+ "Gerber Solder Paste Layer": [
+  "org/openpnp/gui/importer/SolderPasteGerberImporter.class"
+ ],
+ "CircleAperture [diameter=\u0001, holeDiameter=\u0001]": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser$CircleAperture.class"
+ ],
+ "ObroundAperture [width=\u0001, height=\u0001, holeDiameter=\u0001]": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser$ObroundAperture.class"
+ ],
+ "PolygonAperture [numberOfVertices=\u0001, rotation=\u0001, diameter=\u0001, holeDiameter=\u0001]": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser$PolygonAperture.class"
+ ],
+ "RectangleAperture [width=\u0001, height=\u0001, holeDiameter=\u0001]": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser$RectangleAperture.class"
+ ],
+ "Interpolation most must be set before using D02": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Linear interpolation not yet supported": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Circular interpolation not yet supported": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Interpolation mode must be set before using D02": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Can't flash, no current aperture": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Can't flash in region mode": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Can't start region mode when already in region mode": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Can't add region line outside of region mode": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Linear interpolation in region mode not yet supported": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Can't add region arc outside of region mode": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Circular interpolation in region mode not yet supported": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Can't end region when not in region mode": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Can't exit region mode, not in region mode": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Expected start of extended code command": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Expected end of extended code command": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Expected aperture D code": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Unhandled aperture definition type %c, code %d": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Expected , in rectangle aperture definition": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Expected X in rectangle aperture definition": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Expected end of data block": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Expected , in circle aperture definition": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Expected , in obround aperture definition": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Expected X in obround aperture definition": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Expected X in polygon aperture definition": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Expected X coordinate format": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Invalid coordinate format, X integer part {}, should be >= 0 && <= 6": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Invalid coordinate format, X decimal part {}, should be >= 4 && <= 6": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Expected Y coordinate format": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Invalid coordinate format, Y integer part {}, should be >= 0 && <= 6": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Invalid coordinate format, Y decimal part {}, should be >= 4 && <= 6": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Coordinate format X does not match Y: %d.%d != %d.%d": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Incremental coordinate format not supported": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Trailing zero omission not supported": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Coordinate format not specified.": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Unexpected end of stream": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Uncaught error: \u0001": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Unknown function code \u0001": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Unknown G code \u0001": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Unknown reserved D code \u0001": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Unknown aperture \u0001": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Unknown M code \u0001": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Unknown extended command code \u0001": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Unknown unit code \u0001": [
+  "org/openpnp/gui/importer/rs274x/Rs274xParser.class"
+ ],
+ "Unable to create pseudo-placement {}, please send this log file to the developers as this should never occur:": [
+  "org/openpnp/gui/panelization/ChildFiducialSelectorDialog.class"
+ ],
+ "Unable to compute location of pseudo-placement {}, please send this log file to the developers as this should never occur:": [
+  "org/openpnp/gui/panelization/ChildFiducialSelectorDialog.class"
+ ],
+ "Calibration rig fiducial not found.": [
+  "org/openpnp/gui/processes/CalibrateCameraProcess$1.class",
+  "org/openpnp/gui/processes/CalibrateCameraProcess.class"
+ ],
+ "Estimating Units Per Pixel.": [
+  "org/openpnp/gui/processes/CalibrateCameraProcess$2.class"
+ ],
+ "Finding image center.": [
+  "org/openpnp/gui/processes/CalibrateCameraProcess$2.class"
+ ],
+ "Could not estimate units per pixel - calibration aborting.": [
+  "org/openpnp/gui/processes/CalibrateCameraProcess$2.class"
+ ],
+ "Initializing radial line %d of %d at calibration Z coordinate %d of %d": [
+  "org/openpnp/gui/processes/CalibrateCameraProcess$3.class"
+ ],
+ "Exceeded maximum error count - terminating calibration sequence.": [
+  "org/openpnp/gui/processes/CalibrateCameraProcess$3.class"
+ ],
+ "Collecting calibration points along radial line %d of %d, radial step %d, at calibration Z coordinate %d of %d": [
+  "org/openpnp/gui/processes/CalibrateCameraProcess$3.class"
+ ],
+ "Too many misdetects - retry and verify fiducial/nozzle tip detection.": [
+  "org/openpnp/gui/processes/CalibrateCameraProcess$3.class"
+ ],
+ "Camera Calibration Instructions/Status": [
+  "org/openpnp/gui/processes/CalibrateCameraProcess$3.class",
+  "org/openpnp/gui/processes/CalibrateCameraProcess.class"
+ ],
+ "Next button clicked by operator": [
+  "org/openpnp/gui/processes/CalibrateCameraProcess$4.class"
+ ],
+ "Calibration cancelled at operator's request": [
+  "org/openpnp/gui/processes/CalibrateCameraProcess$5.class"
+ ],
+ "Number of different calibration heights is less than 2.": [
+  "org/openpnp/gui/processes/CalibrateCameraProcess.class"
+ ],
+ "Number of detection diameters does not equal the number of calibration heights.": [
+  "org/openpnp/gui/processes/CalibrateCameraProcess.class"
+ ],
+ "Entering initialAction": [
+  "org/openpnp/gui/processes/CalibrateCameraProcess.class"
+ ],
+ "Using the jog controls on the Machine Controls panel, jog the camera so that the calibration fiducial at Z = %s is approximately centered in the green circle.  Click Next when ready to proceed.": [
+  "org/openpnp/gui/processes/CalibrateCameraProcess.class"
+ ],
+ "Select a nozzle and load it with the smallest available nozzle tip. Click Next when ready to proceed.": [
+  "org/openpnp/gui/processes/CalibrateCameraProcess.class"
+ ],
+ "Entering requestOperatorToAdjustDiameterAction": [
+  "org/openpnp/gui/processes/CalibrateCameraProcess.class"
+ ],
+ "Use the mouse scroll wheel to zoom in on the fiducial/nozzle tip and then adjust the Detection Diameter spinner until the red circle turns green with a + at its center and is sized to just fit the fiducial/nozzle tip with the + centered on the fiducial/nozzle tip. When ready, click Next to begin the automated calibration collection sequence.": [
+  "org/openpnp/gui/processes/CalibrateCameraProcess.class"
+ ],
+ "Entering fiducialDiameterIsSetAction": [
+  "org/openpnp/gui/processes/CalibrateCameraProcess.class"
+ ],
+ "Entering estimateUnitsPerPixelAction": [
+  "org/openpnp/gui/processes/CalibrateCameraProcess.class"
+ ],
+ "Entering collectCalibrationPointsAlongRadialLinesAction": [
+  "org/openpnp/gui/processes/CalibrateCameraProcess.class"
+ ],
+ "Entering repeatAction": [
+  "org/openpnp/gui/processes/CalibrateCameraProcess.class"
+ ],
+ "Entering requestOperatorToCenterNozzleTipAction": [
+  "org/openpnp/gui/processes/CalibrateCameraProcess.class"
+ ],
+ "Using the jog controls on the Machine Controls panel, jog the nozzle tip so that it is approximately in the center of the green circle. When ready, click Next to lower/raise the nozzle tip to the calibration height.": [
+  "org/openpnp/gui/processes/CalibrateCameraProcess.class"
+ ],
+ "Entering captureCentralLocationAction": [
+  "org/openpnp/gui/processes/CalibrateCameraProcess.class"
+ ],
+ "Entering changeNozzleTipHeightAction": [
+  "org/openpnp/gui/processes/CalibrateCameraProcess.class"
+ ],
+ "Entering requestOperatorToVerifyNozzleTipIsCenteredAction": [
+  "org/openpnp/gui/processes/CalibrateCameraProcess.class"
+ ],
+ "Using the jog controls on the Machine Controls panel, rotate the nozzle tip through 360 degrees and verify it stays within the green circle. If necessary, jog it in X and/or Y so that it remains within the circle when it is rotated. Click Next when ready.": [
+  "org/openpnp/gui/processes/CalibrateCameraProcess.class"
+ ],
+ "Entering captureVerifiedCentralLocationAction": [
+  "org/openpnp/gui/processes/CalibrateCameraProcess.class"
+ ],
+ "Couldn't find fiducial/nozzle tip in image": [
+  "org/openpnp/gui/processes/CalibrateCameraProcess.class"
+ ],
+ "Increasing mask diameter to \u0001": [
+  "org/openpnp/gui/processes/CalibrateCameraProcess.class"
+ ],
+ "Decreasing mask diameter to \u0001": [
+  "org/openpnp/gui/processes/CalibrateCameraProcess.class"
+ ],
+ "rotating to angle = \u0001": [
+  "org/openpnp/gui/processes/CalibrateCameraProcess.class"
+ ],
+ "Instructions to Estimate an Object's Z Coordinate": [
+  "org/openpnp/gui/processes/EstimateObjectZCoordinateProcess.class"
+ ],
+ "unavailable (due to \u0001)": [
+  "org/openpnp/gui/processes/EstimateObjectZCoordinateProcess.class"
+ ],
+ "Auto move is enabled for all placements.  To disable auto move for the first two placements, change auto-move-for-all-placements to false in MultiPlacementBoardLocationProperties section of machine.xml ": [
+  "org/openpnp/gui/processes/MultiPlacementBoardLocationProcess.class"
+ ],
+ "Auto move is disabled for the first two placements.  To enable auto move for all placements, change auto-move-for-all-placements to true in MultiPlacementBoardLocationProperties section of machine.xml ": [
+  "org/openpnp/gui/processes/MultiPlacementBoardLocationProcess.class"
+ ],
+ "Set Board Location (%d / 3)": [
+  "org/openpnp/gui/processes/MultiPlacementBoardLocationProcess.class"
+ ],
+ "Please select at least two placements.": [
+  "org/openpnp/gui/processes/MultiPlacementBoardLocationProcess.class"
+ ],
+ "Please position the camera.": [
+  "org/openpnp/gui/processes/MultiPlacementBoardLocationProcess.class"
+ ],
+ "Board location tolerance = \u0001": [
+  "org/openpnp/gui/processes/MultiPlacementBoardLocationProcess.class"
+ ],
+ "Board scaling tolerance = \u0001": [
+  "org/openpnp/gui/processes/MultiPlacementBoardLocationProcess.class"
+ ],
+ "Board shearing tolerance = \u0001": [
+  "org/openpnp/gui/processes/MultiPlacementBoardLocationProcess.class"
+ ],
+ "Board origin offset distance: \u0001 mm": [
+  "org/openpnp/gui/processes/MultiPlacementBoardLocationProcess.class"
+ ],
+ "Placement affine transform: \u0001": [
+  "org/openpnp/gui/processes/MultiPlacementBoardLocationProcess.class"
+ ],
+ "Results invalid because \u0001; double check to ensure you are jogging the camera to the correct placements.  Other potential remidies include setting the initial board X, Y, Z, and Rotation in the Boards panel; using a different set of placements; or changing the allowable tolerances in the MultiPlacementBoardLocationProperties section of machine.xml.": [
+  "org/openpnp/gui/processes/MultiPlacementBoardLocationProcess.class"
+ ],
+ "Validation Error": [
+  "org/openpnp/gui/support/AbstractConfigurationWizard.class"
+ ],
+ "Actuator: %s %s": [
+  "org/openpnp/gui/support/ActuatorItem.class"
+ ],
+ "Unable to parse \u0001": [
+  "org/openpnp/gui/support/AreaConverter.class",
+  "org/openpnp/gui/support/LengthConverter.class",
+  "org/openpnp/gui/support/VolumeConverter.class"
+ ],
+ "Camera: %s %s": [
+  "org/openpnp/gui/support/CameraItem.class"
+ ],
+ "HeadMountable: %s - %s": [
+  "org/openpnp/gui/support/HeadMountableItem.class"
+ ],
+ "WrappedBinding [source=\u0001, sourceProperty=\u0001, wrapper=\u0001, wrappedBinding=\u0001]": [
+  "org/openpnp/gui/support/JBindings$WrappedBinding.class"
+ ],
+ "No message supplied.": [
+  "org/openpnp/gui/support/MessageBoxes.class"
+ ],
+ "Not Yet Implemented": [
+  "org/openpnp/gui/support/MessageBoxes.class"
+ ],
+ "This function is not yet implemented.": [
+  "org/openpnp/gui/support/MessageBoxes.class"
+ ],
+ "Calling this function from general NamedComboBoxModel is not supported": [
+  "org/openpnp/gui/support/NamedComboBoxModel.class"
+ ],
+ "Nozzle: %s - %s%s %s": [
+  "org/openpnp/gui/support/NozzleItem.class"
+ ],
+ "No Nozzle Tip": [
+  "org/openpnp/gui/support/NozzleItem.class"
+ ],
+ "This version of Mac OS X does not support the Apple EAWT.  ApplicationEvent handling has been disabled (\u0001)": [
+  "org/openpnp/gui/support/OSXAdapter.class"
+ ],
+ "OSXAdapter was unable to handle an ApplicationEvent: \u0001": [
+  "org/openpnp/gui/support/OSXAdapter.class"
+ ],
+ "Invalid part id": [
+  "org/openpnp/gui/support/PartConverter.class"
+ ],
+ "Calling this function from general TableComboBoxModel is not supported": [
+  "org/openpnp/gui/support/TableComboBoxModel.class"
+ ],
+ "Wizard could not be constructed with the specified parameters": [
+  "org/openpnp/gui/support/WizardUtils.class"
+ ],
+ "PlacementsHolder Name": [
+  "org/openpnp/gui/tablemodel/PlacementsHolderTableModel.class"
+ ],
+ "Viewing of \u0001 types is not currently supported": [
+  "org/openpnp/gui/viewers/PlacementsHolderLocationViewer.class"
+ ],
+ "Capture the Z height that the selected tool is at.": [
+  "org/openpnp/gui/wizards/CameraConfigurationWizard$5.class"
+ ],
+ "Units Per Pixel Calibration Tool": [
+  "org/openpnp/gui/wizards/CameraConfigurationWizard.class"
+ ],
+ "Secondary measurement must be at sufficiently different Z. Please move the nozzle with object up/down in Z first.": [
+  "org/openpnp/gui/wizards/CameraConfigurationWizard.class"
+ ],
+ "Measurement aborted.": [
+  "org/openpnp/gui/wizards/CameraConfigurationWizard.class"
+ ],
+ "Solution: \u0001 | Min. shots: \u0001 | Max. shots: \u0001 | Computation: \u0001ms": [
+  "org/openpnp/gui/wizards/PackageCompositingWizard.class"
+ ],
+ "Please enter a name for the new pad.": [
+  "org/openpnp/gui/wizards/PackageVisionWizard$2.class"
+ ],
+ "Are you sure you want to delete all existing pads?": [
+  "org/openpnp/gui/wizards/PackageVisionWizard.class"
+ ],
+ "Delete all pads?": [
+  "org/openpnp/gui/wizards/PackageVisionWizard.class"
+ ]
+}

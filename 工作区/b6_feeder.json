@@ -1,0 +1,954 @@
+{
+"Part Z": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Get ID": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"OCR Font": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard.class"
+],
+"Pre Pick": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"Get pitch": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"Get Pitch": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"OCR text \u0001": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"OCR Action": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard.class"
+],
+"OCR Margin": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard.class"
+],
+"OCR Detect": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Get Tool Z": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Auto Setup": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Open Cover": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Feeder No.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Cover Type": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Push speed": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Dummy Part": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceHeapFeederConfigurationWizard.class"
+],
+"OCR Report": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$10.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$12.class"
+],
+"Tray Count": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceTrayFeederConfigurationWizard.class"
+],
+"Get status": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"Get Status": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"White Paper": [
+"org/openpnp/machine/reference/feeder/ReferenceStripFeeder$TapeType.class"
+],
+"Close Cover": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Retry Count": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Tape Length": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Pocket Size": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Last Pocket": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Part by OCR": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"Feeder Array": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"Pocket Pitch": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Pocket Count": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"First Pocket": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Feed Speed %": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceDragFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferenceLeverFeederConfigurationWizard.class"
+],
+"End Location": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Toggle pitch": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"Toggle Pitch": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"Black Plastic": [
+"org/openpnp/machine/reference/feeder/ReferenceStripFeeder$TapeType.class"
+],
+"Clear Plastic": [
+"org/openpnp/machine/reference/feeder/ReferenceStripFeeder$TapeType.class"
+],
+"Feed Pipeline": [
+"org/openpnp/machine/reference/feeder/wizards/AdvancedLoosePartFeederConfigurationWizard.class"
+],
+"Show Features": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Part pickup Z": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Feeder Extent": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Feeders Total": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Push Z Offset": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Clean DropBox": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceHeapFeederConfigurationWizard.class"
+],
+"Drop Location": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceHeapFeederConfigurationWizard.class"
+],
+"OCR Font Name": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"Feed Actuator": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Test pre pick": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"Fiducial Part": [
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"Please review.": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"got OCR text \u0001": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"Font Size [pt]": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard.class"
+],
+"Cover Settings": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Parts Pipeline": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceHeapFeederConfigurationWizard.class"
+],
+"Poke for Parts": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceHeapFeederConfigurationWizard.class"
+],
+"All Feeder OCR": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"Clone Settings": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"Start Location": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Mid 1 Location": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Mid 2 Location": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Mid 3 Location": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Get feed count": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"Feeder Number:": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"Get Feed Count": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"Id is required.": [
+"org/openpnp/machine/reference/feeder/ReferenceHeapFeeder$DropBox.class",
+"org/openpnp/machine/reference/feeder/ReferenceSlotAutoFeeder$Bank.class",
+"org/openpnp/machine/reference/feeder/SlotSchultzFeeder$Bank.class"
+],
+"Vision Settings": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard.class"
+],
+"Open All Covers": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Open all Covers": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Last Feed Depth": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceHeapFeederConfigurationWizard.class"
+],
+"Setup complete!": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceStripFeederConfigurationWizard$10$1.class"
+],
+"Push-Pull Motion": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"Close All Covers": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"General Settings": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferenceDragFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferenceLeverFeederConfigurationWizard.class"
+],
+"Cover Open/Close": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Close all Covers": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Backoff Distance": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceDragFeederConfigurationWizard.class"
+],
+"Feed Retry Count": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceHeapFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferenceSlotAutoFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"Pick Retry Count": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceHeapFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferenceSlotAutoFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"No action taken.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$10.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$12.class"
+],
+"Setup OCR Region": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$11.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"Clone to Feeders": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"Clear feed count": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"Clear Feed Count": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"Bank is required.": [
+"org/openpnp/machine/reference/feeder/ReferenceSlotAutoFeeder.class",
+"org/openpnp/machine/reference/feeder/SlotSchultzFeeder.class"
+],
+"Training Pipeline": [
+"org/openpnp/machine/reference/feeder/wizards/AdvancedLoosePartFeederConfigurationWizard.class"
+],
+"Feeder Group Name": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard.class"
+],
+"Pocket Centerline": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Feed End Location": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceDragFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferenceLeverFeederConfigurationWizard.class"
+],
+"Max flip attempts": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceHeapFeederConfigurationWizard.class"
+],
+"Vacuum Difference": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceHeapFeederConfigurationWizard.class"
+],
+"Template Pipeline": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceHeapFeederConfigurationWizard.class"
+],
+"Vision Calibrate?": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Edge Distance Open": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Detection Pipeline": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceHeapFeederConfigurationWizard.class"
+],
+"OCR Font Size [pt]": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"Push-Pull Settings": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Auxiliary Actuator": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Auto Setup Failure": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceStripFeederConfigurationWizard$10$2$1.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferenceStripFeederConfigurationWizard$7.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferenceStripFeederConfigurationWizard$9$2$1.class"
+],
+"Auto-Setup: success": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"Calibrate Fiducials": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard.class"
+],
+"Set Pipeline to all": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard.class"
+],
+"Length of the tape.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Feed Start Location": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceDragFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferenceLeverFeederConfigurationWizard.class"
+],
+"Clone from Template": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"Check on Job Start?": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"Clone Tape Setting?": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"DropBox is required.": [
+"org/openpnp/machine/reference/feeder/ReferenceHeapFeeder.class"
+],
+"Use Fiducial Vision?": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard.class"
+],
+"OCR Text Orientation": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard.class"
+],
+"Edge Distance Closed": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"No feeders found to \u0001": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"Location is required.": [
+"org/openpnp/machine/reference/feeder/ReferenceHeapFeeder.class"
+],
+"Auto-Setup: exception": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"Set owner of %s to %s": [
+"org/openpnp/machine/reference/feeder/ReferenceSlotAutoFeeder$Feeder.class",
+"org/openpnp/machine/reference/feeder/SlotSchultzFeeder$Feeder.class"
+],
+"Calibrate Cover Edges": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"OCR Wrong Part Action": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"Feeder \u0001 part \u0001 empty.": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"File \u0001 already esists.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard$2.class"
+],
+"Peel Off Actuator Name": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceDragFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferenceLeverFeederConfigurationWizard.class"
+],
+"Stop after wrong part?": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"Clone Vision Settings?": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"Checking first part...": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceStripFeederConfigurationWizard$9$1.class"
+],
+"Set OCR Settings to all": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard.class"
+],
+"Checking second part...": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceStripFeederConfigurationWizard$10$1.class"
+],
+"Feeder \u0001 Part Z not set.": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"Clone Location Settings?": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"Feeder \u0001: No parts found.": [
+"org/openpnp/machine/reference/feeder/AdvancedLoosePartFeeder.class",
+"org/openpnp/machine/reference/feeder/ReferenceHeapFeeder.class",
+"org/openpnp/machine/reference/feeder/ReferenceLoosePartFeeder.class"
+],
+"No feeder loaded in slot.": [
+"org/openpnp/machine/reference/feeder/ReferenceSlotAutoFeeder.class",
+"org/openpnp/machine/reference/feeder/SlotSchultzFeeder.class"
+],
+"Extract 3D-Printing Files": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard.class"
+],
+"Use this one as Template?": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"Clone the Tape Settings. ": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"Clone Push-Pull Settings?": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"Unable to locate fiducial": [
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard$15.class"
+],
+"Remove owner of %s from %s": [
+"org/openpnp/machine/reference/feeder/ReferenceSlotAutoFeeder$Feeder.class",
+"org/openpnp/machine/reference/feeder/SlotSchultzFeeder$Feeder.class"
+],
+"Feeder: \u0001 (\u0001) - tray empty.": [
+"org/openpnp/machine/reference/feeder/ReferenceTrayFeeder.class"
+],
+"Toggle between 2 MM and 4 MM": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"Feeder \u0001: Fiducial not found.": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"Feeder \u0001: No tape holes found.": [
+"org/openpnp/machine/reference/feeder/ReferenceStripFeeder.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferenceStripFeederConfigurationWizard.class"
+],
+"Load installed feeder to slot.": [
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"Feeder \u0001: Pocket size not found.": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"Feeder \u0001: Machine not yet homed.": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"For Boolean: 1 = True, 0 = False": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceAutoFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferenceSlotAutoFeederConfigurationWizard.class"
+],
+"Feeder \u0001: Pocket pitch not found.": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"No enabled feeder with OCR found.": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"Vision outside of the initial area": [
+"org/openpnp/machine/reference/feeder/AdvancedLoosePartFeeder.class"
+],
+"Feeder \u0001: has no cover to actuate.": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"No suitable template feeder found.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$13.class"
+],
+"No hole found at selected location": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceStripFeederConfigurationWizard$10$1.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferenceStripFeederConfigurationWizard$9$1.class"
+],
+"No fiducial defined for feeder {}.": [
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard$15.class"
+],
+"Feeder \u0001 has no OCR region defined.": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"Can't set feeder from another bank.": [
+"org/openpnp/machine/reference/feeder/ReferenceSlotAutoFeeder.class",
+"org/openpnp/machine/reference/feeder/SlotSchultzFeeder.class"
+],
+"Size of the pocket across the tape.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"histogram in pitch: pocketPitchMm {}": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder$FindFeatures.class"
+],
+"Feeder \u0001: Tape centerline not found.": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"Feeder \u0001: Pocket position not found.": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"Feeder \u0001: Fiducial location not set.": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"Speed factor when pushing the cover.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Clone the Push-Pull Motion Settings.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"Go to the End Location when pushing.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Cannot reset actuator rotation axis.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"New drag distance with visionOffset \u0001": [
+"org/openpnp/machine/reference/feeder/ReferenceDragFeeder.class"
+],
+"Open this cover using the nozzle tip.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard$7.class"
+],
+"The same part was selected both times": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceStripFeederConfigurationWizard$10$1.class"
+],
+"Remove selected feeder from database.": [
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"First feed, running vision pre-flight.": [
+"org/openpnp/machine/reference/feeder/ReferenceDragFeeder.class"
+],
+"No feed actuator assigned to feeder %s": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"other feeder \u0001 has OCR detected part \u0001": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"Tried to feed part: \u0001  Feeder \u0001 empty.": [
+"org/openpnp/machine/reference/feeder/ReferenceStripFeeder.class"
+],
+"Try to detect and set the part by OCR.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard$1.class"
+],
+"Close this cover using the nozzle tip.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard$8.class"
+],
+"Picth of the part pockets in the tape.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"This feeder is not used as a template.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$14.class"
+],
+"No suitable feeders found to clone to.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$14.class"
+],
+"Go to the Start Location when pulling.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Go to the Mid 1 Location when pushing.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Go to the Mid 1 Location when pulling.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Go to the Mid 2 Location when pushing.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Go to the Mid 2 Location when pulling.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Go to the Mid 3 Location when pushing.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Go to the Mid 3 Location when pulling.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Total feeder holder extent (all tapes).": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Actuator for feed signal and for motion": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"No actuatorName specified for feeder {}.": [
+"org/openpnp/machine/reference/feeder/ReferenceAutoFeeder.class",
+"org/openpnp/machine/reference/feeder/SchultzFeeder.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferenceAutoFeederConfigurationWizard$1.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferenceSlotAutoFeederConfigurationWizard$7.class",
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard$2.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard$8.class"
+],
+"Multi parts drag feeder: skipping drag \u0001": [
+"org/openpnp/machine/reference/feeder/ReferenceDragFeeder.class"
+],
+"Update feeder location based on fiducial": [
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"OCR detected part in feeder \u0001, OCR part \u0001": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class",
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"Multi parts Lever feeder: skipping feed \u0001": [
+"org/openpnp/machine/reference/feeder/ReferenceLeverFeeder.class"
+],
+"Capture the Z height that the tool is at.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard$2.class"
+],
+"Cannot determine default head of machine.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Locations that are included when pushing.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Locations that are included when pulling.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Feeder lane number inside the same holder.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Failed, unable to find an actuator named \u0001": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard$1.class",
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard$4.class",
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard$5.class",
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard$6.class",
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard$7.class",
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard$8.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard$10.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard$11.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard$12.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard$13.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard$14.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard$7.class"
+],
+"dismissed pocket candidate: result {}, X {}": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder$FindFeatures.class"
+],
+"dismissed pocket candidate: result {}, Y {}": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder$FindFeatures.class"
+],
+"Please select some feeder settings to clone.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$13.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$14.class"
+],
+"Auto-Setup: trying with stock pipeline type \u0001": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"No getIdActuatorName specified for feeder {}.": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard$1.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard$7.class"
+],
+"No pitchActuatorName specified for feeder {}.": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard$6.class"
+],
+"No feeder {} exists in bank, so creating new.": [
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard$3.class"
+],
+"Feeder \u0001: Only Blinds Cover can be calibrated.": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"Unable to locate reference hole. End of strip?": [
+"org/openpnp/machine/reference/feeder/ReferenceStripFeeder.class"
+],
+"Actuator for auxiliary purpose (e.g. peeling).": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"No statusActuatorName specified for feeder {}.": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard$8.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard$14.class"
+],
+"accepted pocket candidate: result {}, mmSize {}": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder$FindFeatures.class"
+],
+"dismissed pocket candidate: result {}, angle {}": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder$FindFeatures.class"
+],
+"Feeder \u0001: Fetching parts failed => feed failed.": [
+"org/openpnp/machine/reference/feeder/ReferenceHeapFeeder.class"
+],
+"accepted fiducal candidate: result {}, mmSize {}": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder$FindFeatures.class"
+],
+"dismissed fiducal candidate: result {}, angle {}": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder$FindFeatures.class"
+],
+"dismissed pocket candidate: result {}, mmSize {}": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder$FindFeatures.class"
+],
+"Auto-Setup: secondary clone\u0001, template feeder: \u0001": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"No postPickActuatorName specified for feeder {}.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceAutoFeederConfigurationWizard$2.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferenceSlotAutoFeederConfigurationWizard$8.class",
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard$3.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard$9.class"
+],
+"dismissed fiducal candidate: result {}, mmSize {}": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder$FindFeatures.class"
+],
+"dismissed fiducal candidate: result {}, center {}": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder$FindFeatures.class"
+],
+"Closest feeder \u0001 \u0001 does not form a row in X and Y": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"Total number of feeder lanes in the same holder. ": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"No feedCountActuatorName specified for feeder {}.": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard$4.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard$10.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard$12.class"
+],
+"HeapFeeder: Dropping part failed, check nozzle tip": [
+"org/openpnp/machine/reference/feeder/ReferenceHeapFeeder$HeapFeederHelper.class"
+],
+"Clone the Vision settings, including the pipeline.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"Apply the offsets obtained from Vision Calibration": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Click on the center of the first part in the tape.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceStripFeederConfigurationWizard$7.class"
+],
+"No clearCountActuatorName specified for feeder {}.": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard$5.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard$11.class"
+],
+"Feeder \u0001 is missing an \"OCR\" stage in the pipeline.": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"Auto-Setup: trying with currently assigned pipeline": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"No togglePitchActuatorName specified for feeder {}.": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard$7.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard$13.class"
+],
+"Feeder \u0001 \u0001: cover is not open. Please open manually.": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"Reset the Feed Count to 0 (for a newly loaded tape).": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard$5.class"
+],
+"DropBox \u0001: Part is not detected again, check Pipeline": [
+"org/openpnp/machine/reference/feeder/ReferenceHeapFeeder$DropBox.class"
+],
+"Feeder \u0001: No suitable template feeder found to clone.": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"histogram in Y: pocketCenterlineMm {}, pocketSizeMm {}": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder$FindFeatures.class"
+],
+"histogram position: pocketPositionMm {} using pitch {}": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder$FindFeatures.class"
+],
+"Updating legacy Rotated Tray Feeder to latest version.": [
+"org/openpnp/machine/reference/feeder/ReferenceRotatedTrayFeeder.class"
+],
+"Can't delete a DropBox that is in use by other feeder.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceHeapFeederConfigurationWizard$12.class"
+],
+"Now click on the center of the second part in the tape.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceStripFeederConfigurationWizard$9$1.class"
+],
+"The delay (in milliseconds) after reaching this location": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"The OCR font size in typographic points (1 pt = 1/72 in).": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"Set this pipeline to all the BlindsFeeders on the machine.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard$7.class"
+],
+"Close the opened covers of all the feeders of the machine.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard$10.class"
+],
+"Open the covers of all the enabled feeders of the machine.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard$9.class"
+],
+"Please set the Reference Hole Location Z coordinate first.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceStripFeederConfigurationWizard$7.class"
+],
+"Auto-Setup: trying with cloned pipeline, template: feeder \u0001": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"Reset the Pipeline for this feeder to the OpenPNP standard.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard$5.class"
+],
+"Move nozzle to pick location before actuating feed actuator": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceSlotAutoFeederConfigurationWizard.class"
+],
+"This feeder is used as a template and cannot be overwritten.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$13.class"
+],
+"OCR could not detect part in slot of feeder \u0001, current part \u0001": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"Calibrate the fiducials to redetermine their precise locations.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard$3.class"
+],
+"Set these OCR settings to all the BlindsFeeders on the machine.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard$6.class"
+],
+"Can't delete the only bank. There must always be one bank defined.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceSlotAutoFeederConfigurationWizard$6.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard$6.class"
+],
+"Feeder \u0001: No template feeder found to clone for part \u0001 compatibility.": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"HeapFeeder \u0001: Can not grab parts. Heap Empty or VacuumDifference wrong.": [
+"org/openpnp/machine/reference/feeder/ReferenceHeapFeeder.class"
+],
+"Can't delete the only DropBox. There must always be one DropBox defined.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceHeapFeederConfigurationWizard$12.class"
+],
+"OCR detected wrong part in slot of feeder \u0001, current part \u0001 != OCR part \u0001": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class",
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"Warning: This feeder is incomplete and experimental. Use at your own risk.": [
+"org/openpnp/machine/reference/feeder/wizards/AdvancedLoosePartFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferenceLoosePartFeederConfigurationWizard.class"
+],
+"HeapFeeder \u0001: Can not grab parts. No parts found on three times part height.": [
+"org/openpnp/machine/reference/feeder/ReferenceHeapFeeder.class"
+],
+"Extract OpenSCAD files to generate models for 3D-printing the BlindsFeeders.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard$2.class"
+],
+"Distance from sprocket to the edge used for opening the cover (default: 2mm).": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Distance from sprocket to the edge used for closing the cover (default: 2mm).": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Clone the X/Y-invariable Location settings, i.e. Pick Location Z and options. ": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"Capture the blinds pitch, size and centerline from the current camera position.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard$6.class"
+],
+"Capture the pocket pitch, size and centerline from the current camera position.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Feeder \u0001 OCR operation expected, but no \"OCR\" stage result obtained from pipeline.": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"The location of the first diamond shaped fiducial (marked by a square besides it).": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard.class"
+],
+"The tape is oriented incorrectly for the feed direction of the components selected": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceStripFeederConfigurationWizard.class"
+],
+"BlindsFeeder: No Nozzle/NozzleTip found that allows pushing and has no part loaded.": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"The location of the third diamond shaped fiducial counter-clockwise from the first.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard.class"
+],
+"The location of the second diamond shaped fiducial counter-clockwise from the first.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard.class"
+],
+"Include the End Location in multi-actuation motion (if the push switch is also set).": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"DropBox \u0001: Even after \u0001 attempts the DropBox is not detected as empty. Check Pipeline.": [
+"org/openpnp/machine/reference/feeder/ReferenceHeapFeeder$DropBox.class"
+],
+"Include the Start Location in multi-actuating motion (if the pull switch is also set).": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Calibrate the cover edges against the nozzle tip to get precise open/close positioning.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard$4.class"
+],
+"Include the Mid 1 Location in multi-actuation motion (if the push/pull switch is also set).": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Include the Mid 2 Location in multi-actuation motion (if the push/pull switch is also set).": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Include the Mid 3 Location in multi-actuation motion (if the push/pull switch is also set).": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Feeder \u0001: current nozzle tip \u0001 has push diameter not set. Check the nozzle tip configuration.": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"X offset must be greater than 0 if X tray count is greater than 1 or feed failure will occur.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceTrayFeederConfigurationWizard.class"
+],
+"Y offset must be greater than 0 if Y tray count is greater than 1 or feed failure will occur.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceTrayFeederConfigurationWizard.class"
+],
+"After this numer of feed, mark the parts as disposable. So the next feed is done with new parts.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceHeapFeederConfigurationWizard.class"
+],
+"To improve efficiency you can actuate the feeder multiple times to feed more parts per feed cycle.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"Dummy part for moving unknown parts (e.g. to the trash). Is also used to determine the used nozzle.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceHeapFeederConfigurationWizard.class"
+],
+"OCR detected part \u0001 in slot of feeder \u0001 is not present in any other feeder. Cannot swap out feeders.": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"Last pocket of the tape that contains a part. Use the Show Features Button to indicate pocket numbers.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"First pocket of the tape that contains a part. Use the Show Features Button to indicate pocket numbers.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Feeder \u0001: Please set the fiducials first (camera center is outside any previously defined fiducial area).": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"Feeder \u0001 is used as a template and can only be OCR-assigned parts with same tape specification or package.": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"Feeder \u0001: loaded nozzle tips do not allow pushing. Check the nozzle tip configuration or change the nozzle tip.": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"If enabled the nozzle is lifted for each move inside the heap. Reduces the risk to damage (large) parts, but slower.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceHeapFeederConfigurationWizard.class"
+],
+"Show the features recognized by vision, taking the camera center and/or already set feeder properties into consideration.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard$3.class"
+],
+"This will replace the OCR settings of all the other BlindsFeeders on the machine with those of this BlindsFeeder. Are you sure?": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard$6.class"
+],
+"Close the opened covers of all the feeders of the machine (including those of enabled feeders where the cover state is unknown).": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Feeder \u0001: Please set the Part Z first, it is required to determine the true scale of the camera view for accurate computer vision.": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"This will replace the pipeline of all the other BlindsFeeders on the machine with the pipeline of this BlindsFeeder. Are you sure?": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard$7.class"
+],
+"Feeder \u0001: please set the Reference Hole Location Z coordinate first, it is required to determine the true scale of the camera view for accurate computer vision.": [
+"org/openpnp/machine/reference/feeder/ReferenceStripFeeder.class"
+]
+}

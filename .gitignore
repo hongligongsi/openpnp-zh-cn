@@ -1,0 +1,27 @@
+# ---- 大体积二进制：不入库（可由脚本完整重现）----
+# 最终产物 JAR 11MB，是 properties + class 常量池补丁的输出，
+# 可用 输出/class补丁/应用补丁.py 从官方原版重新生成。
+*.jar
+!输出/class补丁/openpnp-gui-final.jar
+
+# 备份目录：官方原版 / 各阶段 JAR（各约 11MB）
+备份/
+
+# ---- 工作区中间产物 ----
+工作区/Verify*.class
+工作区/_fo.txt
+工作区/_fp.txt
+工作区/*.txt
+工作区/verify/
+工作区/applied.json
+工作区/openpnp-gui-final.jar
+工作区/openpnp-gui-patched.jar
+
+# ---- 系统 & 编辑器 ----
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.swp
+*~
+__pycache__/
+*.pyc

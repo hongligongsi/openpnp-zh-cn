@@ -1,0 +1,11 @@
+OpenPnP 中文汉化包 — 校验值
+======================================================================
+
+文件:   class补丁/openpnp-gui-final.jar
+大小:   11,135,052 字节
+SHA256: 11e7c698a351fccdcaa6c4728e5908c000b5c2365fada61b353b5625193f4af4
+
+文件:   translations_zh_CN.properties
+大小:   240,295 字节
+SHA256: 2515beae509b49a2dce6bec21f824914ac2884163a40bb0d3bf45ece62550c15
+

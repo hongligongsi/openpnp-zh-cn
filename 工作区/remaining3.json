@@ -1,0 +1,3254 @@
+{
+"Bienvenue, Bienvenido, Willkommen, Hello, Namaskar, Welkom, Bonjour to OpenPnP version %s.": [
+"org/openpnp/Main$1.class"
+],
+"INTERNAL BUILD": [
+"org/openpnp/Main.class"
+],
+"definition: \u0001 changedItem: \u0001 source: \u0001": [
+"org/openpnp/events/DefinitionStructureChangedEvent.class"
+],
+"Client-ID \u0001": [
+"org/openpnp/imgur/Imgur.class"
+],
+"Maximum Value": [
+"org/openpnp/machine/reference/actuator/wizards/ThermistorToLinearSensorActuatorTransforms.class"
+],
+"Voltage Reference": [
+"org/openpnp/machine/reference/actuator/wizards/ThermistorToLinearSensorActuatorTransforms.class"
+],
+"Linear Transform": [
+"org/openpnp/machine/reference/actuator/wizards/ThermistorToLinearSensorActuatorTransforms.class"
+],
+"Axes \u0001 and \u0001 both have the same type in a linear transformation.": [
+"org/openpnp/machine/reference/axis/ReferenceLinearTransformAxis.class"
+],
+"Axes \u0001 has a different input \u0001 axis than other linear transformation axes.": [
+"org/openpnp/machine/reference/axis/ReferenceLinearTransformAxis.class"
+],
+"Only an axis on a down-looking camera can be calibrated.": [
+"org/openpnp/machine/reference/axis/wizards/BacklashCompensationConfigurationWizard$1.class"
+],
+"Cam Clockwise Axis": [
+"org/openpnp/machine/reference/axis/wizards/ReferenceCamClockwiseAxisConfigurationWizard.class"
+],
+"Counter-Clockwise Axis": [
+"org/openpnp/machine/reference/axis/wizards/ReferenceCamClockwiseAxisConfigurationWizard.class"
+],
+"Cam Counter-Clockwise Axis": [
+"org/openpnp/machine/reference/axis/wizards/ReferenceCamCounterClockwiseAxisConfigurationWizard.class"
+],
+"Input Axis": [
+"org/openpnp/machine/reference/axis/wizards/ReferenceCamCounterClockwiseAxisConfigurationWizard.class",
+"org/openpnp/machine/reference/axis/wizards/ReferenceMappedAxisConfigurationWizard.class"
+],
+"Cam Radius": [
+"org/openpnp/machine/reference/axis/wizards/ReferenceCamCounterClockwiseAxisConfigurationWizard.class"
+],
+"Cam Arms Angle": [
+"org/openpnp/machine/reference/axis/wizards/ReferenceCamCounterClockwiseAxisConfigurationWizard.class"
+],
+"Angle between the two arms": [
+"org/openpnp/machine/reference/axis/wizards/ReferenceCamCounterClockwiseAxisConfigurationWizard.class"
+],
+"Cam Wheel Radius": [
+"org/openpnp/machine/reference/axis/wizards/ReferenceCamCounterClockwiseAxisConfigurationWizard.class"
+],
+"Cam Wheel Gap": [
+"org/openpnp/machine/reference/axis/wizards/ReferenceCamCounterClockwiseAxisConfigurationWizard.class"
+],
+"Linear Transformation": [
+"org/openpnp/machine/reference/axis/wizards/ReferenceLinearTransformAxisConfigurationWizard.class"
+],
+"Axis Mapping": [
+"org/openpnp/machine/reference/axis/wizards/ReferenceMappedAxisConfigurationWizard.class"
+],
+"Map Point A": [
+"org/openpnp/machine/reference/axis/wizards/ReferenceMappedAxisConfigurationWizard.class"
+],
+"Map Point B": [
+"org/openpnp/machine/reference/axis/wizards/ReferenceMappedAxisConfigurationWizard.class"
+],
+"Camera \u0001 thread \u0001 started.": [
+"org/openpnp/machine/reference/camera/AbstractBroadcastingCamera.class"
+],
+"Camera \u0001 thread \u0001 interrupt failed, closing anyway.": [
+"org/openpnp/machine/reference/camera/AbstractBroadcastingCamera.class"
+],
+"Camera \u0001 thread \u0001 bye-bye.": [
+"org/openpnp/machine/reference/camera/AbstractBroadcastingCamera.class"
+],
+"Camera settling, frame number \u0001, t=+\u0001ms": [
+"org/openpnp/machine/reference/camera/AbstractSettlingCamera.class"
+],
+"Auto Focus ⚫": [
+"org/openpnp/machine/reference/camera/AutoFocusProvider.class"
+],
+"Auto Focus \u0001": [
+"org/openpnp/machine/reference/camera/AutoFocusProvider.class"
+],
+"Focus score at \u0001 is \u0001, step size \u0001": [
+"org/openpnp/machine/reference/camera/AutoFocusProvider.class"
+],
+"Exception parsing pipeline {}": [
+"org/openpnp/machine/reference/camera/GstreamerCamera.class"
+],
+"Failed parsing pipeline {}": [
+"org/openpnp/machine/reference/camera/GstreamerCamera.class"
+],
+"Set pipeline: {}": [
+"org/openpnp/machine/reference/camera/GstreamerCamera.class"
+],
+"Part \u0001 has no footprint.": [
+"org/openpnp/machine/reference/camera/ImageCamera.class"
+],
+"No PnP location recognized in target view at location \u0001": [
+"org/openpnp/machine/reference/camera/ImageCamera.class"
+],
+"No good PnP location recognized in target area at location \u0001. Best match score \u0001 does not meet \u0001, distance \u0001": [
+"org/openpnp/machine/reference/camera/ImageCamera.class"
+],
+"PnP location distance \u0001mm greater than allowed \u0001mm + (\u0001mm px tol), match \u0001, at location \u0001": [
+"org/openpnp/machine/reference/camera/ImageCamera.class"
+],
+"PnP location distance \u0001mm from best match score \u0001": [
+"org/openpnp/machine/reference/camera/ImageCamera.class"
+],
+"Content-Length: ": [
+"org/openpnp/machine/reference/camera/MjpgCaptureCamera.class"
+],
+"Invalid image size": [
+"org/openpnp/machine/reference/camera/MjpgCaptureCamera.class"
+],
+"Unknown error communicating with MJPG stream at \u0001: \u0001": [
+"org/openpnp/machine/reference/camera/MjpgCaptureCamera.class"
+],
+"IOException reading from MJPG stream: \u0001": [
+"org/openpnp/machine/reference/camera/MjpgCaptureCamera.class"
+],
+"Could not read header from MJPG stream: \u0001": [
+"org/openpnp/machine/reference/camera/MjpgCaptureCamera.class"
+],
+"Incomplete header in MJPG stream: \u0001\r\n\u0001": [
+"org/openpnp/machine/reference/camera/MjpgCaptureCamera.class"
+],
+"Invalid JPG frame in MJPG steram: \u0001\r\n\u0001": [
+"org/openpnp/machine/reference/camera/MjpgCaptureCamera.class"
+],
+"Incomplete JPG frame in MJPG stream: \u0001": [
+"org/openpnp/machine/reference/camera/MjpgCaptureCamera.class"
+],
+"Snapshot URI: \u0001": [
+"org/openpnp/machine/reference/camera/OnvifIPCamera.class"
+],
+"Could not connect to IP camera at \u0001: \u0001": [
+"org/openpnp/machine/reference/camera/OnvifIPCamera.class"
+],
+"Error communicating with IP camera at \u0001: \u0001": [
+"org/openpnp/machine/reference/camera/OnvifIPCamera.class"
+],
+"Malformed URL for IP camera at \u0001: \u0001": [
+"org/openpnp/machine/reference/camera/OnvifIPCamera.class"
+],
+"Unknown error initializing IP camera at \u0001: \u0001": [
+"org/openpnp/machine/reference/camera/OnvifIPCamera.class"
+],
+"No JPEG profiles available for camera at \u0001": [
+"org/openpnp/machine/reference/camera/OnvifIPCamera.class"
+],
+"Unknown error communicating with IP camera at \u0001: \u0001": [
+"org/openpnp/machine/reference/camera/OnvifIPCamera.class"
+],
+"Setting property {} on camera {} to {}": [
+"org/openpnp/machine/reference/camera/OpenCvCamera.class"
+],
+"Setting camera {} width to {}": [
+"org/openpnp/machine/reference/camera/OpenCvCamera.class"
+],
+"Camera {} reports width {}": [
+"org/openpnp/machine/reference/camera/OpenCvCamera.class"
+],
+"Setting camera {} height to {}": [
+"org/openpnp/machine/reference/camera/OpenCvCamera.class"
+],
+"Camera {} reports height {}": [
+"org/openpnp/machine/reference/camera/OpenCvCamera.class"
+],
+"Multiple cameras found with ID {} for camera {}": [
+"org/openpnp/machine/reference/camera/OpenPnpCaptureCamera.class"
+],
+"No camera found with ID {} for camera {}": [
+"org/openpnp/machine/reference/camera/OpenPnpCaptureCamera.class"
+],
+"No format found with ID {} for camera {}": [
+"org/openpnp/machine/reference/camera/OpenPnpCaptureCamera.class"
+],
+"open called with null device": [
+"org/openpnp/machine/reference/camera/OpenPnpCaptureCamera.class"
+],
+"open called with null format": [
+"org/openpnp/machine/reference/camera/OpenPnpCaptureCamera.class"
+],
+"Camera stream not properly initialized.": [
+"org/openpnp/machine/reference/camera/OpenPnpCaptureCamera.class"
+],
+"Camera {} failed to return an image. Retrying.": [
+"org/openpnp/machine/reference/camera/ReferenceCamera.class"
+],
+"Camera {} failed to return an image after {} tries.": [
+"org/openpnp/machine/reference/camera/ReferenceCamera.class"
+],
+"The camera \u0001 exposure is too low!": [
+"org/openpnp/machine/reference/camera/ReferenceCamera.class"
+],
+"Image does not contain grayscales at level \u0001 ... \u0001%.": [
+"org/openpnp/machine/reference/camera/ReferenceCamera.class"
+],
+"SwitcherCamera \u0001 failed to actuate \u0001 with timeout.": [
+"org/openpnp/machine/reference/camera/SwitcherCamera.class"
+],
+"SwitcherCamera \u0001 failed to actuate \u0001 with exception.": [
+"org/openpnp/machine/reference/camera/SwitcherCamera.class"
+],
+"SwitcherCamera \u0001 failed to obtain switcher lock within timeout.": [
+"org/openpnp/machine/reference/camera/SwitcherCamera.class"
+],
+"SwitcherCamera \u0001 was interrupted trying to obtain switcher lock.": [
+"org/openpnp/machine/reference/camera/SwitcherCamera.class"
+],
+"Upgrading AdvancedCalibration.pipeline": [
+"org/openpnp/machine/reference/camera/calibration/AdvancedCalibration.class"
+],
+"Falling back to assigning default AdvancedCalibration.pipeline.": [
+"org/openpnp/machine/reference/camera/calibration/AdvancedCalibration.class"
+],
+"Model didn't converge as expected - camera matrix has much larger magnitudes than expected": [
+"org/openpnp/machine/reference/camera/calibration/AdvancedCalibration.class"
+],
+"Model didn't converge as expected - distortion coefficients have much larger magnitudes than expected, resetting them to zero.": [
+"org/openpnp/machine/reference/camera/calibration/AdvancedCalibration.class"
+],
+"Physical camera rotational errors from ideal (as measured by the right hand rule about each machine axis):": [
+"org/openpnp/machine/reference/camera/calibration/AdvancedCalibration.class"
+],
+"Z axis rotational error = {} degrees": [
+"org/openpnp/machine/reference/camera/calibration/AdvancedCalibration.class"
+],
+"Y axis rotational error = {} degrees": [
+"org/openpnp/machine/reference/camera/calibration/AdvancedCalibration.class"
+],
+"X axis rotational error = {} degrees": [
+"org/openpnp/machine/reference/camera/calibration/AdvancedCalibration.class"
+],
+"initial cameraMatrix = \u0001": [
+"org/openpnp/machine/reference/camera/calibration/AdvancedCalibration.class"
+],
+"Calib3d.calibrateCamera rms = \u0001": [
+"org/openpnp/machine/reference/camera/calibration/AdvancedCalibration.class"
+],
+"width field of view [deg] = \u0001": [
+"org/openpnp/machine/reference/camera/calibration/AdvancedCalibration.class"
+],
+"height field of view [deg] = \u0001": [
+"org/openpnp/machine/reference/camera/calibration/AdvancedCalibration.class"
+],
+"Camera model failed to converge. Try increasing the number of Radial Lines Per Cal Z.": [
+"org/openpnp/machine/reference/camera/calibration/CameraCalibrationUtils.class"
+],
+"No outliers found in the data set": [
+"org/openpnp/machine/reference/camera/calibration/CameraCalibrationUtils.class"
+],
+"Repeating parameter estimation with {} outliers removed from the set of {} points": [
+"org/openpnp/machine/reference/camera/calibration/CameraCalibrationUtils.class"
+],
+"Iteration failed to converge": [
+"org/openpnp/machine/reference/camera/calibration/CameraCalibrationUtils.class"
+],
+"rms error = \u0001": [
+"org/openpnp/machine/reference/camera/calibration/CameraCalibrationUtils.class"
+],
+"number of evaluations = \u0001": [
+"org/openpnp/machine/reference/camera/calibration/CameraCalibrationUtils.class"
+],
+"number of iterations = \u0001": [
+"org/openpnp/machine/reference/camera/calibration/CameraCalibrationUtils.class"
+],
+"Index of outliers found in the data set: \u0001": [
+"org/openpnp/machine/reference/camera/calibration/CameraCalibrationUtils.class"
+],
+"Distortion Coefficients have extreme values - resetting all to zero": [
+"org/openpnp/machine/reference/camera/calibration/LensCalibrationParams.class"
+],
+"A nozzle tip must be loaded, or the \"unloaded\" nozzle tip stand-in must be defined.": [
+"org/openpnp/machine/reference/camera/wizards/AutoFocusProviderConfigurationWizard$1.class"
+],
+"Expected \u0001 to be a ReferenceNozzle": [
+"org/openpnp/machine/reference/camera/wizards/AutoFocusProviderConfigurationWizard$1.class",
+"org/openpnp/machine/reference/camera/wizards/AutoFocusProviderConfigurationWizard$2.class"
+],
+"Nozzle \u0001 has part on. Use nozzle tip to measure.": [
+"org/openpnp/machine/reference/camera/wizards/AutoFocusProviderConfigurationWizard$2.class"
+],
+"Expected \u0001 to be a ReferenceCamera": [
+"org/openpnp/machine/reference/camera/wizards/AutoFocusProviderConfigurationWizard$2.class"
+],
+"Nozzle \u0001 unexpected location. Please center and focus first.": [
+"org/openpnp/machine/reference/camera/wizards/AutoFocusProviderConfigurationWizard$2.class"
+],
+"Adjust Camera Z": [
+"org/openpnp/machine/reference/camera/wizards/AutoFocusProviderConfigurationWizard.class"
+],
+"Auto Focus Settings": [
+"org/openpnp/machine/reference/camera/wizards/AutoFocusProviderConfigurationWizard.class"
+],
+"Focal Resolution": [
+"org/openpnp/machine/reference/camera/wizards/AutoFocusProviderConfigurationWizard.class"
+],
+"Finest step length to seek the best focus.": [
+"org/openpnp/machine/reference/camera/wizards/AutoFocusProviderConfigurationWizard.class"
+],
+"Averaged Frames": [
+"org/openpnp/machine/reference/camera/wizards/AutoFocusProviderConfigurationWizard.class"
+],
+"Number of camera frames captured and averaged to reduce camera noise and improve the auto focus.": [
+"org/openpnp/machine/reference/camera/wizards/AutoFocusProviderConfigurationWizard.class"
+],
+"Focus Speed": [
+"org/openpnp/machine/reference/camera/wizards/AutoFocusProviderConfigurationWizard.class"
+],
+"Focus motion speed factor.": [
+"org/openpnp/machine/reference/camera/wizards/AutoFocusProviderConfigurationWizard.class"
+],
+"Show Diagnostics?": [
+"org/openpnp/machine/reference/camera/wizards/AutoFocusProviderConfigurationWizard.class"
+],
+"Show detected edges and Auto Focus status text in the camera view.": [
+"org/openpnp/machine/reference/camera/wizards/AutoFocusProviderConfigurationWizard.class"
+],
+"Last Focus Distance": [
+"org/openpnp/machine/reference/camera/wizards/AutoFocusProviderConfigurationWizard.class"
+],
+"GStreamer Pipeline": [
+"org/openpnp/machine/reference/camera/wizards/GstreamerCameraConfigurationWizard.class"
+],
+"Pipeline launch string": [
+"org/openpnp/machine/reference/camera/wizards/GstreamerCameraConfigurationWizard.class"
+],
+"Camera IP Address and Port Number": [
+"org/openpnp/machine/reference/camera/wizards/MjpgCaptureCameraWizard.class"
+],
+"Timeout [ms]": [
+"org/openpnp/machine/reference/camera/wizards/MjpgCaptureCameraWizard.class"
+],
+"Camera IP": [
+"org/openpnp/machine/reference/camera/wizards/OnvifIPCameraConfigurationWizard.class"
+],
+"Target Width": [
+"org/openpnp/machine/reference/camera/wizards/OnvifIPCameraConfigurationWizard.class"
+],
+"Target Height": [
+"org/openpnp/machine/reference/camera/wizards/OnvifIPCameraConfigurationWizard.class"
+],
+"Read Property Value": [
+"org/openpnp/machine/reference/camera/wizards/OpenCvCameraConfigurationWizard$2.class"
+],
+"Read the current property value directly from the camera.": [
+"org/openpnp/machine/reference/camera/wizards/OpenCvCameraConfigurationWizard$2.class"
+],
+"USB Device Index": [
+"org/openpnp/machine/reference/camera/wizards/OpenCvCameraConfigurationWizard.class"
+],
+"Preferred Width": [
+"org/openpnp/machine/reference/camera/wizards/OpenCvCameraConfigurationWizard.class"
+],
+"Preferred Height": [
+"org/openpnp/machine/reference/camera/wizards/OpenCvCameraConfigurationWizard.class"
+],
+"Properties (Experimental)": [
+"org/openpnp/machine/reference/camera/wizards/OpenCvCameraConfigurationWizard.class"
+],
+"Set Before Open": [
+"org/openpnp/machine/reference/camera/wizards/OpenCvCameraConfigurationWizard.class"
+],
+"Set After Open": [
+"org/openpnp/machine/reference/camera/wizards/OpenCvCameraConfigurationWizard.class"
+],
+"Actuator Delay (ms)": [
+"org/openpnp/machine/reference/camera/wizards/SwitcherCameraConfigurationWizard.class"
+],
+"Device ID": [
+"org/openpnp/machine/reference/camera/wizards/WebcamConfigurationWizard.class"
+],
+"Force Grayscale?": [
+"org/openpnp/machine/reference/camera/wizards/WebcamConfigurationWizard.class"
+],
+"Webcam connected: %s \n": [
+"org/openpnp/machine/reference/camera/wizards/WebcamConfigurationWizard.class"
+],
+"Webcam disconnected: %s \n": [
+"org/openpnp/machine/reference/camera/wizards/WebcamConfigurationWizard.class"
+],
+"Subordinate Motion: axesLocation \u0001 queued to \u0001": [
+"org/openpnp/machine/reference/driver/AbstractMotionPlanner$SubordinateMotion.class"
+],
+"Subordinate Motion: axesLocation \u0001 merged with \u0001 to \u0001": [
+"org/openpnp/machine/reference/driver/AbstractMotionPlanner$SubordinateMotion.class"
+],
+"Subordinate Motion queue not empty: \u0001, drained.": [
+"org/openpnp/machine/reference/driver/AbstractMotionPlanner$SubordinateMotion.class"
+],
+"delay Thread.sleep": [
+"org/openpnp/machine/reference/driver/AbstractMotionPlanner.class"
+],
+"Speed must be greater than 0.": [
+"org/openpnp/machine/reference/driver/AbstractMotionPlanner.class"
+],
+"Interlock motion accross drivers {} vs. {}": [
+"org/openpnp/machine/reference/driver/AbstractMotionPlanner.class"
+],
+"Can't move %s to %s, lower than soft limit %s.": [
+"org/openpnp/machine/reference/driver/AbstractMotionPlanner.class"
+],
+"Can't move %s to %s, higher than soft limit %s.": [
+"org/openpnp/machine/reference/driver/AbstractMotionPlanner.class"
+],
+"Motion Planning": [
+"org/openpnp/machine/reference/driver/AbstractMotionPlanner.class"
+],
+"Axis \u0001 has no driver set.": [
+"org/openpnp/machine/reference/driver/AbstractMotionPlanner.class"
+],
+"Machine not homed. Jogging only allowed if driver \u0001 has option \"Sync. Initial Location\" enabled.": [
+"org/openpnp/machine/reference/driver/AbstractMotionPlanner.class"
+],
+"Machine not homed. Motion only allowed if driver \u0001 has option \"Allow Unhomed Motion\" enabled.": [
+"org/openpnp/machine/reference/driver/AbstractMotionPlanner.class"
+],
+"Rotation axis \u0001 cannot be wrapped around when no head-mountable is mapped.": [
+"org/openpnp/machine/reference/driver/AbstractMotionPlanner.class"
+],
+"Rotation axis \u0001 cannot be limited when no head-mountable is mapped.": [
+"org/openpnp/machine/reference/driver/AbstractMotionPlanner.class"
+],
+"Axis \u0001 with limited articulation must not have Wrap Around option set.": [
+"org/openpnp/machine/reference/driver/AbstractMotionPlanner.class"
+],
+"Axis \u0001 with limited articulation \u0001..\u0001 cannot rotate to \u0001 (transformed \u0001 to \u0001°)": [
+"org/openpnp/machine/reference/driver/AbstractMotionPlanner.class"
+],
+"Reported location changes current location from \u0001 to \u0001": [
+"org/openpnp/machine/reference/driver/AbstractMotionPlanner.class"
+],
+"Rotation axis \u0001 wrap-around coordinate limiting did not transform back to a single axis adjustment.": [
+"org/openpnp/machine/reference/driver/AbstractMotionPlanner.class"
+],
+"Invalid communications method attempted to be set. Defaulting to serial.": [
+"org/openpnp/machine/reference/driver/AbstractReferenceDriver.class"
+],
+"Send-on-change logic for Feed Rate, Acceleration and Jerk reset": [
+"org/openpnp/machine/reference/driver/GcodeDriver.class"
+],
+"delaying in gcode driver is not supported": [
+"org/openpnp/machine/reference/driver/GcodeDriver.class"
+],
+"gcode delay sent": [
+"org/openpnp/machine/reference/driver/GcodeDriver.class"
+],
+"gcode delay not sent for zero duration": [
+"org/openpnp/machine/reference/driver/GcodeDriver.class"
+],
+"Actuator \"%s\" read error: Regex matching response vanished.": [
+"org/openpnp/machine/reference/driver/GcodeDriver.class"
+],
+"Actuator \"%s\" read error: Driver configuration is missing ACTUATOR_READ_COMMAND or ACTUATOR_READ_REGEX.": [
+"org/openpnp/machine/reference/driver/GcodeDriver.class"
+],
+"Cannot open Gcode log": [
+"org/openpnp/machine/reference/driver/GcodeDriver.class"
+],
+"Position report: {}": [
+"org/openpnp/machine/reference/driver/GcodeDriver.class"
+],
+"Position report cannot be processed when motion might still be pending. Missing Machine Coordination on Actuators?": [
+"org/openpnp/machine/reference/driver/GcodeDriver.class"
+],
+"Actuator \"%s\" read error: No matching responses found.": [
+"org/openpnp/machine/reference/driver/GcodeDriver.class"
+],
+"Timed out waiting for move to complete.": [
+"org/openpnp/machine/reference/driver/GcodeDriver.class"
+],
+"Timed out waiting for home to complete.": [
+"org/openpnp/machine/reference/driver/GcodeDriver.class"
+],
+"Axis variable \u0001 is missing in SET_GLOBAL_OFFSETS_COMMAND.": [
+"org/openpnp/machine/reference/driver/GcodeDriver.class"
+],
+"Migrating OffsetTransform for axis \u0001 not supported": [
+"org/openpnp/machine/reference/driver/GcodeDriver.class"
+],
+"Machine new location {}": [
+"org/openpnp/machine/reference/driver/NullDriver.class"
+],
+"Use continuous motion. OpenPnP will only wait for the machine when really needed.": [
+"org/openpnp/machine/reference/driver/ReferenceAdvancedMotionPlanner.class"
+],
+"Enable Continuous Motion.": [
+"org/openpnp/machine/reference/driver/ReferenceAdvancedMotionPlanner.class"
+],
+"Trying to read from a unconnected serial.": [
+"org/openpnp/machine/reference/driver/SerialPortCommunications.class"
+],
+"Read error.": [
+"org/openpnp/machine/reference/driver/SerialPortCommunications.class"
+],
+"Read timeout.": [
+"org/openpnp/machine/reference/driver/SerialPortCommunications.class"
+],
+"Write error.": [
+"org/openpnp/machine/reference/driver/SerialPortCommunications.class"
+],
+"Trying to read from a unconnected socket.": [
+"org/openpnp/machine/reference/driver/SimulatedCommunications.class",
+"org/openpnp/machine/reference/driver/TcpCommunications.class"
+],
+"Please start machine before sending commands.": [
+"org/openpnp/machine/reference/driver/wizards/GcodeDriverConsole.class"
+],
+"Gcode console error: \u0001": [
+"org/openpnp/machine/reference/driver/wizards/GcodeDriverConsole.class"
+],
+"Replace file?": [
+"org/openpnp/machine/reference/driver/wizards/GcodeDriverGcodes$4.class",
+"org/openpnp/machine/reference/driver/wizards/GcodeDriverSettings$2.class"
+],
+"Export Failed": [
+"org/openpnp/machine/reference/driver/wizards/GcodeDriverGcodes$4.class",
+"org/openpnp/machine/reference/driver/wizards/GcodeDriverSettings$2.class"
+],
+"Import Failed": [
+"org/openpnp/machine/reference/driver/wizards/GcodeDriverGcodes$5.class",
+"org/openpnp/machine/reference/driver/wizards/GcodeDriverSettings$3.class"
+],
+"This will delete all your Gcode and reset it to minimal defaults.\nAre you absolutely sure?": [
+"org/openpnp/machine/reference/driver/wizards/GcodeDriverGcodes$8.class"
+],
+"Reset to defaults": [
+"org/openpnp/machine/reference/driver/wizards/GcodeDriverGcodes$8.class"
+],
+"Reset Failed": [
+"org/openpnp/machine/reference/driver/wizards/GcodeDriverGcodes$8.class"
+],
+"Cannot determine Name of machine.": [
+"org/openpnp/machine/reference/driver/wizards/ReferenceAdvancedMotionPlannerConfigurationWizard.class",
+"org/openpnp/machine/reference/wizards/ReferenceNozzleTipToolChangerWizard.class"
+],
+"Vision outside of the initial area": [
+"org/openpnp/machine/reference/feeder/AdvancedLoosePartFeeder.class"
+],
+"Feeder \u0001: No parts found.": [
+"org/openpnp/machine/reference/feeder/AdvancedLoosePartFeeder.class",
+"org/openpnp/machine/reference/feeder/ReferenceHeapFeeder.class",
+"org/openpnp/machine/reference/feeder/ReferenceLoosePartFeeder.class"
+],
+"accepted fiducal candidate: result {}, mmSize {}": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder$FindFeatures.class"
+],
+"dismissed fiducal candidate: result {}, mmSize {}": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder$FindFeatures.class"
+],
+"dismissed fiducal candidate: result {}, angle {}": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder$FindFeatures.class"
+],
+"dismissed fiducal candidate: result {}, center {}": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder$FindFeatures.class"
+],
+"accepted pocket candidate: result {}, mmSize {}": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder$FindFeatures.class"
+],
+"dismissed pocket candidate: result {}, mmSize {}": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder$FindFeatures.class"
+],
+"dismissed pocket candidate: result {}, angle {}": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder$FindFeatures.class"
+],
+"dismissed pocket candidate: result {}, X {}": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder$FindFeatures.class"
+],
+"dismissed pocket candidate: result {}, Y {}": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder$FindFeatures.class"
+],
+"histogram in Y: pocketCenterlineMm {}, pocketSizeMm {}": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder$FindFeatures.class"
+],
+"histogram in pitch: pocketPitchMm {}": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder$FindFeatures.class"
+],
+"histogram position: pocketPositionMm {} using pitch {}": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder$FindFeatures.class"
+],
+"BlindsFeeder: No Nozzle/NozzleTip found that allows pushing and has no part loaded.": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"Please review.": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"Feeder Array": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"Feeder \u0001 part \u0001 empty.": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"Feeder \u0001 \u0001: cover is not open. Please open manually.": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"Feeder \u0001: Please set the fiducials first (camera center is outside any previously defined fiducial area).": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"Feeder \u0001: Tape centerline not found.": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"Feeder \u0001: Pocket pitch not found.": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"Feeder \u0001: Pocket size not found.": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"OCR text \u0001": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"Feeder \u0001: Please set the Part Z first, it is required to determine the true scale of the camera view for accurate computer vision.": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"OCR detected part in feeder \u0001, OCR part \u0001": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class",
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"OCR detected wrong part in slot of feeder \u0001, current part \u0001 != OCR part \u0001": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class",
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"OCR could not detect part in slot of feeder \u0001, current part \u0001": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"Feeder \u0001 is missing an \"OCR\" stage in the pipeline.": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"Feeder \u0001: Pocket position not found.": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"Feeder \u0001: Only Blinds Cover can be calibrated.": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"Feeder \u0001: Fiducial location not set.": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"Feeder \u0001: Fiducial not found.": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"Feeder \u0001: Machine not yet homed.": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"No feeders found to \u0001": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"Feeder \u0001: has no cover to actuate.": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"Feeder \u0001 Part Z not set.": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"Feeder \u0001: loaded nozzle tips do not allow pushing. Check the nozzle tip configuration or change the nozzle tip.": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"Feeder \u0001: current nozzle tip \u0001 has push diameter not set. Check the nozzle tip configuration.": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"No actuatorName specified for feeder {}.": [
+"org/openpnp/machine/reference/feeder/ReferenceAutoFeeder.class",
+"org/openpnp/machine/reference/feeder/SchultzFeeder.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferenceAutoFeederConfigurationWizard$1.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferenceSlotAutoFeederConfigurationWizard$7.class",
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard$2.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard$8.class"
+],
+"First feed, running vision pre-flight.": [
+"org/openpnp/machine/reference/feeder/ReferenceDragFeeder.class"
+],
+"New drag distance with visionOffset \u0001": [
+"org/openpnp/machine/reference/feeder/ReferenceDragFeeder.class"
+],
+"Multi parts drag feeder: skipping drag \u0001": [
+"org/openpnp/machine/reference/feeder/ReferenceDragFeeder.class"
+],
+"Id is required.": [
+"org/openpnp/machine/reference/feeder/ReferenceHeapFeeder$DropBox.class",
+"org/openpnp/machine/reference/feeder/ReferenceSlotAutoFeeder$Bank.class",
+"org/openpnp/machine/reference/feeder/SlotSchultzFeeder$Bank.class"
+],
+"DropBox \u0001: Even after \u0001 attempts the DropBox is not detected as empty. Check Pipeline.": [
+"org/openpnp/machine/reference/feeder/ReferenceHeapFeeder$DropBox.class"
+],
+"DropBox \u0001: Part is not detected again, check Pipeline": [
+"org/openpnp/machine/reference/feeder/ReferenceHeapFeeder$DropBox.class"
+],
+"HeapFeeder: Dropping part failed, check nozzle tip": [
+"org/openpnp/machine/reference/feeder/ReferenceHeapFeeder$HeapFeederHelper.class"
+],
+"DropBox is required.": [
+"org/openpnp/machine/reference/feeder/ReferenceHeapFeeder.class"
+],
+"Location is required.": [
+"org/openpnp/machine/reference/feeder/ReferenceHeapFeeder.class"
+],
+"Feeder \u0001: Fetching parts failed => feed failed.": [
+"org/openpnp/machine/reference/feeder/ReferenceHeapFeeder.class"
+],
+"HeapFeeder \u0001: Can not grab parts. Heap Empty or VacuumDifference wrong.": [
+"org/openpnp/machine/reference/feeder/ReferenceHeapFeeder.class"
+],
+"HeapFeeder \u0001: Can not grab parts. No parts found on three times part height.": [
+"org/openpnp/machine/reference/feeder/ReferenceHeapFeeder.class"
+],
+"Multi parts Lever feeder: skipping feed \u0001": [
+"org/openpnp/machine/reference/feeder/ReferenceLeverFeeder.class"
+],
+"No feed actuator assigned to feeder %s": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"Auto-Setup: trying with currently assigned pipeline": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"Auto-Setup: exception": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"Auto-Setup: success": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"No enabled feeder with OCR found.": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"Push-Pull Motion": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"Auto-Setup: trying with cloned pipeline, template: feeder \u0001": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"Auto-Setup: trying with stock pipeline type \u0001": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"Auto-Setup: secondary clone\u0001, template feeder: \u0001": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"Feeder \u0001: No suitable template feeder found to clone.": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"Feeder \u0001: No template feeder found to clone for part \u0001 compatibility.": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"other feeder \u0001 has OCR detected part \u0001": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"OCR detected part \u0001 in slot of feeder \u0001 is not present in any other feeder. Cannot swap out feeders.": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"Closest feeder \u0001 \u0001 does not form a row in X and Y": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"Feeder \u0001 is used as a template and can only be OCR-assigned parts with same tape specification or package.": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"Feeder \u0001 has no OCR region defined.": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"Feeder \u0001 OCR operation expected, but no \"OCR\" stage result obtained from pipeline.": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"got OCR text \u0001": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"Updating legacy Rotated Tray Feeder to latest version.": [
+"org/openpnp/machine/reference/feeder/ReferenceRotatedTrayFeeder.class"
+],
+"Remove owner of %s from %s": [
+"org/openpnp/machine/reference/feeder/ReferenceSlotAutoFeeder$Feeder.class",
+"org/openpnp/machine/reference/feeder/SlotSchultzFeeder$Feeder.class"
+],
+"Set owner of %s to %s": [
+"org/openpnp/machine/reference/feeder/ReferenceSlotAutoFeeder$Feeder.class",
+"org/openpnp/machine/reference/feeder/SlotSchultzFeeder$Feeder.class"
+],
+"No feeder loaded in slot.": [
+"org/openpnp/machine/reference/feeder/ReferenceSlotAutoFeeder.class",
+"org/openpnp/machine/reference/feeder/SlotSchultzFeeder.class"
+],
+"Bank is required.": [
+"org/openpnp/machine/reference/feeder/ReferenceSlotAutoFeeder.class",
+"org/openpnp/machine/reference/feeder/SlotSchultzFeeder.class"
+],
+"Can't set feeder from another bank.": [
+"org/openpnp/machine/reference/feeder/ReferenceSlotAutoFeeder.class",
+"org/openpnp/machine/reference/feeder/SlotSchultzFeeder.class"
+],
+"White Paper": [
+"org/openpnp/machine/reference/feeder/ReferenceStripFeeder$TapeType.class"
+],
+"Black Plastic": [
+"org/openpnp/machine/reference/feeder/ReferenceStripFeeder$TapeType.class"
+],
+"Clear Plastic": [
+"org/openpnp/machine/reference/feeder/ReferenceStripFeeder$TapeType.class"
+],
+"Unable to locate reference hole. End of strip?": [
+"org/openpnp/machine/reference/feeder/ReferenceStripFeeder.class"
+],
+"Feeder \u0001: please set the Reference Hole Location Z coordinate first, it is required to determine the true scale of the camera view for accurate computer vision.": [
+"org/openpnp/machine/reference/feeder/ReferenceStripFeeder.class"
+],
+"Tried to feed part: \u0001  Feeder \u0001 empty.": [
+"org/openpnp/machine/reference/feeder/ReferenceStripFeeder.class"
+],
+"Feeder \u0001: No tape holes found.": [
+"org/openpnp/machine/reference/feeder/ReferenceStripFeeder.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferenceStripFeederConfigurationWizard.class"
+],
+"Feeder: \u0001 (\u0001) - tray empty.": [
+"org/openpnp/machine/reference/feeder/ReferenceTrayFeeder.class"
+],
+"Feed Pipeline": [
+"org/openpnp/machine/reference/feeder/wizards/AdvancedLoosePartFeederConfigurationWizard.class"
+],
+"Training Pipeline": [
+"org/openpnp/machine/reference/feeder/wizards/AdvancedLoosePartFeederConfigurationWizard.class"
+],
+"Warning: This feeder is incomplete and experimental. Use at your own risk.": [
+"org/openpnp/machine/reference/feeder/wizards/AdvancedLoosePartFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferenceLoosePartFeederConfigurationWizard.class"
+],
+"Extract OpenSCAD files to generate models for 3D-printing the BlindsFeeders.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard$2.class"
+],
+"File \u0001 already esists.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard$2.class"
+],
+"Calibrate the fiducials to redetermine their precise locations.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard$3.class"
+],
+"Reset the Pipeline for this feeder to the OpenPNP standard.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard$5.class"
+],
+"Set these OCR settings to all the BlindsFeeders on the machine.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard$6.class"
+],
+"This will replace the OCR settings of all the other BlindsFeeders on the machine with those of this BlindsFeeder. Are you sure?": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard$6.class"
+],
+"Set this pipeline to all the BlindsFeeders on the machine.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard$7.class"
+],
+"This will replace the pipeline of all the other BlindsFeeders on the machine with the pipeline of this BlindsFeeder. Are you sure?": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard$7.class"
+],
+"Extract 3D-Printing Files": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard.class"
+],
+"Calibrate Fiducials": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard.class"
+],
+"Set OCR Settings to all": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard.class"
+],
+"Set Pipeline to all": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard.class"
+],
+"Feeder Group Name": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard.class"
+],
+"The location of the first diamond shaped fiducial (marked by a square besides it).": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard.class"
+],
+"The location of the second diamond shaped fiducial counter-clockwise from the first.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard.class"
+],
+"The location of the third diamond shaped fiducial counter-clockwise from the first.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard.class"
+],
+"Vision Settings": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard.class"
+],
+"Use Fiducial Vision?": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard.class"
+],
+"OCR Action": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard.class"
+],
+"OCR Text Orientation": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard.class"
+],
+"OCR Margin": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard.class"
+],
+"OCR Font": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard.class"
+],
+"Font Size [pt]": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard.class"
+],
+"Try to detect and set the part by OCR.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard$1.class"
+],
+"Close the opened covers of all the feeders of the machine.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard$10.class"
+],
+"Capture the Z height that the tool is at.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard$2.class"
+],
+"Show the features recognized by vision, taking the camera center and/or already set feeder properties into consideration.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard$3.class"
+],
+"Calibrate the cover edges against the nozzle tip to get precise open/close positioning.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard$4.class"
+],
+"Reset the Feed Count to 0 (for a newly loaded tape).": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard$5.class"
+],
+"Capture the blinds pitch, size and centerline from the current camera position.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard$6.class"
+],
+"Open this cover using the nozzle tip.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard$7.class"
+],
+"Close this cover using the nozzle tip.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard$8.class"
+],
+"Open the covers of all the enabled feeders of the machine.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard$9.class"
+],
+"OCR Detect": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Get Tool Z": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Show Features": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Calibrate Cover Edges": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Auto Setup": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Open Cover": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Close Cover": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Open All Covers": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Close All Covers": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"General Settings": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferenceDragFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferenceLeverFeederConfigurationWizard.class"
+],
+"Part Z": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Part pickup Z": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Retry Count": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Tape Length": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Length of the tape.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Feeder Extent": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Total feeder holder extent (all tapes).": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Capture the pocket pitch, size and centerline from the current camera position.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Pocket Pitch": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Picth of the part pockets in the tape.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Pocket Size": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Size of the pocket across the tape.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Pocket Count": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Pocket Centerline": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"First Pocket": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"First pocket of the tape that contains a part. Use the Show Features Button to indicate pocket numbers.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Feeder No.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Feeder lane number inside the same holder.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Last Pocket": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Last pocket of the tape that contains a part. Use the Show Features Button to indicate pocket numbers.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Feeders Total": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Total number of feeder lanes in the same holder. ": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Cover Settings": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Cover Type": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Cover Open/Close": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Push speed": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Speed factor when pushing the cover.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Push Z Offset": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Open all Covers": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Close all Covers": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Close the opened covers of all the feeders of the machine (including those of enabled feeders where the cover state is unknown).": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Edge Distance Open": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Distance from sprocket to the edge used for opening the cover (default: 2mm).": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Edge Distance Closed": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"Distance from sprocket to the edge used for closing the cover (default: 2mm).": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"No postPickActuatorName specified for feeder {}.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceAutoFeederConfigurationWizard$2.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferenceSlotAutoFeederConfigurationWizard$8.class",
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard$3.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard$9.class"
+],
+"For Boolean: 1 = True, 0 = False": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceAutoFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferenceSlotAutoFeederConfigurationWizard.class"
+],
+"Feed Speed %": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceDragFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferenceLeverFeederConfigurationWizard.class"
+],
+"Peel Off Actuator Name": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceDragFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferenceLeverFeederConfigurationWizard.class"
+],
+"Feed Start Location": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceDragFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferenceLeverFeederConfigurationWizard.class"
+],
+"Feed End Location": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceDragFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferenceLeverFeederConfigurationWizard.class"
+],
+"Backoff Distance": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceDragFeederConfigurationWizard.class"
+],
+"Can't delete the only DropBox. There must always be one DropBox defined.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceHeapFeederConfigurationWizard$12.class"
+],
+"Can't delete a DropBox that is in use by other feeder.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceHeapFeederConfigurationWizard$12.class"
+],
+"Clean DropBox": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceHeapFeederConfigurationWizard.class"
+],
+"Drop Location": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceHeapFeederConfigurationWizard.class"
+],
+"Parts Pipeline": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceHeapFeederConfigurationWizard.class"
+],
+"Dummy Part": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceHeapFeederConfigurationWizard.class"
+],
+"Dummy part for moving unknown parts (e.g. to the trash). Is also used to determine the used nozzle.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceHeapFeederConfigurationWizard.class"
+],
+"Feed Retry Count": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceHeapFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferenceSlotAutoFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"Pick Retry Count": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceHeapFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferenceSlotAutoFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"Last Feed Depth": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceHeapFeederConfigurationWizard.class"
+],
+"Max flip attempts": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceHeapFeederConfigurationWizard.class"
+],
+"After this numer of feed, mark the parts as disposable. So the next feed is done with new parts.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceHeapFeederConfigurationWizard.class"
+],
+"Vacuum Difference": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceHeapFeederConfigurationWizard.class"
+],
+"Poke for Parts": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceHeapFeederConfigurationWizard.class"
+],
+"If enabled the nozzle is lifted for each move inside the heap. Reduces the risk to damage (large) parts, but slower.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceHeapFeederConfigurationWizard.class"
+],
+"Detection Pipeline": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceHeapFeederConfigurationWizard.class"
+],
+"Template Pipeline": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceHeapFeederConfigurationWizard.class"
+],
+"No action taken.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$10.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$12.class"
+],
+"OCR Report": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$10.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$12.class"
+],
+"Setup OCR Region": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$11.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"This feeder is used as a template and cannot be overwritten.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$13.class"
+],
+"Please select some feeder settings to clone.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$13.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$14.class"
+],
+"No suitable template feeder found.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$13.class"
+],
+"This feeder is not used as a template.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$14.class"
+],
+"No suitable feeders found to clone to.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$14.class"
+],
+"All Feeder OCR": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"Part by OCR": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"Clone from Template": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"Clone to Feeders": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"To improve efficiency you can actuate the feeder multiple times to feed more parts per feed cycle.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"Cannot determine default head of machine.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"OCR Wrong Part Action": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"OCR Font Name": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"Stop after wrong part?": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"OCR Font Size [pt]": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"The OCR font size in typographic points (1 pt = 1/72 in).": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"Check on Job Start?": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"Clone Settings": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"Use this one as Template?": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"Clone Location Settings?": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"Clone the X/Y-invariable Location settings, i.e. Pick Location Z and options. ": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"Clone Tape Setting?": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"Clone the Tape Settings. ": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"Clone Vision Settings?": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"Clone the Vision settings, including the pipeline.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"Clone Push-Pull Settings?": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"Clone the Push-Pull Motion Settings.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"Push-Pull Settings": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Feed Actuator": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Actuator for feed signal and for motion": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Auxiliary Actuator": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Actuator for auxiliary purpose (e.g. peeling).": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Locations that are included when pushing.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Locations that are included when pulling.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Vision Calibrate?": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Apply the offsets obtained from Vision Calibration": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Start Location": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Include the Start Location in multi-actuating motion (if the pull switch is also set).": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Go to the Start Location when pulling.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"The delay (in milliseconds) after reaching this location": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Mid 1 Location": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Go to the Mid 1 Location when pushing.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Include the Mid 1 Location in multi-actuation motion (if the push/pull switch is also set).": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Go to the Mid 1 Location when pulling.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Mid 2 Location": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Go to the Mid 2 Location when pushing.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Include the Mid 2 Location in multi-actuation motion (if the push/pull switch is also set).": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Go to the Mid 2 Location when pulling.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Mid 3 Location": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Go to the Mid 3 Location when pushing.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Include the Mid 3 Location in multi-actuation motion (if the push/pull switch is also set).": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Go to the Mid 3 Location when pulling.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"End Location": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Go to the End Location when pushing.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Include the End Location in multi-actuation motion (if the push switch is also set).": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Cannot reset actuator rotation axis.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"Can't delete the only bank. There must always be one bank defined.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceSlotAutoFeederConfigurationWizard$6.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard$6.class"
+],
+"Move nozzle to pick location before actuating feed actuator": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceSlotAutoFeederConfigurationWizard.class"
+],
+"Checking second part...": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceStripFeederConfigurationWizard$10$1.class"
+],
+"No hole found at selected location": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceStripFeederConfigurationWizard$10$1.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferenceStripFeederConfigurationWizard$9$1.class"
+],
+"The same part was selected both times": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceStripFeederConfigurationWizard$10$1.class"
+],
+"Setup complete!": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceStripFeederConfigurationWizard$10$1.class"
+],
+"Auto Setup Failure": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceStripFeederConfigurationWizard$10$2$1.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferenceStripFeederConfigurationWizard$7.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferenceStripFeederConfigurationWizard$9$2$1.class"
+],
+"Please set the Reference Hole Location Z coordinate first.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceStripFeederConfigurationWizard$7.class"
+],
+"Click on the center of the first part in the tape.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceStripFeederConfigurationWizard$7.class"
+],
+"Checking first part...": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceStripFeederConfigurationWizard$9$1.class"
+],
+"Now click on the center of the second part in the tape.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceStripFeederConfigurationWizard$9$1.class"
+],
+"The tape is oriented incorrectly for the feed direction of the components selected": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceStripFeederConfigurationWizard.class"
+],
+"Tray Count": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceTrayFeederConfigurationWizard.class"
+],
+"X offset must be greater than 0 if X tray count is greater than 1 or feed failure will occur.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceTrayFeederConfigurationWizard.class"
+],
+"Y offset must be greater than 0 if Y tray count is greater than 1 or feed failure will occur.": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceTrayFeederConfigurationWizard.class"
+],
+"No getIdActuatorName specified for feeder {}.": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard$1.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard$7.class"
+],
+"Failed, unable to find an actuator named \u0001": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard$1.class",
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard$4.class",
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard$5.class",
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard$6.class",
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard$7.class",
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard$8.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard$10.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard$11.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard$12.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard$13.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard$14.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard$7.class"
+],
+"No feedCountActuatorName specified for feeder {}.": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard$4.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard$10.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard$12.class"
+],
+"No clearCountActuatorName specified for feeder {}.": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard$5.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard$11.class"
+],
+"No pitchActuatorName specified for feeder {}.": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard$6.class"
+],
+"No togglePitchActuatorName specified for feeder {}.": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard$7.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard$13.class"
+],
+"No statusActuatorName specified for feeder {}.": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard$8.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard$14.class"
+],
+"Get ID": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"Test pre pick": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"Get feed count": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"Clear feed count": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"Get pitch": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"Toggle pitch": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"Get status": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"Feeder Number:": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"Pre Pick": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"Get Feed Count": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"Clear Feed Count": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"Get Pitch": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"Toggle Pitch": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"Toggle between 2 MM and 4 MM": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"Get Status": [
+"org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"No fiducial defined for feeder {}.": [
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard$15.class"
+],
+"Unable to locate fiducial": [
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard$15.class"
+],
+"No feeder {} exists in bank, so creating new.": [
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard$3.class"
+],
+"Load installed feeder to slot.": [
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"Remove selected feeder from database.": [
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"Update feeder location based on fiducial": [
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"Fiducial Part": [
+"org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+],
+"New Actuator...": [
+"org/openpnp/machine/reference/psh/ActuatorsPropertySheetHolder$1.class"
+],
+"Camera Error": [
+"org/openpnp/machine/reference/psh/ActuatorsPropertySheetHolder$1.class",
+"org/openpnp/machine/reference/psh/CamerasPropertySheetHolder$1.class"
+],
+"New Axis...": [
+"org/openpnp/machine/reference/psh/AxesPropertySheetHolder$1.class"
+],
+"Axis Error": [
+"org/openpnp/machine/reference/psh/AxesPropertySheetHolder$1.class"
+],
+"Couldn't set default vision provider.": [
+"org/openpnp/machine/reference/psh/CamerasPropertySheetHolder$1.class"
+],
+"Driver Error": [
+"org/openpnp/machine/reference/psh/DriversPropertySheetHolder$1.class"
+],
+"New Nozzle...": [
+"org/openpnp/machine/reference/psh/NozzlesPropertySheetHolder$1.class"
+],
+"New Signaler...": [
+"org/openpnp/machine/reference/psh/SignalersPropertySheetHolder$1.class"
+],
+"set to a static exposure value that will be calibrated with this solution. The camera should look at a representative, rather bright subject when you press Accept": [
+"org/openpnp/machine/reference/solutions/CameraSolutions.class"
+],
+"Z probe": [
+"org/openpnp/machine/reference/solutions/HeadSolutions.class"
+],
+"Remove cam transform axis \u0001 \u0001\u0001and compensate in nozzle offset.": [
+"org/openpnp/machine/reference/solutions/KinematicSolutions.class"
+],
+"Go to the nozzle(s) and enable the Compatible switches where appropriate.": [
+"org/openpnp/machine/reference/solutions/NozzleTipSolutions.class"
+],
+"Link the Placements/Parts/Packages/Vision Settings/Feeders tables between tabs.": [
+"org/openpnp/machine/reference/solutions/VisionSolutions.class"
+],
+"When a table row is selected on one tab, automatically select the corresponding ones on the other tabs. For instance, if a placement is selected, the corresponding part will be selected on the Parts tab, the package on the Packages tab, the vision settings on the Vision tab, and the feeder on the Feeders tab, if one is present for the part.": [
+"org/openpnp/machine/reference/solutions/VisionSolutions.class"
+],
+"The camera rotation/mirroring detected earlier was not confirmed.": [
+"org/openpnp/machine/reference/solutions/VisionSolutions.class"
+],
+"No part on nozzle.": [
+"org/openpnp/machine/reference/vision/ReferenceBottomVision.class"
+],
+"Part mismatch with part on nozzle.": [
+"org/openpnp/machine/reference/vision/ReferenceBottomVision.class"
+],
+"Auto focus part height determination failed. Camera seems to have focused on nozzle tip.": [
+"org/openpnp/machine/reference/vision/ReferenceBottomVision.class"
+],
+"Bottom vision part {} result rect {}": [
+"org/openpnp/machine/reference/vision/ReferenceBottomVision.class"
+],
+"Offsets too large {} : center offset {} > {}": [
+"org/openpnp/machine/reference/vision/ReferenceBottomVision.class"
+],
+"Offsets too large {} : corner offset {} > {}": [
+"org/openpnp/machine/reference/vision/ReferenceBottomVision.class"
+],
+"Offsets too large {} : angle offset {} > {}": [
+"org/openpnp/machine/reference/vision/ReferenceBottomVision.class"
+],
+"Offsets accepted {}": [
+"org/openpnp/machine/reference/vision/ReferenceBottomVision.class"
+],
+"Invalid measured size for size check.\nwidth=%s\nlength=%s": [
+"org/openpnp/machine/reference/vision/ReferenceBottomVision.class"
+],
+"Part %s width too large: nominal %s, limit %s, measured %s": [
+"org/openpnp/machine/reference/vision/ReferenceBottomVision.class"
+],
+"Part %s width too small: nominal %s, limit %s, measured %s": [
+"org/openpnp/machine/reference/vision/ReferenceBottomVision.class"
+],
+"Part %s length too large: nominal %s, limit %s, measured %s": [
+"org/openpnp/machine/reference/vision/ReferenceBottomVision.class"
+],
+"Part %s length too small: nominal %s, limit %s, measured %s": [
+"org/openpnp/machine/reference/vision/ReferenceBottomVision.class"
+],
+"Part %s size ok. Width %s, Length %s": [
+"org/openpnp/machine/reference/vision/ReferenceBottomVision.class"
+],
+"Alignment result: {}": [
+"org/openpnp/machine/reference/vision/ReferenceBottomVision.class"
+],
+"ReferenceBottomVision (%s): Pipeline error. Pipeline must contain a result named '%s'.": [
+"org/openpnp/machine/reference/vision/ReferenceBottomVision.class"
+],
+"ReferenceBottomVision (%s): No result found.": [
+"org/openpnp/machine/reference/vision/ReferenceBottomVision.class"
+],
+"ReferenceBottomVision (%s): Incorrect pipeline result type (%s). Expected RotatedRect.": [
+"org/openpnp/machine/reference/vision/ReferenceBottomVision.class"
+],
+"Bottom Vision": [
+"org/openpnp/machine/reference/vision/ReferenceBottomVision.class"
+],
+"Part \u0001 height set to \u0001 by camera focus provider.": [
+"org/openpnp/machine/reference/vision/ReferenceBottomVision.class"
+],
+"Part height unknown and camera \u0001 does not support part height sensing.": [
+"org/openpnp/machine/reference/vision/ReferenceBottomVision.class"
+],
+"Part \u0001 bottom vision offsets length \u0001 larger than the allowed Max. Pick Tolerance \u0001 set on nozzle tip \u0001.": [
+"org/openpnp/machine/reference/vision/ReferenceBottomVision.class"
+],
+"Vision Compositing has not found a valid solution for package \u0001. Status: \u0001, \u0001. For more diagnostic information go to the Vision Compositing tab on package \u0001. ": [
+"org/openpnp/machine/reference/vision/ReferenceBottomVision.class"
+],
+"Part \u0001 BottomVisionSettings migrated.": [
+"org/openpnp/machine/reference/vision/ReferenceBottomVision.class"
+],
+"Part \u0001 BottomVisionSettings with no part.": [
+"org/openpnp/machine/reference/vision/ReferenceBottomVision.class"
+],
+"Fiducial %s does not have a valid part assigned.": [
+"org/openpnp/machine/reference/vision/ReferenceFiducialLocator.class"
+],
+"Setting maxDistance override because this pipeline does not have a maxDistance stage": [
+"org/openpnp/machine/reference/vision/ReferenceFiducialLocator.class"
+],
+"Fiducal Locator": [
+"org/openpnp/machine/reference/vision/ReferenceFiducialLocator.class"
+],
+"Unable to locate \u0001 on \u0001": [
+"org/openpnp/machine/reference/vision/ReferenceFiducialLocator.class"
+],
+"Fiducial locator results are invalid for \u0001 because: \u0001. Potential remidies include setting the initial board X, Y, Z, and Rotation in the Boards panel; using a different set of fiducials; or changing the allowable tolerances in the <tolerances> section of the fiducial-locator section in machine.xml.": [
+"org/openpnp/machine/reference/vision/ReferenceFiducialLocator.class"
+],
+"Part \u0001 FiducialVisionSettings migrated.": [
+"org/openpnp/machine/reference/vision/ReferenceFiducialLocator.class"
+],
+"Part \u0001 FiducialVisionSettings with no part.": [
+"org/openpnp/machine/reference/vision/ReferenceFiducialLocator.class"
+],
+"This will replace the Pipeline with the default. Are you sure??": [
+"org/openpnp/machine/reference/vision/wizards/BottomVisionSettingsConfigurationWizard$1.class",
+"org/openpnp/machine/reference/vision/wizards/FiducialVisionSettingsConfigurationWizard$1.class"
+],
+"Parts and Packages": [
+"org/openpnp/machine/reference/vision/wizards/BottomVisionSettingsConfigurationWizard.class",
+"org/openpnp/machine/reference/vision/wizards/FiducialVisionSettingsConfigurationWizard.class"
+],
+"selected here": [
+"org/openpnp/machine/reference/vision/wizards/BottomVisionSettingsConfigurationWizard.class"
+],
+"selected in the Packages tab": [
+"org/openpnp/machine/reference/vision/wizards/BottomVisionSettingsConfigurationWizard.class"
+],
+"Bottom Vision Pipeline": [
+"org/openpnp/machine/reference/vision/wizards/BottomVisionSettingsConfigurationWizard.class"
+],
+"This will reset the bottom vision settings with to the default settings. Are you sure??": [
+"org/openpnp/machine/reference/vision/wizards/BottomVisionSettingsConfigurationWizard.class"
+],
+"selected through part \u0001 loaded on \u0001": [
+"org/openpnp/machine/reference/vision/wizards/BottomVisionSettingsConfigurationWizard.class"
+],
+"selected through part \u0001 here": [
+"org/openpnp/machine/reference/vision/wizards/BottomVisionSettingsConfigurationWizard.class"
+],
+"selected through part \u0001 in the Parts tab": [
+"org/openpnp/machine/reference/vision/wizards/BottomVisionSettingsConfigurationWizard.class"
+],
+"A package must be designated to configure the pipeline. Please pick a part with selected nozzle \u0001. Alternatively, you can select a single part or package on the Parts or Packages tab for a \"dry-run\" with empty nozzle (like after a failed pick).": [
+"org/openpnp/machine/reference/vision/wizards/BottomVisionSettingsConfigurationWizard.class"
+],
+"A nozzle tip must be loaded on selected nozzle \u0001.": [
+"org/openpnp/machine/reference/vision/wizards/BottomVisionSettingsConfigurationWizard.class"
+],
+"Nozzle tip \u0001 loaded on selected nozzle \u0001 is not compatible with package \u0001 \u0001.": [
+"org/openpnp/machine/reference/vision/wizards/BottomVisionSettingsConfigurationWizard.class"
+],
+"move nozzle \u0001 to the camera alignment location before editing the pipeline": [
+"org/openpnp/machine/reference/vision/wizards/BottomVisionSettingsConfigurationWizard.class"
+],
+"Nozzle \u0001 does not have a part loaded": [
+"org/openpnp/machine/reference/vision/wizards/BottomVisionSettingsConfigurationWizard.class"
+],
+"Wrong part \u0001 on Nozzle \u0001": [
+"org/openpnp/machine/reference/vision/wizards/BottomVisionSettingsConfigurationWizard.class"
+],
+"Wrong package \u0001 on Nozzle \u0001": [
+"org/openpnp/machine/reference/vision/wizards/BottomVisionSettingsConfigurationWizard.class"
+],
+"Bottom Vision for vision settings \u0001 not enabled.": [
+"org/openpnp/machine/reference/vision/wizards/BottomVisionSettingsConfigurationWizard.class"
+],
+"Present Bottom Vision Settings are not effective for part \u0001 on Nozzle \u0001. Assign to Package of Part.": [
+"org/openpnp/machine/reference/vision/wizards/BottomVisionSettingsConfigurationWizard.class"
+],
+"There are no specializations on \u0001 with the \u0001 \u0001.": [
+"org/openpnp/machine/reference/vision/wizards/BottomVisionSettingsConfigurationWizard.class",
+"org/openpnp/machine/reference/vision/wizards/FiducialVisionSettingsConfigurationWizard.class"
+],
+"This will remove the specialized vision settings in:\n\n\u0001\n\nAre you sure?": [
+"org/openpnp/machine/reference/vision/wizards/BottomVisionSettingsConfigurationWizard.class",
+"org/openpnp/machine/reference/vision/wizards/FiducialVisionSettingsConfigurationWizard.class"
+],
+"Vision Settings already specialized for \u0001.": [
+"org/openpnp/machine/reference/vision/wizards/BottomVisionSettingsConfigurationWizard.class",
+"org/openpnp/machine/reference/vision/wizards/FiducialVisionSettingsConfigurationWizard.class"
+],
+"Fiducial Vision Pipeline": [
+"org/openpnp/machine/reference/vision/wizards/FiducialVisionSettingsConfigurationWizard.class"
+],
+"This will reset the fiducial vision settings with to the default settings. Are you sure??": [
+"org/openpnp/machine/reference/vision/wizards/FiducialVisionSettingsConfigurationWizard.class"
+],
+"OpenCvVisionProviderConfigurationWizard Placeholder": [
+"org/openpnp/machine/reference/vision/wizards/OpenCvVisionProviderConfigurationWizard.class"
+],
+"Interlock Type": [
+"org/openpnp/machine/reference/wizards/ActuatorInterlockMonitorConfigurationWizard.class"
+],
+"Confirmation range": [
+"org/openpnp/machine/reference/wizards/ActuatorInterlockMonitorConfigurationWizard.class"
+],
+"Confirmation pattern": [
+"org/openpnp/machine/reference/wizards/ActuatorInterlockMonitorConfigurationWizard.class"
+],
+"Use a regular expression to match the pattern.": [
+"org/openpnp/machine/reference/wizards/ActuatorInterlockMonitorConfigurationWizard.class"
+],
+"Interlock Conditions": [
+"org/openpnp/machine/reference/wizards/ActuatorInterlockMonitorConfigurationWizard.class"
+],
+"Boolean Actuator": [
+"org/openpnp/machine/reference/wizards/ActuatorInterlockMonitorConfigurationWizard.class"
+],
+"The interlock is only active if this actuator has the chosen known or unknown state.": [
+"org/openpnp/machine/reference/wizards/ActuatorInterlockMonitorConfigurationWizard.class"
+],
+"Calibrate now": [
+"org/openpnp/machine/reference/wizards/ContactProbeNozzleWizard.class"
+],
+"Contact Probing": [
+"org/openpnp/machine/reference/wizards/ContactProbeNozzleWizard.class"
+],
+"Contact Sense Actuator": [
+"org/openpnp/machine/reference/wizards/ContactProbeNozzleWizard.class"
+],
+"Probe Speed": [
+"org/openpnp/machine/reference/wizards/ContactProbeNozzleWizard.class"
+],
+"Start Offset": [
+"org/openpnp/machine/reference/wizards/ContactProbeNozzleWizard.class"
+],
+"Probe Depth": [
+"org/openpnp/machine/reference/wizards/ContactProbeNozzleWizard.class"
+],
+"Maximum contact probing depth in Z, from the Start Offset.": [
+"org/openpnp/machine/reference/wizards/ContactProbeNozzleWizard.class"
+],
+"Sniffle Increment": [
+"org/openpnp/machine/reference/wizards/ContactProbeNozzleWizard.class"
+],
+"Vacuum sensing \"sniffle\" increment in Z. ": [
+"org/openpnp/machine/reference/wizards/ContactProbeNozzleWizard.class"
+],
+"Sniffle Dwell Time [ms]": [
+"org/openpnp/machine/reference/wizards/ContactProbeNozzleWizard.class"
+],
+"Final Adjustment": [
+"org/openpnp/machine/reference/wizards/ContactProbeNozzleWizard.class"
+],
+"Feeder Height Probing": [
+"org/openpnp/machine/reference/wizards/ContactProbeNozzleWizard.class"
+],
+"Placement Height Probing": [
+"org/openpnp/machine/reference/wizards/ContactProbeNozzleWizard.class"
+],
+"Discard Probing": [
+"org/openpnp/machine/reference/wizards/ContactProbeNozzleWizard.class"
+],
+"Calibration Z Offset": [
+"org/openpnp/machine/reference/wizards/ContactProbeNozzleWizard.class"
+],
+"On URL": [
+"org/openpnp/machine/reference/wizards/HttpActuatorConfigurationWizard.class"
+],
+"Off URL": [
+"org/openpnp/machine/reference/wizards/HttpActuatorConfigurationWizard.class"
+],
+"Parametric URL": [
+"org/openpnp/machine/reference/wizards/HttpActuatorConfigurationWizard.class"
+],
+"Read URL": [
+"org/openpnp/machine/reference/wizards/HttpActuatorConfigurationWizard.class"
+],
+"Regular Expression": [
+"org/openpnp/machine/reference/wizards/HttpActuatorConfigurationWizard.class"
+],
+"Go to https://github.com/openpnp/openpnp/wiki/Camera-Lens-Calibration for detailed instructions.\nWhen you have your calibration card ready, hold it in front of the camera so that the entire card is visible.\nEach time the screen flashes an image is captured. After the flash you should move the card to a new orientation.": [
+"org/openpnp/machine/reference/wizards/ReferenceCameraCalibrationConfigurationWizard$1.class"
+],
+"Captured %d of %d.\nMove the card to a new position and angle each time the screen flashes.": [
+"org/openpnp/machine/reference/wizards/ReferenceCameraCalibrationConfigurationWizard$1.class"
+],
+"Machine must be enabled and homed before starting calibration.": [
+"org/openpnp/machine/reference/wizards/ReferenceCameraCalibrationWizard$5.class"
+],
+"Must define Primary and Secondary Calibration Fiducial locations before starting calibration.": [
+"org/openpnp/machine/reference/wizards/ReferenceCameraCalibrationWizard$5.class"
+],
+"Must define camera location before starting calibration.": [
+"org/openpnp/machine/reference/wizards/ReferenceCameraCalibrationWizard$5.class"
+],
+"Must define finite Primary and Secondary Calibration Z values before starting calibration.": [
+"org/openpnp/machine/reference/wizards/ReferenceCameraCalibrationWizard$5.class"
+],
+"Primary and Secondary Calibration Z values must be different.": [
+"org/openpnp/machine/reference/wizards/ReferenceCameraCalibrationWizard$5.class"
+],
+"Must define finite Default Working Plane Z value before starting calibration.": [
+"org/openpnp/machine/reference/wizards/ReferenceCameraCalibrationWizard$5.class"
+],
+"Override Old Style": [
+"org/openpnp/machine/reference/wizards/ReferenceCameraCalibrationWizard.class"
+],
+"Enable Calibration": [
+"org/openpnp/machine/reference/wizards/ReferenceCameraCalibrationWizard.class"
+],
+"Show Outliers": [
+"org/openpnp/machine/reference/wizards/ReferenceCameraCalibrationWizard.class"
+],
+"Start Calibration Data Collection": [
+"org/openpnp/machine/reference/wizards/ReferenceCameraCalibrationWizard.class"
+],
+"Calibration of the head's default camera is complete and the machine should be re-homed before any new locations are captured/examined. Home the machine now?": [
+"org/openpnp/machine/reference/wizards/ReferenceCameraCalibrationWizard.class"
+],
+"Calibration Complete": [
+"org/openpnp/machine/reference/wizards/ReferenceCameraCalibrationWizard.class"
+],
+"Residual Error": [
+"org/openpnp/machine/reference/wizards/ReferenceCameraCalibrationWizard.class"
+],
+"Nozzle offset wizard set head offset to location: \u0001": [
+"org/openpnp/machine/reference/wizards/ReferenceNozzleCameraOffsetWizard$3.class"
+],
+"Open Advice Url": [
+"org/openpnp/machine/reference/wizards/ReferenceNozzleCameraOffsetWizard.class"
+],
+"Please unload the nozzle tip on the selected nozzle.": [
+"org/openpnp/machine/reference/wizards/ReferenceNozzleTipCalibrationWizard.class"
+],
+"Please load the nozzle tip on a nozzle.": [
+"org/openpnp/machine/reference/wizards/ReferenceNozzleTipCalibrationWizard.class"
+],
+"Calibration Pipeline": [
+"org/openpnp/machine/reference/wizards/ReferenceNozzleTipCalibrationWizard.class"
+],
+"move nozzle \u0001 to the camera center location before editing the pipeline": [
+"org/openpnp/machine/reference/wizards/ReferenceNozzleTipCalibrationWizard.class"
+],
+"No background calibration recorded for \u0001": [
+"org/openpnp/machine/reference/wizards/ReferenceNozzleTipCalibrationWizard.class"
+],
+"Background calibration for \u0001 does not indicate any problems.": [
+"org/openpnp/machine/reference/wizards/ReferenceNozzleTipCalibrationWizard.class"
+],
+"Background calibration problems: Frame \u0001/\u0001": [
+"org/openpnp/machine/reference/wizards/ReferenceNozzleTipCalibrationWizard.class"
+],
+"Nozzle \u0001 is no ContactProbeNozzle.": [
+"org/openpnp/machine/reference/wizards/ReferenceNozzleTipToolChangerWizard$5.class",
+"org/openpnp/machine/reference/wizards/ReferenceNozzleTipToolChangerWizard$6.class"
+],
+"Nozzle tip \u0001 must at least have the First Location defined, before it can clone from the template. The displacement between the two changer slots must be known.": [
+"org/openpnp/machine/reference/wizards/ReferenceNozzleTipToolChangerWizard$7.class"
+],
+"Select a vision calibration location first.": [
+"org/openpnp/machine/reference/wizards/ReferenceNozzleTipToolChangerWizard.class"
+],
+"No down-looking camera found.": [
+"org/openpnp/machine/reference/wizards/ReferenceNozzleTipToolChangerWizard.class"
+],
+"Script Name": [
+"org/openpnp/machine/reference/wizards/ScriptActuatorConfigurationWizard.class"
+],
+"Replace Drivers?": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"Simulated Imperfections": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"Nozzle Tip Runout": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"Simulates runout of that radius on all nozzle tips.": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"Runout Phase": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"Phase angle for the simulated runout.": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"Non-Squareness Factor": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"Creates simulated Non-Squareness by that factor. ": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"Pick & Place Checking?": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"Camera Lag [s]": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"Camera Noise": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"Vibration Amplitude": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"Simulates Vibration, the amplitude is given in relation to the past acceleration at Eigenfrequency (try 0.1 for a strong vibration).": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"Vibration Duration [s]": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"Vibration duration in seconds (exponential decay to ~1%).": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"Homing Error": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"Reset Feeders": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"Machine Table Z": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"Set Machine Table Z": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"Attempting to remove listener from: %s @%08x - but: %s @%08x is not a listener": [
+"org/openpnp/model/AbstractModelObject.class"
+],
+"Attempting to remove listener from: %s @%08x - but: %s @%08x is not a listener for: %s": [
+"org/openpnp/model/AbstractModelObject.class"
+],
+"During disposal of %s @%08x - removed listener: %s @%08x": [
+"org/openpnp/model/AbstractModelObject.class"
+],
+"Dump of %s @%08x listeners:": [
+"org/openpnp/model/AbstractModelObject.class"
+],
+"Axes \u0001 and \u0001 have duplicate type \u0001 assigned.": [
+"org/openpnp/model/AxesLocation.class"
+],
+"Axis \u0001 has no letter assigned.": [
+"org/openpnp/model/AxesLocation.class"
+],
+"Axes \u0001 and \u0001 have duplicate letter \u0001 assigned.": [
+"org/openpnp/model/AxesLocation.class"
+],
+"Axes \u0001 and \u0001 have duplicate type \u0001 assigned. Use letter variables on the driver.": [
+"org/openpnp/model/AxesLocation.class"
+],
+"Board @%08x defined by @%08x: file %s, dims: %sx%s, placements: %d @%08x (@%08x)": [
+"org/openpnp/model/Board.class"
+],
+"BoardLocation %s @%08x defined by @%08x: (%s), location (%s), side (%s)": [
+"org/openpnp/model/BoardLocation.class"
+],
+"Configuration instance not yet initialized.": [
+"org/openpnp/model/Configuration.class"
+],
+"No packages.xml found in configuration directory, loading defaults.": [
+"org/openpnp/model/Configuration.class"
+],
+"No parts.xml found in configuration directory, loading defaults.": [
+"org/openpnp/model/Configuration.class"
+],
+"No boards.xml found in configuration directory, loading defaults.": [
+"org/openpnp/model/Configuration.class"
+],
+"No panels.xml found in configuration directory, loading defaults.": [
+"org/openpnp/model/Configuration.class"
+],
+"No vision-settings.xml found in configuration directory, loading defaults.": [
+"org/openpnp/model/Configuration.class"
+],
+"No machine.xml found in configuration directory, loading defaults.": [
+"org/openpnp/model/Configuration.class"
+],
+"No script-state.xml found in configuration directory, loading defaults.": [
+"org/openpnp/model/Configuration.class"
+],
+"Defaults were loaded. Saving to configuration directory.": [
+"org/openpnp/model/Configuration.class"
+],
+"Package with null Id cannot be added to Configuration.": [
+"org/openpnp/model/Configuration.class"
+],
+"Part with null Id cannot be added to Configuration.": [
+"org/openpnp/model/Configuration.class"
+],
+"Vision Settings with null Id cannot be added to Configuration.": [
+"org/openpnp/model/Configuration.class"
+],
+"Save Error": [
+"org/openpnp/model/Configuration.class"
+],
+"Dump of the jobRootPanelLocation": [
+"org/openpnp/model/Configuration.class"
+],
+"The job file contains a legacy panel definition, it will be converted to the new format.": [
+"org/openpnp/model/Configuration.class"
+],
+"The job file has been updated to use the new panel file.": [
+"org/openpnp/model/Configuration.class"
+],
+"A legacy job file has been detected, it is being updated to the new format.": [
+"org/openpnp/model/Configuration.class"
+],
+"Unable to find child %s of panel %s": [
+"org/openpnp/model/Configuration.class"
+],
+"Error while reading packages.xml (\u0001)": [
+"org/openpnp/model/Configuration.class"
+],
+"Error while reading parts.xml (\u0001)": [
+"org/openpnp/model/Configuration.class"
+],
+"Error while reading boards.xml (\u0001)": [
+"org/openpnp/model/Configuration.class"
+],
+"Error while reading panels.xml (\u0001)": [
+"org/openpnp/model/Configuration.class"
+],
+"Error while reading vision-settings.xml (\u0001)": [
+"org/openpnp/model/Configuration.class"
+],
+"Error while reading machine.xml (\u0001)": [
+"org/openpnp/model/Configuration.class"
+],
+"Error while reading script-state.xml (\u0001)": [
+"org/openpnp/model/Configuration.class"
+],
+"Error while saving machine.xml (\u0001)": [
+"org/openpnp/model/Configuration.class"
+],
+"Error while saving packages.xml (\u0001)": [
+"org/openpnp/model/Configuration.class"
+],
+"Error while saving parts.xml (\u0001)": [
+"org/openpnp/model/Configuration.class"
+],
+"Error while saving boards.xml (\u0001)": [
+"org/openpnp/model/Configuration.class"
+],
+"Error while saving panels.xml (\u0001)": [
+"org/openpnp/model/Configuration.class"
+],
+"Error while saving vision-settings.xml (\u0001)": [
+"org/openpnp/model/Configuration.class"
+],
+"Error while saving script-state.xml (\u0001)": [
+"org/openpnp/model/Configuration.class"
+],
+"Could not load board \u0001, file is missing.": [
+"org/openpnp/model/Configuration.class"
+],
+"Could not load board \u0001, file may be corrupt.": [
+"org/openpnp/model/Configuration.class"
+],
+"Could not load panel \u0001, file is missing.": [
+"org/openpnp/model/Configuration.class"
+],
+"Could not load panel \u0001, file may be corrupt.": [
+"org/openpnp/model/Configuration.class"
+],
+"Do you want to save your changes to \u0001?\nIf you don't save, your changes will be lost.": [
+"org/openpnp/model/Configuration.class"
+],
+"Instance type \u0001 not supported.": [
+"org/openpnp/model/Configuration.class",
+"org/openpnp/model/Job.class"
+],
+"A new file is being created to hold the panel definition: \u0001": [
+"org/openpnp/model/Configuration.class"
+],
+"A backup of the legacy job file has been copied to: \u0001": [
+"org/openpnp/model/Configuration.class"
+],
+"Board file not found: \u0001": [
+"org/openpnp/model/Configuration.class"
+],
+"Panel file not found: \u0001": [
+"org/openpnp/model/Configuration.class"
+],
+"For Dual form factor, the pad count must be positive multiples of 2.": [
+"org/openpnp/model/Footprint.class"
+],
+"For Quad form factor, the pad count must be positive multiples of 4.": [
+"org/openpnp/model/Footprint.class"
+],
+"For PGA, the pad count must be a square number.": [
+"org/openpnp/model/Footprint.class"
+],
+"This can't happen!": [
+"org/openpnp/model/Length.class"
+],
+"s, o=": [
+"org/openpnp/model/Motion.class"
+],
+"Driver does not support move interpolation. Please refer to Issues & Solutions.": [
+"org/openpnp/model/Motion.class"
+],
+"Interpolation failed! Max. steps (\u0001) reached after \u0001% of move time/ \u0001 probes. Degrading to moderated move.": [
+"org/openpnp/model/Motion.class"
+],
+"Interpolation \u0001 intervals, \u0001 probes, \u0001 steps, comp time \u0001ms": [
+"org/openpnp/model/Motion.class"
+],
+"s, bounds s@t = ": [
+"org/openpnp/model/MotionProfile.class"
+],
+"Vmax symmetrical move, immediate solution": [
+"org/openpnp/model/MotionProfile.class"
+],
+"Analytical solution with constant acceleration profile = \u0001": [
+"org/openpnp/model/MotionProfile.class"
+],
+"Analytical solution with constant acceleration segment (1) = \u0001 (2) = \u0001": [
+"org/openpnp/model/MotionProfile.class"
+],
+"Analytical solution with constant deceleration segment (1) = \u0001 (2) = \u0001": [
+"org/openpnp/model/MotionProfile.class"
+],
+"border case v=\u0001, s=\u0001, t=\u0001 \u0001": [
+"org/openpnp/model/MotionProfile.class"
+],
+"region invalid in s \u0001 .. \u0001, s=\u0001 .. \u0001": [
+"org/openpnp/model/MotionProfile.class"
+],
+"region invalid in t \u0001 .. \u0001, s=\u0001 .. \u0001, t=\u0001 .. \u0001": [
+"org/openpnp/model/MotionProfile.class"
+],
+"region eclipsed by best t \u0001 \u0001 .. \u0001, s=\u0001 .. \u0001, t=\u0001 .. \u0001": [
+"org/openpnp/model/MotionProfile.class"
+],
+"best velocity \u0001 best time \u0001 time-tMin \u0001": [
+"org/openpnp/model/MotionProfile.class"
+],
+"region eclipsed by best t \u0001": [
+"org/openpnp/model/MotionProfile.class"
+],
+"region eclipsed by best t == min t \u0001": [
+"org/openpnp/model/MotionProfile.class"
+],
+"taken previous valid solution after converging \u0001": [
+"org/openpnp/model/MotionProfile.class"
+],
+"id %s": [
+"org/openpnp/model/Package.class"
+],
+"Can not use setChild method to add/remove children from a Panel definition - use addChild or removeChild instead.": [
+"org/openpnp/model/Panel.class"
+],
+"This method should only be called on a Panel definition.": [
+"org/openpnp/model/Panel.class"
+],
+"Use addPseudoPlacement to add a PseudoPlacement to a panel definition": [
+"org/openpnp/model/Panel.class"
+],
+"Can only add new pseudoPlacements to a panel definition": [
+"org/openpnp/model/Panel.class"
+],
+"Can only remove pseudoPlacements from a panel definition": [
+"org/openpnp/model/Panel.class"
+],
+"Can only create pseudoPlacements for a panel definition": [
+"org/openpnp/model/Panel.class"
+],
+"Panel @%08x defined by @%08x: file %s, dims: %sx%s, fiducial count: %d, children: %d": [
+"org/openpnp/model/Panel.class"
+],
+"Unable to create panel child of type \u0001": [
+"org/openpnp/model/Panel.class"
+],
+"Unable to create panel child id for type \u0001": [
+"org/openpnp/model/Panel.class"
+],
+"PanelLocation %s @%08x defined by @%08x: (%s), location (%s), side (%s)": [
+"org/openpnp/model/PanelLocation.class"
+],
+"id %s, name %s, heightUnits %s, height %f, packageId (%s)": [
+"org/openpnp/model/Part.class"
+],
+"Invalid pseudoPlacementId \"%s\" for %s": [
+"org/openpnp/model/PseudoPlacement.class"
+],
+"Pseudo-placement, for panel alignment only": [
+"org/openpnp/model/PseudoPlacement.class"
+],
+"Pseudo-fiducial, for panel alignment only": [
+"org/openpnp/model/PseudoPlacement.class"
+],
+"Unable to find matching id!": [
+"org/openpnp/model/PseudoPlacement.class"
+],
+"About to set state \u0001 (from \u0001) on \u0001: \u0001": [
+"org/openpnp/model/Solutions$Issue.class"
+],
+"Package \u0001 pad \u0001 not at 90° step angle.": [
+"org/openpnp/model/VisionCompositing$Composite.class"
+],
+"Unable to calculate center from composite vision for package \u0001": [
+"org/openpnp/model/VisionCompositing$Composite.class"
+],
+"Unable to calculate angle from composite vision for package \u0001": [
+"org/openpnp/model/VisionCompositing$Composite.class"
+],
+"Failed to create \u0001 scripting engine": [
+"org/openpnp/scripting/ScriptEngineKeyedPooledObjectFactory.class",
+"org/openpnp/scripting/Scripting.class"
+],
+"No scripting engines in pool, nothing to do": [
+"org/openpnp/scripting/Scripting.class"
+],
+"Unknown scripting engine for \u0001": [
+"org/openpnp/scripting/Scripting.class"
+],
+"Failed to borrow \u0001 scripting engine": [
+"org/openpnp/scripting/Scripting.class"
+],
+"Engine pooling disabled, \u0001 scripting engine loaded in \u0001 milliseconds": [
+"org/openpnp/scripting/Scripting.class"
+],
+"Script \u0001 execution aborted with exception after \u0001 milliseconds": [
+"org/openpnp/scripting/Scripting.class"
+],
+"Script \u0001 executed in \u0001 milliseconds": [
+"org/openpnp/scripting/Scripting.class"
+],
+"Scripting.on \u0001": [
+"org/openpnp/scripting/Scripting.class"
+],
+"Scripting.on found \u0001": [
+"org/openpnp/scripting/Scripting.class"
+],
+"Cleared \u0001 scripting engines from pool: ": [
+"org/openpnp/scripting/Scripting.class"
+],
+"offset ( location: \u0001 pre-rotated \u0001)": [
+"org/openpnp/spi/PartAlignment$PartAlignmentOffset.class"
+],
+"Unsupported valueType \u0001": [
+"org/openpnp/spi/base/AbstractActuator.class"
+],
+"Actuator \u0001 has Default ON/OFF values not properly configured.": [
+"org/openpnp/spi/base/AbstractActuator.class"
+],
+"Actuator \u0001 must not coordinate with machine when actuated outside machine task.": [
+"org/openpnp/spi/base/AbstractActuator.class"
+],
+"Delete Axis": [
+"org/openpnp/spi/base/AbstractAxis$1.class",
+"org/openpnp/spi/base/AbstractAxis.class"
+],
+"Are you sure you want to delete \u0001?": [
+"org/openpnp/spi/base/AbstractAxis$1.class"
+],
+"Permutate Up": [
+"org/openpnp/spi/base/AbstractAxis$2.class"
+],
+"Permutate Down": [
+"org/openpnp/spi/base/AbstractAxis$3.class"
+],
+"Secondary Camera Units Per Pixel have not been calibrated.": [
+"org/openpnp/spi/base/AbstractCamera.class"
+],
+"Camera Units Per Pixel has not been calibrated at two different camera relative Z.": [
+"org/openpnp/spi/base/AbstractCamera.class"
+],
+"Apparent change in position or apparent size of object feature is too small to estimate object Z coordinate.": [
+"org/openpnp/spi/base/AbstractCamera.class"
+],
+"Actual change in camera position or actual feature size too small to estimate object Z coordinate.": [
+"org/openpnp/spi/base/AbstractCamera.class"
+],
+"Can't change head on camera \u0001": [
+"org/openpnp/spi/base/AbstractCamera.class"
+],
+"The axis \u0001 is not mapped to any HeadMountables. Can't move safely.": [
+"org/openpnp/spi/base/AbstractCoordinateAxis.class"
+],
+"Not supported on this Feeder": [
+"org/openpnp/spi/base/AbstractFeeder.class"
+],
+"Cannot switch off pump.": [
+"org/openpnp/spi/base/AbstractHead.class"
+],
+"No default camera available on head \u0001": [
+"org/openpnp/spi/base/AbstractHead.class"
+],
+"No default nozzle available on head \u0001": [
+"org/openpnp/spi/base/AbstractHead.class"
+],
+"No default head mountable available on head \u0001": [
+"org/openpnp/spi/base/AbstractHead.class"
+],
+"Effective Safe Z coordinate \u0001 is outside Safe Z Zone.": [
+"org/openpnp/spi/base/AbstractHeadMountable.class"
+],
+"Machine has not been started.": [
+"org/openpnp/spi/base/AbstractMachine$1.class"
+],
+"Exception caught, executing pending motion": [
+"org/openpnp/spi/base/AbstractMachine$1.class"
+],
+"Secondary exception when executing pending motion planner commands": [
+"org/openpnp/spi/base/AbstractMachine$1.class"
+],
+"Machine entering idle state.": [
+"org/openpnp/spi/base/AbstractMachine$1.class"
+],
+"Machine not enabled, task ignored.": [
+"org/openpnp/spi/base/AbstractMachine.class"
+],
+"Machine still busy after timeout expired, task rejected.": [
+"org/openpnp/spi/base/AbstractMachine.class"
+],
+"No default head available.": [
+"org/openpnp/spi/base/AbstractMachine.class"
+],
+"Nozzle \u0001: set rotation mode offset: \u0001": [
+"org/openpnp/spi/base/AbstractNozzle.class"
+],
+"No compatible, enabled feeder found for part \u0001": [
+"org/openpnp/spi/base/AbstractPnpJobProcessor.class"
+],
+"Delete Signaler": [
+"org/openpnp/spi/base/AbstractSignaler$1.class",
+"org/openpnp/spi/base/AbstractSignaler.class"
+],
+"Average Latency: %.2f": [
+"org/openpnp/util/CameraLatencyTest.class"
+],
+"Unable to estimate machine to pixel scaling - can't find feature in image.": [
+"org/openpnp/util/CameraWalker.class"
+],
+"Unable to estimate machine to pixel scaling - testStepLength may be too small.": [
+"org/openpnp/util/CameraWalker.class"
+],
+"CameraWalker not ready to walk, must call estimateScaling method first.": [
+"org/openpnp/util/CameraWalker.class"
+],
+"Unable to start walk - can't find feature in image.": [
+"org/openpnp/util/CameraWalker.class"
+],
+"Unable to complete walk - can't find feature in image.": [
+"org/openpnp/util/CameraWalker.class"
+],
+"Loop gain must be a positive number": [
+"org/openpnp/util/CameraWalker.class"
+],
+"Loop gain too large, limiting to 1.7 to prevent possible unbounded machine oscillations.": [
+"org/openpnp/util/CameraWalker.class"
+],
+"Maximum allowable step in pixels must be greater than 0": [
+"org/openpnp/util/CameraWalker.class"
+],
+"Minimum allowable step in pixels must be non-negative": [
+"org/openpnp/util/CameraWalker.class"
+],
+"Maximum allowable step in machine units must be greater than 0": [
+"org/openpnp/util/CameraWalker.class"
+],
+"Minimum allowable step in machine units must be greater than 0": [
+"org/openpnp/util/CameraWalker.class"
+],
+"Head \u0001 Z Probe \u0001 conversion failed (\u0001)": [
+"org/openpnp/util/Cycles.class"
+],
+"No line of sprocket holes can be recognized": [
+"org/openpnp/util/FeederVisionHelper.class"
+],
+"At least two sprocket holes need to be recognized": [
+"org/openpnp/util/FeederVisionHelper.class"
+],
+"The two reference sprocket holes cannot be recognized": [
+"org/openpnp/util/FeederVisionHelper.class"
+],
+"Dismissed Circle with non-compliant diameter \u0001mm, allowed tolerance is ±\u0001mm": [
+"org/openpnp/util/FeederVisionHelper.class"
+],
+"Dismissed RotatedRect with non-compliant width or height \u0001mm x \u0001mm, allowed tolerance is ±\u0001mm": [
+"org/openpnp/util/FeederVisionHelper.class"
+],
+"Ransac algorithm has not found any lines of sprocket holes with 4.0mm pitch, allowed pitch and line tolerance is ±\u0001mm": [
+"org/openpnp/util/FeederVisionHelper.class"
+],
+"Found sprocket holes line with distance \u0001mm [min: \u0001mm, max: \u0001mm]": [
+"org/openpnp/util/FeederVisionHelper.class"
+],
+"Dismissed line by distance, \u0001mm, not within \u0001mm .. \u0001mm": [
+"org/openpnp/util/FeederVisionHelper.class"
+],
+"calibrated vision offset is: \u0001, length is: \u0001": [
+"org/openpnp/util/FeederVisionHelper.class"
+],
+"calibrated pick location is: \u0001": [
+"org/openpnp/util/FeederVisionHelper.class"
+],
+"digraph fsm {\n": [
+"org/openpnp/util/FiniteStateMachine.class"
+],
+"No defined transitions from \u0001": [
+"org/openpnp/util/FiniteStateMachine.class"
+],
+"No defined transitions from \u0001 for \u0001": [
+"org/openpnp/util/FiniteStateMachine.class"
+],
+"error:unknown command": [
+"org/openpnp/util/GcodeServer$Worker.class"
+],
+"ok C:": [
+"org/openpnp/util/GcodeServer$Worker.class"
+],
+"ok WCS:": [
+"org/openpnp/util/GcodeServer$Worker.class"
+],
+"Worker port \u0001 bye-bye.": [
+"org/openpnp/util/GcodeServer$Worker.class"
+],
+"Nested comment at \u0001: \u0001": [
+"org/openpnp/util/GcodeServer$Worker.class"
+],
+"Mismatched comment at \u0001: \u0001": [
+"org/openpnp/util/GcodeServer$Worker.class"
+],
+"Syntax error at col \u0001 '\u0001' unexpected: \u0001": [
+"org/openpnp/util/GcodeServer$Worker.class"
+],
+"Parsed Gcode: \u0001": [
+"org/openpnp/util/GcodeServer$Worker.class"
+],
+"Invalid letter on axis \u0001": [
+"org/openpnp/util/GcodeServer$Worker.class"
+],
+"Dwell time limited from \u0001s": [
+"org/openpnp/util/GcodeServer$Worker.class"
+],
+"Waiting \u0001ms": [
+"org/openpnp/util/GcodeServer$Worker.class"
+],
+"New global offset location: \u0001": [
+"org/openpnp/util/GcodeServer$Worker.class"
+],
+"Move takes \u0001 ms": [
+"org/openpnp/util/GcodeServer$Worker.class"
+],
+"New location: \u0001": [
+"org/openpnp/util/GcodeServer$Worker.class"
+],
+"Socket port \u0001 bye-bye.": [
+"org/openpnp/util/GcodeServer.class"
+],
+"Color parameter outside of expected range - Saturation": [
+"org/openpnp/util/HslColor.class"
+],
+"Color parameter outside of expected range - Luminance": [
+"org/openpnp/util/HslColor.class"
+],
+"Color parameter outside of expected range - Alpha": [
+"org/openpnp/util/HslColor.class"
+],
+"Some short description": [
+"org/openpnp/util/IconViewer$SwingAction.class"
+],
+"invalid dimensions": [
+"org/openpnp/util/Matrix.class"
+],
+"OCR part id \u0001 on feeder \u0001 matches multiple parts \u0001 and \u0001": [
+"org/openpnp/util/OcrUtils.class"
+],
+"OCR could not identify/find part id on feeder \u0001, OCR detected part id \u0001 (avg. score=\u0001)": [
+"org/openpnp/util/OcrUtils.class"
+],
+"Unsupported Mat: type %d, channels %d, depth %d": [
+"org/openpnp/util/OpenCvUtils.class",
+"org/openpnp/vision/FluentCv.class",
+"org/openpnp/vision/pipeline/stages/SimpleOcr.class"
+],
+"Invalid footprint found, unable to create template for part match. See https://github.com/openpnp/openpnp/wiki/Fiducials.": [
+"org/openpnp/util/OpenCvUtils.class"
+],
+"Invalid footprint found, unable to create template for part match. Width and height of pads must be greater than 0. See https://github.com/openpnp/openpnp/wiki/Fiducials.": [
+"org/openpnp/util/OpenCvUtils.class"
+],
+"Expecting image to be in the \u0001 color space but it has only one channel.": [
+"org/openpnp/util/OpenCvUtils.class"
+],
+"Unrecognised dir separator '\u0001'": [
+"org/openpnp/util/ResourceUtils.class"
+],
+"No common path element found for '\u0001' and '\u0001'": [
+"org/openpnp/util/ResourceUtils.class"
+],
+"HeadMountable \u0001has no XY axis assigned": [
+"org/openpnp/util/TravelCost.class"
+],
+"Travel cost estimation for headmountable \u0001 not avaiable on Z axis": [
+"org/openpnp/util/TravelCost.class"
+],
+"Travel cost estimation for headmountable \u0001 not avaiable on rotational axis": [
+"org/openpnp/util/TravelCost.class"
+],
+"estimated travel cost": [
+"org/openpnp/util/TravellingSalesman.class"
+],
+"linear distance": [
+"org/openpnp/util/TravellingSalesman.class"
+],
+"Simulated Annealing: global best route better then last best route": [
+"org/openpnp/util/TravellingSalesman.class"
+],
+"stroke:blue; fill:white;": [
+"org/openpnp/util/TravellingSalesman.class"
+],
+"stroke:green; fill:white;": [
+"org/openpnp/util/TravellingSalesman.class"
+],
+"Using \u0001 as metric": [
+"org/openpnp/util/TravellingSalesman.class"
+],
+"Open Web Browser": [
+"org/openpnp/util/UiUtils.class"
+],
+"Browse to \u0001": [
+"org/openpnp/util/UiUtils.class"
+],
+"rundll32 url.dll,FileProtocolHandler \u0001": [
+"org/openpnp/util/UiUtils.class"
+],
+"No system support for URI browsing found. See the log. \u0001": [
+"org/openpnp/util/UiUtils.class"
+],
+"Do you want to \u0001?\n": [
+"org/openpnp/util/UiUtils.class"
+],
+"About to \u0001.\nDo you want to proceed?": [
+"org/openpnp/util/UiUtils.class"
+],
+"Machine not enabled, unable to \u0001.": [
+"org/openpnp/util/UiUtils.class"
+],
+"Machine not enabled, unable to \u0001.\nDo you want to proceed anyway?": [
+"org/openpnp/util/UiUtils.class"
+],
+"scale (%f, %f) shear (%f, 0.0) rotation (%f deg) translation (%f mm, %f mm)": [
+"org/openpnp/util/Utils2D$AffineInfo.class"
+],
+"Correcting for reflection...": [
+"org/openpnp/util/Utils2D.class"
+],
+"Unable to calculate location for type \u0001": [
+"org/openpnp/util/Utils2D.class"
+],
+"No up-looking camera found on the machine to use for bottom vision.": [
+"org/openpnp/util/VisionUtils.class"
+],
+"Call setCamera(Camera) before calling methods that rely on units per pixel.": [
+"org/openpnp/vision/FluentCv.class"
+],
+"Description of the parameter (for tooltip).": [
+"org/openpnp/vision/pipeline/CvAbstractParameterStage.class"
+],
+"Name of the stage to be controlled by the parameter.": [
+"org/openpnp/vision/pipeline/CvAbstractParameterStage.class"
+],
+"Name of the property to be controlled by the parameter.": [
+"org/openpnp/vision/pipeline/CvAbstractParameterStage.class"
+],
+"Name of the stage to preview the effect of a parameter change.": [
+"org/openpnp/vision/pipeline/CvAbstractParameterStage.class"
+],
+"Please assign a stable name to the stage. This name will be used as parameter name and should not be changed later, or assigned data will be lost. Names starting with digits are not allowed.": [
+"org/openpnp/vision/pipeline/CvAbstractParameterStage.class"
+],
+"TemplateMatch [x=\u0001, y=\u0001, width=\u0001, height=\u0001, score=\u0001]": [
+"org/openpnp/vision/pipeline/CvStage$Result$TemplateMatch.class"
+],
+"Pipeline stage \"\u0001\" returned a \u0001 but expected a \u0001.": [
+"org/openpnp/vision/pipeline/CvStage$Result.class"
+],
+"Pipeline stage \"\u0001\" returned a \u0001 list but expected a \u0001 list.": [
+"org/openpnp/vision/pipeline/CvStage$Result.class"
+],
+"Unable to convert to pixels because pipeline property \"camera\" is not set": [
+"org/openpnp/vision/pipeline/CvStage.class"
+],
+"Can't convert pipeline property \"\u0001\" of type \"\u0001\" to type \"\u0001\"": [
+"org/openpnp/vision/pipeline/CvStage.class"
+],
+"Performs simple actuator write. Machine must be connected, otherwise error is thrown.": [
+"org/openpnp/vision/pipeline/stages/ActuatorWrite.class"
+],
+"No actuator name specified for pipeline {}.": [
+"org/openpnp/vision/pipeline/stages/ActuatorWrite.class"
+],
+"Actuator writing (CvStage operation) failed. Unable to find an actuator named \u0001": [
+"org/openpnp/vision/pipeline/stages/ActuatorWrite.class"
+],
+"Adds two images together, scale either, or subtract second.": [
+"org/openpnp/vision/pipeline/stages/Add.class"
+],
+"Stage name of the results to unwarp. If empty, takes the working model.": [
+"org/openpnp/vision/pipeline/stages/AffineUnwarp.class"
+],
+"Result model coordinates obtained from images gone through AfficeWarp are not usable as camera coordinates. This stage applies the proper reverse Affine Transformation to reconstruct camera coordinates. The stage currently supports Lists or single instances of Circles, RotatedRects and KeyPoints. For transformations with stretch and shear, some of the model properties are approximated. ": [
+"org/openpnp/vision/pipeline/stages/AffineUnwarp.class"
+],
+"What will become the left upper corner of the extracted area. X offset from camera location.": [
+"org/openpnp/vision/pipeline/stages/AffineWarp.class"
+],
+"What will become the left upper corner of the extracted area. Y offset from camera location.": [
+"org/openpnp/vision/pipeline/stages/AffineWarp.class"
+],
+"What will become the right upper corner of the extracted area. X offset from camera location.": [
+"org/openpnp/vision/pipeline/stages/AffineWarp.class"
+],
+"What will become the right upper corner of the extracted area. Y offset from camera location.": [
+"org/openpnp/vision/pipeline/stages/AffineWarp.class"
+],
+"What will become the left lower corner of the extracted area. X offset from camera location.": [
+"org/openpnp/vision/pipeline/stages/AffineWarp.class"
+],
+"What will become the left lower corner of the extracted area. Y offset from camera location.": [
+"org/openpnp/vision/pipeline/stages/AffineWarp.class"
+],
+"Scale of the transformation. NOTE: subsequent stages must be aware that the camera pixel to units scale has changed.": [
+"org/openpnp/vision/pipeline/stages/AffineWarp.class"
+],
+"Rectify the transformation to be rectangular. The point [x2, y2] is not interpreted as a corner but as a height indicator.": [
+"org/openpnp/vision/pipeline/stages/AffineWarp.class"
+],
+"The caller of the pipeline can override the region of interest under this name.": [
+"org/openpnp/vision/pipeline/stages/AffineWarp.class"
+],
+"Extracts a rectangular (parallelogrammatic) region of interest from the image that can have any position, size, rotation, scale, <em>shear</em> or even be mirrored. A so-called Affine Transformation Warp.<br/>The coordinates are given in real length units rather than pixels and are relative to the camera center, Y pointing up. This allows the pipeline to be independent of camera model and resolution, lens, focus distance etc. <br/>To setup, pin the previous stage and read off length unit coordinates from the mouse position.": [
+"org/openpnp/vision/pipeline/stages/AffineWarp.class"
+],
+"ERROR: affineWarp must not generate an image that is larger than the original": [
+"org/openpnp/vision/pipeline/stages/AffineWarp.class"
+],
+"Width and height of the blurring kernel. Should be and odd number greater than or equal to 3": [
+"org/openpnp/vision/pipeline/stages/BlurGaussian.class",
+"org/openpnp/vision/pipeline/stages/BlurMedian.class"
+],
+"Name of the property through which OpenPnP controls this stage. Use \"BlurGaussian\" for standard control.": [
+"org/openpnp/vision/pipeline/stages/BlurGaussian.class"
+],
+"Performs gaussian blurring on the working image.": [
+"org/openpnp/vision/pipeline/stages/BlurGaussian.class"
+],
+"Performs median blurring on the working image.": [
+"org/openpnp/vision/pipeline/stages/BlurMedian.class"
+],
+"Name of a prior stage to load the filter size from. The filter stage should contain a single RotatedRect model.": [
+"org/openpnp/vision/pipeline/stages/ClosestModel.class"
+],
+"Name of a prior stage to load the model from.": [
+"org/openpnp/vision/pipeline/stages/ClosestModel.class"
+],
+"Filter RotatedRects that fit in the template's size, with a tolerance and find the closest RotatedRect to the center of the screen.": [
+"org/openpnp/vision/pipeline/stages/ClosestModel.class"
+],
+"Name of a prior stage to retrieve the image from. An empty name will retrieve the working image.": [
+"org/openpnp/vision/pipeline/stages/ComposeResult.class"
+],
+"Name of a prior stage to retrieve the model from.": [
+"org/openpnp/vision/pipeline/stages/ComposeResult.class",
+"org/openpnp/vision/pipeline/stages/CreateModelTemplateImage.class"
+],
+"Retrieves the result of a user defined stage, or the working result in the pipeline, when this stage is processed.": [
+"org/openpnp/vision/pipeline/stages/ComposeResult.class"
+],
+"Selects the from/to color space conversion.": [
+"org/openpnp/vision/pipeline/stages/ConvertColor.class"
+],
+"Converts the internal representation of an image from one color space to another.  Note that the conversions (other than to/from gray) do not alter the colors in the image but rather change the underlying numerical represention of the colors such that the preceived colors in the new color space are the same as those in the old color space.  See <a href=\\\"https://en.wikipedia.org/wiki/Color_space\\\" target=\\\"_blank\\\">https://en.wikipedia.org/wiki/Color_space</a> for a detailed explaination of color spaces.": [
+"org/openpnp/vision/pipeline/stages/ConvertColor.class"
+],
+"Convert a variety of built in types to KeyPoints. Currently handles Points, Circles, TemplateMatches, and RotatedRects. The center point of each is stored, along with a score and diameter where appropriate. If the input model is a single value the result will be a single value. If the input is a List the result will be a List.": [
+"org/openpnp/vision/pipeline/stages/ConvertModelToKeyPoints.class"
+],
+"Convert a variety of built in types to Points. Currently handles KeyPoints, Circles and RotatedRects. The center point of each is stored. If the input model is a single value the result will be a single value. If the input is a List the result will be a List.": [
+"org/openpnp/vision/pipeline/stages/ConvertModelToPoints.class"
+],
+"Determines, how the footprint is drawn. Fiducial: only draws the pads, TopView: draws body over pads, BottomView: draws pads over body.": [
+"org/openpnp/vision/pipeline/stages/CreateFootprintTemplateImage.class"
+],
+"If enabled dimensions are only controled by the part size.": [
+"org/openpnp/vision/pipeline/stages/CreateFootprintTemplateImage.class"
+],
+"Vision offset in X in pixels. The footprint is visually asymmetric, and its detection center offset to the right (+) or left (-).": [
+"org/openpnp/vision/pipeline/stages/CreateFootprintTemplateImage.class"
+],
+"Vision offset in Y in pixels. The footprint is visually asymmetric, and its detection center offset to the top (+) or bottom (-).": [
+"org/openpnp/vision/pipeline/stages/CreateFootprintTemplateImage.class"
+],
+"Max width of the template. Set 0 to get the full width.": [
+"org/openpnp/vision/pipeline/stages/CreateFootprintTemplateImage.class"
+],
+"Max height of the template. Set 0 to get the full height.": [
+"org/openpnp/vision/pipeline/stages/CreateFootprintTemplateImage.class"
+],
+"Name of the property through which OpenPnP controls this stage. Use \"footprint\" for standard control.": [
+"org/openpnp/vision/pipeline/stages/CreateFootprintTemplateImage.class"
+],
+"Creates a template from the specified footprint and camera properties. The template is scaled to the camera's units.": [
+"org/openpnp/vision/pipeline/stages/CreateFootprintTemplateImage.class"
+],
+"Orientation of the output image. Zero is up, angles increase clockwise.": [
+"org/openpnp/vision/pipeline/stages/CreateModelTemplateImage.class"
+],
+"Create a cropped template image in portrait orientation based on a model.": [
+"org/openpnp/vision/pipeline/stages/CreateModelTemplateImage.class"
+],
+"Name of the shape property to load the template shape from. The shape itself must be provided by the pipeline user.": [
+"org/openpnp/vision/pipeline/stages/CreateShapeTemplateImage.class"
+],
+"Oversize factor for border recognition around shape.": [
+"org/openpnp/vision/pipeline/stages/CreateShapeTemplateImage.class"
+],
+"Creates a template from the specified shape and camera properties. The shape is scaled from Millimeters to the camera's units.": [
+"org/openpnp/vision/pipeline/stages/CreateShapeTemplateImage.class"
+],
+"Property named after templateShapeName is required.": [
+"org/openpnp/vision/pipeline/stages/CreateShapeTemplateImage.class"
+],
+"Invalid shape found, unable to create template for shape match.": [
+"org/openpnp/vision/pipeline/stages/CreateShapeTemplateImage.class"
+],
+"Minimum distance between circles, in pixels.": [
+"org/openpnp/vision/pipeline/stages/DetectCirclesHough.class"
+],
+"Inverse ratio of the accumulator resolution to the image resolution": [
+"org/openpnp/vision/pipeline/stages/DetectCirclesHough.class",
+"org/openpnp/vision/pipeline/stages/DetectFixedCirclesHough.class"
+],
+"The higher threshold of the two passed to the Canny() edge detector (the lower one is twice smaller)": [
+"org/openpnp/vision/pipeline/stages/DetectCirclesHough.class",
+"org/openpnp/vision/pipeline/stages/DetectFixedCirclesHough.class"
+],
+"The accumulator threshold for the circle centers at the detection stage. The smaller it is, the more false circles may be detected": [
+"org/openpnp/vision/pipeline/stages/DetectCirclesHough.class",
+"org/openpnp/vision/pipeline/stages/DetectFixedCirclesHough.class"
+],
+"Finds circles in the working image. Diameter and spacing can be specified.": [
+"org/openpnp/vision/pipeline/stages/DetectCirclesHough.class",
+"org/openpnp/vision/pipeline/stages/DetectLinesHough.class"
+],
+"Minimum diameter of the circle, in pixels.": [
+"org/openpnp/vision/pipeline/stages/DetectCircularSymmetry.class"
+],
+"Maximum diameter of the circle, in pixels.": [
+"org/openpnp/vision/pipeline/stages/DetectCircularSymmetry.class"
+],
+"Maximum search distance (radius) from nominal center, in pixels.": [
+"org/openpnp/vision/pipeline/stages/DetectCircularSymmetry.class",
+"org/openpnp/vision/pipeline/stages/MatchTemplate.class"
+],
+"Maximum search width across nominal center, in pixels (0 = same as maximum search distance × 2).": [
+"org/openpnp/vision/pipeline/stages/DetectCircularSymmetry.class"
+],
+"Maximum search height across nominal center, in pixels (0 = same as maximum search distance × 2).": [
+"org/openpnp/vision/pipeline/stages/DetectCircularSymmetry.class"
+],
+"Minimum relative circular symmetry (overall pixel variance vs. circular pixel variance).": [
+"org/openpnp/vision/pipeline/stages/DetectCircularSymmetry.class"
+],
+"Correlated minimum circular symmetry for multiple matches, i.e. other matches must have at least this relative symmetry. Must be in the interval [0,1]. ": [
+"org/openpnp/vision/pipeline/stages/DetectCircularSymmetry.class"
+],
+"Relative outer diameter margin used when the propertyName is set.": [
+"org/openpnp/vision/pipeline/stages/DetectCircularSymmetry.class"
+],
+"Relative inner diameter margin used when the propertyName is set.": [
+"org/openpnp/vision/pipeline/stages/DetectCircularSymmetry.class"
+],
+"To speed things up, only one pixel out of a square of subSampling × subSampling pixels is sampled. The best region is then locally searched using iteration with smaller and smaller subSampling size.<br/>The subSampling value will automatically be reduced for small diameters. Use BlurGaussian before this stage if subSampling suffers from moiré effects.": [
+"org/openpnp/vision/pipeline/stages/DetectCircularSymmetry.class"
+],
+"The superSampling value can be used to achieve sub-pixel final precision: 1 means no supersampling, 2 means half sub-pixel precision etc.": [
+"org/openpnp/vision/pipeline/stages/DetectCircularSymmetry.class"
+],
+"Set the symmetry score calculation method.<br/><ul><li>Overall variance vs. ring variance sum (default): tolerant circular symmetry score. Matches partial/scattered circular patterns.</li><li>Ring ageraged variance vs. ring variance sum: stricter circular symmetry score. The rings must be quite uniform to match.</li><li>Ring median variance vs. ring variance sum: even stricter circular symmetry score. Rejects interrupted rings, e.g. from tangential non-circular shapes.</li></ul>": [
+"org/openpnp/vision/pipeline/stages/DetectCircularSymmetry.class"
+],
+"Property name as controlled by the vision operation using this pipeline.<br/><ul><li><i>propertyName</i>.diameter</li><li><i>propertyName</i>.maxDistance</li><li><i>propertyName</i>.center</li></ul>If set, these will override the properties configured here.": [
+"org/openpnp/vision/pipeline/stages/DetectCircularSymmetry.class"
+],
+"Display matches with circle and cross-hairs.": [
+"org/openpnp/vision/pipeline/stages/DetectCircularSymmetry.class"
+],
+"Overlay a heat map indicating the local circular symmetry.": [
+"org/openpnp/vision/pipeline/stages/DetectCircularSymmetry.class"
+],
+"Finds circular symmetry in the working image. Diameter range and maximum search distance can be specified.": [
+"org/openpnp/vision/pipeline/stages/DetectCircularSymmetry.class"
+],
+"Circular symmetry stage: search range is cropped to nothing.": [
+"org/openpnp/vision/pipeline/stages/DetectCircularSymmetry.class"
+],
+"Finds circles in the working image. Diameter and spacing are provided by the pipeline.": [
+"org/openpnp/vision/pipeline/stages/DetectFixedCirclesHough.class"
+],
+"DetectFixedCirclesHough properties are not set on pipeline.": [
+"org/openpnp/vision/pipeline/stages/DetectFixedCirclesHough.class"
+],
+"Minimum line length, as a percent of the diagonal image length.": [
+"org/openpnp/vision/pipeline/stages/DetectLinesHough.class"
+],
+"Max line gap, as a percent of the diagonal image length.": [
+"org/openpnp/vision/pipeline/stages/DetectLinesHough.class"
+],
+"Minimum accumulator count to be considered a line.": [
+"org/openpnp/vision/pipeline/stages/DetectRectangleHough.class"
+],
+"Weight of accumulator count that contributes to score": [
+"org/openpnp/vision/pipeline/stages/DetectRectangleHough.class"
+],
+"Maximum angle deviation of lines to be considered a pair.": [
+"org/openpnp/vision/pipeline/stages/DetectRectangleHough.class"
+],
+"Maximum angle deviation of pairs to be considered a rectangle": [
+"org/openpnp/vision/pipeline/stages/DetectRectangleHough.class"
+],
+"Maximum symmetry deviation of lines to be considered a pair": [
+"org/openpnp/vision/pipeline/stages/DetectRectangleHough.class"
+],
+"Minimum line separation to be considered a pair": [
+"org/openpnp/vision/pipeline/stages/DetectRectangleHough.class"
+],
+"Draw selected Hough lines to help with parameter tuning.": [
+"org/openpnp/vision/pipeline/stages/DetectRectangleHough.class"
+],
+"Find expected rectangle centered on nozzle.": [
+"org/openpnp/vision/pipeline/stages/DetectRectangleHough.class"
+],
+"Expected angle of the subject to be detected.": [
+"org/openpnp/vision/pipeline/stages/DetectRectlinearSymmetry.class"
+],
+"Search angle, two-sided around the expected angle.": [
+"org/openpnp/vision/pipeline/stages/DetectRectlinearSymmetry.class",
+"org/openpnp/vision/pipeline/stages/MinAreaRect.class"
+],
+"Maximum cross-section width of the subject to be detected.": [
+"org/openpnp/vision/pipeline/stages/DetectRectlinearSymmetry.class"
+],
+"Maximum cross-section height of the subject to be detected.": [
+"org/openpnp/vision/pipeline/stages/DetectRectlinearSymmetry.class"
+],
+"Tells the stage whether the subject is left/right-symmetric (in the sense as seen at 0° subject rotation). According to this switch, the stage either takes the <strong>symmetricFunction</strong>, or the <strong>asymmetricFunction</strong>.": [
+"org/openpnp/vision/pipeline/stages/DetectRectlinearSymmetry.class"
+],
+"Tells the stage whether the subject is upper/lower-symmetric (in the sense as as seen at 0° subject rotation). According to this switch, the stage either takes the <strong>symmetricFunction</strong>, or the <strong>asymmetricFunction</strong>.": [
+"org/openpnp/vision/pipeline/stages/DetectRectlinearSymmetry.class"
+],
+"Determines how the cross-section is evaluated for <strong>symmetric</strong> subjects.<br/><ul><li><strong>FullSymmetry</strong> looks for full inner and outline symmetry. Use for truly symmetric subjects and best precision.</li><li><strong>EdgeSymmetry</strong> looks for full inner and outline symmetry of edges. Use for partially symmetric subjects, where some, but not all features are present on both sides, or where shades differ.</li><li><strong>OutlineSymmetry</strong> looks for outline symmetry only. Used for subjects that are symmetric on their outline, but not on the inside.</li><li><strong>OutlineEdgeSymmetry</strong> looks for outline symmetry of edges only. Used for subjects that are symmetric on their outline, but not on the inside, and where some, but not all features are present on both sides, or where shades differ.</li><li><strong>OutlineSymmetryMasked</strong> looks for outline mask symmetry only. Use for quite asymmetric subjects. Requires setting a mask <strong>threshold</strong>.<br/></li></ul>": [
+"org/openpnp/vision/pipeline/stages/DetectRectlinearSymmetry.class"
+],
+"Determines how the cross-section is evaluated for <strong>asymmetric</strong> subjects.<br/><ul><li><strong>FullSymmetry</strong> looks for full inner and outline symmetry. Use for truly symmetric subjects and best precision.</li><li><strong>EdgeSymmetry</strong> looks for full inner and outline symmetry of edges. Use for partially symmetric subjects, where some, but not all features are present on both sides, or where shades differ.</li><li><strong>OutlineSymmetry</strong> looks for outline symmetry only. Used for subjects that are symmetric on their outline, but not on the inside.</li><li><strong>OutlineEdgeSymmetry</strong> looks for outline symmetry of edges only. Used for subjects that are symmetric on their outline, but not on the inside, and where some, but not all features are present on both sides, or where shades differ.</li><li><strong>OutlineSymmetryMasked</strong> looks for outline mask symmetry only. Use for quite asymmetric subjects. Requires setting a mask <strong>threshold</strong>.<br/></li></ul>": [
+"org/openpnp/vision/pipeline/stages/DetectRectlinearSymmetry.class"
+],
+"Minimum relative symmetry. Values larger than 1.0 indicate symmetry.": [
+"org/openpnp/vision/pipeline/stages/DetectRectlinearSymmetry.class"
+],
+"To speed things up, only one pixel out of a square of subSampling × subSampling pixels is sampled. The best region is then locally searched using iteration with smaller and smaller subSampling size.<br/>The subSampling value will automatically be reduced when other search properties require it. Use BlurGaussian before this stage if subSampling suffers from moiré effects.": [
+"org/openpnp/vision/pipeline/stages/DetectRectlinearSymmetry.class"
+],
+"The superSampling value can be used to achieve sub-pixel final precision:<br/>1 means no supersampling, 2 means half sub-pixel precision etc.<br/>Negative values can be used to stop refining subSampling, -2 means it will stop at a 2-pixel resolution.": [
+"org/openpnp/vision/pipeline/stages/DetectRectlinearSymmetry.class"
+],
+"Smoothing applied to the sampled cross-sections. Given as the Gaussian kernel size.<br/>This is needed to eliminate interferences, when angular sampling coincides with the pixel raster or its diagonals.": [
+"org/openpnp/vision/pipeline/stages/DetectRectlinearSymmetry.class"
+],
+"Gamma to be applied to the image. The input signal is raised to the power gamma. With gammas > 1.0 the bright image parts are emphasized.": [
+"org/openpnp/vision/pipeline/stages/DetectRectlinearSymmetry.class"
+],
+"When the <strong>OutlineSymmetryMasked</strong> function is used, only pixels with luminance greater than the <strong>threshold</strong> are considered when determining the outline of the part.": [
+"org/openpnp/vision/pipeline/stages/DetectRectlinearSymmetry.class"
+],
+"When the <strong>OutlineSymmetryMasked</strong> function is used, pixels are masked by the <strong>threshold</strong> property. A cross-section pixel count over these masked pixels is then determined. A cross-section bin only counts as \"detected\" when the pixel count is larger than <strong>minFeatureSize</strong>.<br/>This is used to remove masking imperfections, i.e. image specks and impurities up to a certain size and frequency.": [
+"org/openpnp/vision/pipeline/stages/DetectRectlinearSymmetry.class"
+],
+"Display the detection with cross-hairs and bounds.": [
+"org/openpnp/vision/pipeline/stages/DetectRectlinearSymmetry.class"
+],
+"Overlay a diagnostic map indicating the angular reclinear contrast and rectlinear cross-section.": [
+"org/openpnp/vision/pipeline/stages/DetectRectlinearSymmetry.class"
+],
+"determines the pipeline property name under which this stage is controlled by the vision operation. If set, these will override some of the properties configured here. Use \"DetectRectlinearSymmetry\" for default control.": [
+"org/openpnp/vision/pipeline/stages/DetectRectlinearSymmetry.class"
+],
+"Finds the subject and angle with maximum rectlinear symmetry in the working image. This is achieved by first computing reclinear, i.e. horizontal and vertical cross-sections at various angles. The angle with the largest contrasts is then used.<br/>As a second step, the mid-points with the largest symmetry in the horizontal and vertical cross-sections is determined to detect the subject center.": [
+"org/openpnp/vision/pipeline/stages/DetectRectlinearSymmetry.class"
+],
+"Dilate the model by given pixels. Negative values contract the model.": [
+"org/openpnp/vision/pipeline/stages/DilateModel.class"
+],
+"Dilate or contract a model by a given number of pixels.": [
+"org/openpnp/vision/pipeline/stages/DilateModel.class"
+],
+"The index of the contour in the list to draw. Any negative value will draw all contours.": [
+"org/openpnp/vision/pipeline/stages/DrawContours.class"
+],
+"Stage to input FitEllipse RotatedRects from.": [
+"org/openpnp/vision/pipeline/stages/DrawEllipses.class"
+],
+"Draws RotatedRects from a stage's model. Input can be either a single RotatedRect or a List of RotatedRect": [
+"org/openpnp/vision/pipeline/stages/DrawEllipses.class",
+"org/openpnp/vision/pipeline/stages/DrawRotatedRects.class"
+],
+"Draws KeyPoints contained in a List<KeyPoint> by referencing a previous stage's model data.": [
+"org/openpnp/vision/pipeline/stages/DrawKeyPoints.class"
+],
+"Draw a circle at the center of each RotatedRect.": [
+"org/openpnp/vision/pipeline/stages/DrawRotatedRects.class"
+],
+"Radius of circle at center of RotatedRects.": [
+"org/openpnp/vision/pipeline/stages/DrawRotatedRects.class"
+],
+"Minimum area of the contour, or -1 if no minimum limit is wanted.": [
+"org/openpnp/vision/pipeline/stages/FilterContours.class"
+],
+"Maximum area of the contour, or -1 if no maximum limit is wanted.": [
+"org/openpnp/vision/pipeline/stages/FilterContours.class"
+],
+"Name of the property through which OpenPnP controls this stage. Use \"FilterContours\" for standard control.": [
+"org/openpnp/vision/pipeline/stages/FilterContours.class"
+],
+"Max aspect ratio for selecting rects, used if one or both of width and length are 0. If both width and length are 0, then any rect with size satisfying the aspect ratio limits will pass through.": [
+"org/openpnp/vision/pipeline/stages/FilterRects.class"
+],
+"Min aspect ratio for selecting rects, used if one or both of width and length are 0. If both width and length are 0, then any rect with size satisfying the aspect ratio limits will pass through.": [
+"org/openpnp/vision/pipeline/stages/FilterRects.class"
+],
+"Previous pipeline stage that outputs rotated rects.": [
+"org/openpnp/vision/pipeline/stages/FilterRects.class",
+"org/openpnp/vision/pipeline/stages/SelectSingleRect.class"
+],
+"Filter rotated rects based on given width, length and aspect ratio limits.": [
+"org/openpnp/vision/pipeline/stages/FilterRects.class"
+],
+"If width or length limits are 0, then both aspectRatioMax and aspepctRatioMin must be non zero.": [
+"org/openpnp/vision/pipeline/stages/FilterRects.class"
+],
+"Pass any size rect within aspect ratio limits.": [
+"org/openpnp/vision/pipeline/stages/FilterRects.class"
+],
+"Deriving \u0001 limits based on aspect ratio limits.": [
+"org/openpnp/vision/pipeline/stages/FilterRects.class"
+],
+"Selects which channel(s) of the image to equalize.  This setting has no effect on single channel (gray scale) images.": [
+"org/openpnp/vision/pipeline/stages/HistogramEqualize.class",
+"org/openpnp/vision/pipeline/stages/HistogramEqualizeAdaptive.class"
+],
+"Applies histogram equalization to the selected channels of the image.  For gray scale images this will increase the image contrast.  For color images, the results will vary depending on the image format and channels selected for equalization.  Generally applying histogram equalization to a color image will result in a false color image; however, contrast enhancement can be achieved on HSV formats by applying equalization to only the third channel (V).": [
+"org/openpnp/vision/pipeline/stages/HistogramEqualize.class"
+],
+"The threshold for contrast limiting.  Lower values will limit the amount of contrast enhancement while higher values will allow for more enhancement but at the risk of increasing noise in homogeneous regions of the image.": [
+"org/openpnp/vision/pipeline/stages/HistogramEqualizeAdaptive.class"
+],
+"The number of tile rows into which the image is partitioned.": [
+"org/openpnp/vision/pipeline/stages/HistogramEqualizeAdaptive.class"
+],
+"The number of tile columns into which the image is partitioned.": [
+"org/openpnp/vision/pipeline/stages/HistogramEqualizeAdaptive.class"
+],
+"Applies contrast limited adaptive histogram equalization (CLAHE) to the selected channels of the image.  For gray scale images this will increase the image contrast.  For color images, the results will vary depending on the image format and channels selected for equalization.  Generally applying histogram equalization to a color image will result in a false color image; however, contrast enhancement can be achieved on HSV formats by applying equalization to only the third channel (V).": [
+"org/openpnp/vision/pipeline/stages/HistogramEqualizeAdaptive.class"
+],
+"Light actuator value or profile, if default camera lighting is disabled.": [
+"org/openpnp/vision/pipeline/stages/ImageCapture.class"
+],
+"Wait for the camera to settle before capturing an image.": [
+"org/openpnp/vision/pipeline/stages/ImageCapture.class"
+],
+"Capture an image from the pipeline camera.": [
+"org/openpnp/vision/pipeline/stages/ImageCapture.class"
+],
+"The color space of the image.  Use to select the color space that the original image had when it was written. Note that this does not change any of the numerical values that represent the image but rather their interpretation when the image is displayed in the pipeline editor.": [
+"org/openpnp/vision/pipeline/stages/ImageRead.class"
+],
+"Handle the loaded image as if captured by the camera. The image resolution and aspect ratio will be adapted, and if information is present (upp.txt), the image is scaled to camera Units per Pixel.<br/>Any pixel coordinates obtained from the image are therefore correctly interpreted, as they would from a camera captured image.<br/>The image is also registered as the pipeline captured image.": [
+"org/openpnp/vision/pipeline/stages/ImageRead.class"
+],
+"Replace the working image with the image loaded from a given path.": [
+"org/openpnp/vision/pipeline/stages/ImageRead.class"
+],
+"The diameter of the circle to mask. Use a negative value to invert the mask.": [
+"org/openpnp/vision/pipeline/stages/MaskCircle.class"
+],
+"Name of the property through which OpenPnP controls this stage. Use \"MaskCircle\" for standard control.": [
+"org/openpnp/vision/pipeline/stages/MaskCircle.class"
+],
+"Mask everything in the working image outside of a circle centered at the center of the image with the specified diameter.": [
+"org/openpnp/vision/pipeline/stages/MaskCircle.class"
+],
+"Sets each channel's min and max limits such that the pixels falling in and around the channel's histogram peak bin are masked.  The number of histogram bins that get masked is controlled by the value of the fractionToMask parameter.": [
+"org/openpnp/vision/pipeline/stages/MaskHsv.class"
+],
+"When the auto flag is set, the min and max limits are set so that the fraction of pixels in the image that get masked is approximately equal to this value.  The pixels with the most commonly occurring colors are masked first.   Valid range is from 0.0 to 1.0 (inclusive).": [
+"org/openpnp/vision/pipeline/stages/MaskHsv.class"
+],
+"First hue to be masked.  Note hues range from 0 to 255 (inclusive) but in a circular fashion so that 255 is directly adjacent to 0 (as 359 degrees is adjacent to 0 degrees).  To mask hues that cross the 255-0 boundary, set hueMin greater than hueMax.  As a rough guide, yellows fall in the range 21 to 64, greens 64 to 107, cyans 107 to 149, blues 149 to 192, magentas 192 to 235, and reds 235 to 21.": [
+"org/openpnp/vision/pipeline/stages/MaskHsv.class"
+],
+"Last hue to be masked.  Note hues range from 0 to 255 (inclusive) but in a circular fashion so that 255 is directly adjacent to 0 (as 359 degrees is adjacent to 0 degrees).  To mask hues that cross the 255-0 boundary, set hueMin greater than hueMax.  As a rough guide, yellows fall in the range 21 to 64, greens 64 to 107, cyans 107 to 149, blues 149 to 192, magentas 192 to 235, and reds 235 to 21.": [
+"org/openpnp/vision/pipeline/stages/MaskHsv.class"
+],
+"Minimum saturation to be masked.  Note saturations range from 0 to 255 (inclusive). Setting saturationMin greater than saturationMax will result in no pixels being masked.": [
+"org/openpnp/vision/pipeline/stages/MaskHsv.class"
+],
+"Maximum saturation to be masked.  Note saturations range from 0 to 255 (inclusive). Setting saturationMax less than saturationMin will result in no pixels being masked.": [
+"org/openpnp/vision/pipeline/stages/MaskHsv.class"
+],
+"Minimum value to be masked.  Note values range from 0 to 255 (inclusive). Setting valueMin greater than valueMax will result in no pixels being masked.": [
+"org/openpnp/vision/pipeline/stages/MaskHsv.class"
+],
+"Maximum value to be masked.  Note values range from 0 to 255 (inclusive). Setting valueMax less than valueMin will result in no pixels being masked.": [
+"org/openpnp/vision/pipeline/stages/MaskHsv.class"
+],
+"Soft edge of the HSV mask bounding box. If not 0, the mask is computed and applied with gradual impact, creating a more natural result.": [
+"org/openpnp/vision/pipeline/stages/MaskHsv.class"
+],
+"Soft factor, i.e. how strongly the mask is applied, from 0 ... 1.0.": [
+"org/openpnp/vision/pipeline/stages/MaskHsv.class"
+],
+"If set, the mask is returned directly as a grayscale image with the masked area black, the unmasked white. Otherwise the masked area is blackened in the source image.": [
+"org/openpnp/vision/pipeline/stages/MaskHsv.class"
+],
+"Name of the property through which OpenPnP controls this stage. Use \"MaskHsv\" for standard control.": [
+"org/openpnp/vision/pipeline/stages/MaskHsv.class"
+],
+"Mask color from an image based on the HSV color space. Pixels that fall between (hueMin, saturationMin, valueMin) and (hueMax, saturationMax, valueMax) are set to black in the output image. This stage expects the input to be in HSV_FULL format, so you should do a ConvertColor with Bgr2HsvFull before this stage and ConvertColor Hsv2BgrFull after. These are not applied internally as to not complicate the use of multiple instances of this stage in series. Note that this stage can be used with any 3 channel, 8 bit per channel color space. The order of the filtered channels is hue, saturation, value, but you can use these ranges for other channels.": [
+"org/openpnp/vision/pipeline/stages/MaskHsv.class"
+],
+"Mask an image with model shapes originating from previous stages.": [
+"org/openpnp/vision/pipeline/stages/MaskModel.class"
+],
+"Coordinates forming shapes. X,Y coordinates or sizes are separated by commas, coordinate or size pairs are separated by colons ':'. Multiple shapes are separated by semicolons ';'": [
+"org/openpnp/vision/pipeline/stages/MaskPolygon.class"
+],
+"Mask an image with multiple shapes formed with numeric data provided by the user.": [
+"org/openpnp/vision/pipeline/stages/MaskPolygon.class"
+],
+"Name of a prior stage to load the template image from.": [
+"org/openpnp/vision/pipeline/stages/MatchPartTemplate.class",
+"org/openpnp/vision/pipeline/stages/MatchPartsTemplate.class",
+"org/openpnp/vision/pipeline/stages/MatchTemplate.class"
+],
+"Name of a prior stage to load the working model from.": [
+"org/openpnp/vision/pipeline/stages/MatchPartTemplate.class",
+"org/openpnp/vision/pipeline/stages/MatchPartsTemplate.class"
+],
+"If maximum value is below this value, then no matches will be reported. Default is 0.4.": [
+"org/openpnp/vision/pipeline/stages/MatchPartTemplate.class"
+],
+"OpenCV based image template matching with local maxima detection improvements. On match, returns the true orientation of the input model.": [
+"org/openpnp/vision/pipeline/stages/MatchPartTemplate.class"
+],
+"No model was found. A RotatedRect was expected.": [
+"org/openpnp/vision/pipeline/stages/MatchPartTemplate.class",
+"org/openpnp/vision/pipeline/stages/MatchPartsTemplate.class"
+],
+"If maximum value is below this value, then no matches will be reported. Default is 0.85.": [
+"org/openpnp/vision/pipeline/stages/MatchPartsTemplate.class"
+],
+"OpenCV based image template matching with local maxima detection improvements. On match, returns the true orientation of the input models.": [
+"org/openpnp/vision/pipeline/stages/MatchPartsTemplate.class"
+],
+"If maximum value is below this value, then no matches will be reported. Default is 0.7.": [
+"org/openpnp/vision/pipeline/stages/MatchTemplate.class"
+],
+"Normalized minimum recognition threshold for the CCOEFF_NORMED method, in the interval [0,1]. Default is 0.85.": [
+"org/openpnp/vision/pipeline/stages/MatchTemplate.class"
+],
+"Property name as controlled by the vision operation using this pipeline.<br/><ul><li><i>propertyName</i>.maxDistance</li><li><i>propertyName</i>.center</li></ul>If set, these will override the properties configured here.": [
+"org/openpnp/vision/pipeline/stages/MatchTemplate.class"
+],
+"OpenCV based image template matching with local maxima detection improvements.": [
+"org/openpnp/vision/pipeline/stages/MatchTemplate.class"
+],
+"Threshold minimum grayscale value of the pixel to be considered \"set\".": [
+"org/openpnp/vision/pipeline/stages/MinAreaRect.class"
+],
+"Threshold mayimum grayscale value of the pixel to be considered \"set\".": [
+"org/openpnp/vision/pipeline/stages/MinAreaRect.class"
+],
+"Expected angle of the rectangular hull to be detected.": [
+"org/openpnp/vision/pipeline/stages/MinAreaRect.class"
+],
+"Detect the left edge of the rectangle (rotated to expectedAngle).": [
+"org/openpnp/vision/pipeline/stages/MinAreaRect.class"
+],
+"Detect the right edge of the rectangle (rotated to expectedAngle).": [
+"org/openpnp/vision/pipeline/stages/MinAreaRect.class"
+],
+"Detect the top edge of the rectangle (rotated to expectedAngle).": [
+"org/openpnp/vision/pipeline/stages/MinAreaRect.class"
+],
+"Detect the bottom edge of the rectangle (rotated to expectedAngle).": [
+"org/openpnp/vision/pipeline/stages/MinAreaRect.class"
+],
+"Display the detection result diagnostics.": [
+"org/openpnp/vision/pipeline/stages/MinAreaRect.class"
+],
+"determines the pipeline property name under which this stage is controlled by the vision operation. If set, these will override some of the properties configured here. Use \"MinAreaRect\" for default control.": [
+"org/openpnp/vision/pipeline/stages/MinAreaRect.class"
+],
+"Finds the smallest rotated rectangle that encloses pixels that fall within the given range.\nInput should be a grayscale image.": [
+"org/openpnp/vision/pipeline/stages/MinAreaRect.class"
+],
+"On color images it does RGB Max algorithm, removes shadow and looses color information.": [
+"org/openpnp/vision/pipeline/stages/Normalize.class"
+],
+"Name of a prior stage containing a RotatedRect or List<RotatedRect>.": [
+"org/openpnp/vision/pipeline/stages/OrientRotatedRects.class"
+],
+"Expected angle during perfect pick operation": [
+"org/openpnp/vision/pipeline/stages/OrientRotatedRects.class"
+],
+"Sets the angle of a RotatedRect or List<RotatedRect> to match the specified orientation, either landscape or portrait.": [
+"org/openpnp/vision/pipeline/stages/OrientRotatedRects.class"
+],
+"Invert the sense of the Boolean, as presented to the user.": [
+"org/openpnp/vision/pipeline/stages/ParameterBool.class"
+],
+"Exposes a Boolean stage property as an external parameter to this pipeline.": [
+"org/openpnp/vision/pipeline/stages/ParameterBool.class"
+],
+"Exposes a numeric stage property as an external parameter to this pipeline.": [
+"org/openpnp/vision/pipeline/stages/ParameterNumeric.class"
+],
+"Name of a template image, or name of a directory where an image can be found with a name inferred from part or package ID.": [
+"org/openpnp/vision/pipeline/stages/ReadPartTemplateImage.class"
+],
+"Extension of image file. Defaults to '.png'.": [
+"org/openpnp/vision/pipeline/stages/ReadPartTemplateImage.class",
+"org/openpnp/vision/pipeline/stages/WritePartTemplateImage.class"
+],
+"Prefix of the filename. Used for automatic filename generation to distinguish between different uses (e.g. up/down camera). Default empty.": [
+"org/openpnp/vision/pipeline/stages/ReadPartTemplateImage.class",
+"org/openpnp/vision/pipeline/stages/WritePartTemplateImage.class"
+],
+"The color space of the image.  Use to select the color space that the original image had when it was written.  Note that this does not change any of the numerical values that represent the image but rather their interpretation when the image is displayed in the pipeline editor.": [
+"org/openpnp/vision/pipeline/stages/ReadPartTemplateImage.class"
+],
+"Read a template image from disk given a user defined file name, or infer the image's name from the id of the part loaded in the feeder and load it from a path defined by the user.": [
+"org/openpnp/vision/pipeline/stages/ReadPartTemplateImage.class"
+],
+"No feeder, part, or useable templateFile found. Cannot figure out part name.": [
+"org/openpnp/vision/pipeline/stages/ReadPartTemplateImage.class",
+"org/openpnp/vision/pipeline/stages/WritePartTemplateImage.class"
+],
+"Run an arbitrary script file using the built in scripting engine. pipeline and stage are exposed as globals for use by the script. To return a pipeline result you can't use a return statement, but instead just let the object be the last thing the script evaluates.": [
+"org/openpnp/vision/pipeline/stages/ScriptRun.class"
+],
+"Selects a single rotated rectangle from a list. Main purpose convert the data type.": [
+"org/openpnp/vision/pipeline/stages/SelectSingleRect.class"
+],
+"Set all pixels of the working image to the specified color.": [
+"org/openpnp/vision/pipeline/stages/SetColor.class"
+],
+"Name of the property through which OpenPnP controls this stage. Use \"SimpleBlobDetector\" for standard control.": [
+"org/openpnp/vision/pipeline/stages/SimpleBlobDetector.class"
+],
+"CharacterMatch [x=\u0001, y=\u0001, width=\u0001, height=\u0001, ch=\"\u0001\", score=\u0001, charNum=\u0001]": [
+"org/openpnp/vision/pipeline/stages/SimpleOcr$CharacterMatch.class"
+],
+"Alphabet of all the characters that can be recognized. The smaller the alphabet, the faster and the more reliable the OCR works. The alphabet can be overriden with the \"alphabet\" property.": [
+"org/openpnp/vision/pipeline/stages/SimpleOcr.class"
+],
+"Name of the font to be recognized or [Barcode].<br/>Monospace fonts work much better and allow lower resolution. Use a font where all the used characters are easily distinguishable. Fonts with clear separation between characters are preferred.": [
+"org/openpnp/vision/pipeline/stages/SimpleOcr.class"
+],
+"Size of the font in typographic points (1 pt = 1/72 in).": [
+"org/openpnp/vision/pipeline/stages/SimpleOcr.class"
+],
+"If the font size is larger in pixels than this value, the OCR stage will resizes the image to a smaller resolution first (to achieve acceptable OCR speed). Alternatively, you can use an AffineWarp stage with scale < 1.0, but then you need to scale your pointSize too.": [
+"org/openpnp/vision/pipeline/stages/SimpleOcr.class"
+],
+"Template matching minimum match threshold (CCOEFF_NORMED method). Default is 0.75.": [
+"org/openpnp/vision/pipeline/stages/SimpleOcr.class"
+],
+"Write debug images and messages. Will slow down operation.": [
+"org/openpnp/vision/pipeline/stages/SimpleOcr.class"
+],
+"Property name as controlled by the vision operation using this pipeline.<br/>If set, these will override the properties configured here.": [
+"org/openpnp/vision/pipeline/stages/SimpleOcr.class"
+],
+"A very simple OCR/Barcode stage that returns a (multi-line) text string. <br/>Use an AffineWarp stage to extract the region of interest first (for cropping, rotation and acceptable speed).<br/>It is also recommended to convert the image to grayscale first. Do not apply a threshold stage.": [
+"org/openpnp/vision/pipeline/stages/SimpleOcr.class"
+],
+"This value is inaccuracy tolerance +/- pixel size that is considered to be valid.": [
+"org/openpnp/vision/pipeline/stages/SizeCheck.class"
+],
+"It uses pixel sizes. Check part's pixel sizes on detected RotatedRect (i.e. MinAreaRect) and put the same values into this stage. Place this stage after the Pipeline that returns RotatedRect (i.e. MinAreaRect...) and use it as 'results' stage. Rename MinAreaRect into 'result'.": [
+"org/openpnp/vision/pipeline/stages/SizeCheck.class"
+],
+"Adaptive thresholding algorithm to use: 'Mean' is a mean of the (blockSize x blockSize) neighborhood of a pixel minus cParm. 'Gaussian' is a weighted sum (cross-correlation with a Gaussian window) of the (blockSize x blockSize) neighborhood of a pixel minus cParm": [
+"org/openpnp/vision/pipeline/stages/ThresholdAdaptive.class"
+],
+"Thresholding type that must be either binary (default) or inverted binary": [
+"org/openpnp/vision/pipeline/stages/ThresholdAdaptive.class"
+],
+"Size of a pixel neighborhood that is used to calculate a threshold value for the pixel. Should be and odd number greater than or equal to 3": [
+"org/openpnp/vision/pipeline/stages/ThresholdAdaptive.class"
+],
+"Constant subtracted from the mean or weighted mean. Can take negative values too.": [
+"org/openpnp/vision/pipeline/stages/ThresholdAdaptive.class"
+],
+"Performs adaptive thresholding on the working image.": [
+"org/openpnp/vision/pipeline/stages/ThresholdAdaptive.class"
+],
+"Name of the template image to write, or name of a directory where the image should be written with a name inferred from the part ID.": [
+"org/openpnp/vision/pipeline/stages/WritePartTemplateImage.class"
+],
+"Write a template image to disk given a user defined file name, or infer the image's name from the id of the part loaded in the feeder and write it to the path defined by the user.": [
+"org/openpnp/vision/pipeline/stages/WritePartTemplateImage.class"
+],
+"Please select a stage implemention from the list below.": [
+"org/openpnp/vision/pipeline/ui/PipelinePanel$4.class"
+],
+"Copy the pipeline to the clipboard in text format.": [
+"org/openpnp/vision/pipeline/ui/PipelinePanel$6.class"
+],
+"Create a new pipeline from a definition on the clipboard.": [
+"org/openpnp/vision/pipeline/ui/PipelinePanel$7.class"
+],
+"RGB: %03d, %03d, %03d HSV(full): %03d, %03d, %03d XY: %d, %d %s": [
+"org/openpnp/vision/pipeline/ui/ResultsPanel$1.class"
+],
+"Images displayed assuming BGR color space - colors may not look correct.": [
+"org/openpnp/vision/pipeline/ui/ResultsPanel$8.class"
+],
+"Previously saved pipeline failed to load: \u0001": [
+"org/openpnp/vision/pipeline/ui/StandaloneEditor.class"
+]
+}

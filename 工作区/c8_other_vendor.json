@@ -1,0 +1,678 @@
+{
+ "Expected %02x but received %02x.": [
+  "org/openpnp/machine/neoden4/NeoDen4Driver.class"
+ ],
+ "Pool for timeout": [
+  "org/openpnp/machine/neoden4/NeoDen4Driver.class"
+ ],
+ "Pool for error": [
+  "org/openpnp/machine/neoden4/NeoDen4Driver.class"
+ ],
+ "home timeout while waiting for status==ready": [
+  "org/openpnp/machine/neoden4/NeoDen4Driver.class"
+ ],
+ "Not supported in this driver 2": [
+  "org/openpnp/machine/neoden4/NeoDen4Driver.class"
+ ],
+ "Neoden moveStep %d, %d": [
+  "org/openpnp/machine/neoden4/NeoDen4Driver.class"
+ ],
+ "Move Z": [
+  "org/openpnp/machine/neoden4/NeoDen4Driver.class"
+ ],
+ "Move C": [
+  "org/openpnp/machine/neoden4/NeoDen4Driver.class"
+ ],
+ "Feed, id=%d, strength=%d, feedRate=%d": [
+  "org/openpnp/machine/neoden4/NeoDen4Driver.class"
+ ],
+ "Recovered feed": [
+  "org/openpnp/machine/neoden4/NeoDen4Driver.class"
+ ],
+ "Feed error.": [
+  "org/openpnp/machine/neoden4/NeoDen4Driver.class"
+ ],
+ "Recovered changeFeederId": [
+  "org/openpnp/machine/neoden4/NeoDen4Driver.class"
+ ],
+ "Peel, id=%d, strength=%d, feedRate=%d": [
+  "org/openpnp/machine/neoden4/NeoDen4Driver.class"
+ ],
+ "Recovered peel": [
+  "org/openpnp/machine/neoden4/NeoDen4Driver.class"
+ ],
+ "Peel error.": [
+  "org/openpnp/machine/neoden4/NeoDen4Driver.class"
+ ],
+ "Neoden move to to %.3f,%.3f": [
+  "org/openpnp/machine/neoden4/NeoDen4Driver.class"
+ ],
+ "NeoDen4Driver moveTo: Machine must be homed before movement": [
+  "org/openpnp/machine/neoden4/NeoDen4Driver.class"
+ ],
+ "Recovered moveTo": [
+  "org/openpnp/machine/neoden4/NeoDen4Driver.class"
+ ],
+ "MoveTo error.": [
+  "org/openpnp/machine/neoden4/NeoDen4Driver.class"
+ ],
+ "Neoden setBuzzer %b": [
+  "org/openpnp/machine/neoden4/NeoDen4Driver.class"
+ ],
+ "Neoden actuate %s, %f": [
+  "org/openpnp/machine/neoden4/NeoDen4Driver.class"
+ ],
+ "actuate: try %d, exception %s, [%s]": [
+  "org/openpnp/machine/neoden4/NeoDen4Driver.class"
+ ],
+ "Actuate error.": [
+  "org/openpnp/machine/neoden4/NeoDen4Driver.class"
+ ],
+ "Neoden getNozzleAirValue %d": [
+  "org/openpnp/machine/neoden4/NeoDen4Driver.class"
+ ],
+ "Recovered getNozzleAirValue": [
+  "org/openpnp/machine/neoden4/NeoDen4Driver.class"
+ ],
+ "Error in getNozzleAirValue! Value<-128 (%d)": [
+  "org/openpnp/machine/neoden4/NeoDen4Driver.class"
+ ],
+ "Invalid axis letter \u0001 for nozzle rotation axis \u0001": [
+  "org/openpnp/machine/neoden4/NeoDen4Driver.class"
+ ],
+ "Invalid axis letter \u0001 for nozzle z axis \u0001": [
+  "org/openpnp/machine/neoden4/NeoDen4Driver.class"
+ ],
+ "Actuation feedLength can't be lower than 0!": [
+  "org/openpnp/machine/neoden4/NeoDen4FeederActuator.class"
+ ],
+ "img_readAsy() ret = %d, [cameraId:%d]": [
+  "org/openpnp/machine/neoden4/Neoden4Camera.class"
+ ],
+ "Resetting camera [cameraId:%d]": [
+  "org/openpnp/machine/neoden4/Neoden4Camera.class"
+ ],
+ "open() [cameraId:%d, width: %d, height: %d]": [
+  "org/openpnp/machine/neoden4/Neoden4Camera.class"
+ ],
+ "Bummer, detected %d cameras...": [
+  "org/openpnp/machine/neoden4/Neoden4CameraHandler.class"
+ ],
+ "Detected %d neoden cameras...": [
+  "org/openpnp/machine/neoden4/Neoden4CameraHandler.class"
+ ],
+ "Cannot load template image: {} ": [
+  "org/openpnp/machine/neoden4/Neoden4Feeder$Vision$1.class"
+ ],
+ "No actuator name set.": [
+  "org/openpnp/machine/neoden4/Neoden4Feeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceDragFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceLeverFeeder.class"
+ ],
+ "No Actuator found with name %s on feed Head %s": [
+  "org/openpnp/machine/neoden4/Neoden4Feeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceDragFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceLeverFeeder.class"
+ ],
+ "Modified pickLocation {}": [
+  "org/openpnp/machine/neoden4/Neoden4Feeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceDragFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceLeverFeeder.class"
+ ],
+ "No vision capable camera found on head.": [
+  "org/openpnp/machine/neoden4/Neoden4Feeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceDragFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceLeverFeeder.class"
+ ],
+ "Template image is required when vision is enabled.": [
+  "org/openpnp/machine/neoden4/Neoden4Feeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceDragFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceLeverFeeder.class"
+ ],
+ "Area of Interest is required when vision is enabled.": [
+  "org/openpnp/machine/neoden4/Neoden4Feeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceDragFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceLeverFeeder.class"
+ ],
+ "Move camera to pick location.": [
+  "org/openpnp/machine/neoden4/Neoden4Feeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceDragFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceLeverFeeder.class"
+ ],
+ "Perform template match.": [
+  "org/openpnp/machine/neoden4/Neoden4Feeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceDragFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceLeverFeeder.class"
+ ],
+ "centered matchX {}, matchY {}": [
+  "org/openpnp/machine/neoden4/Neoden4Feeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceDragFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceLeverFeeder.class"
+ ],
+ "negated offsetX {}, offsetY {}": [
+  "org/openpnp/machine/neoden4/Neoden4Feeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceDragFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceLeverFeeder.class"
+ ],
+ "final, in camera units offsetX {}, offsetY {}": [
+  "org/openpnp/machine/neoden4/Neoden4Feeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceDragFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceLeverFeeder.class"
+ ],
+ "ReferenceTapeFeeder id %s": [
+  "org/openpnp/machine/neoden4/Neoden4Feeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceDragFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceLeverFeeder.class"
+ ],
+ "final visionOffsets \u0001": [
+  "org/openpnp/machine/neoden4/Neoden4Feeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceDragFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceLeverFeeder.class"
+ ],
+ "Signaler \u0001 thread \u0001 bye-bye.": [
+  "org/openpnp/machine/neoden4/Neoden4Signaler.class"
+ ],
+ "Can't find Neoden4Camera!": [
+  "org/openpnp/machine/neoden4/Neoden4SwitcherCamera.class"
+ ],
+ "Peeler ID": [
+  "org/openpnp/machine/neoden4/wizards/NeoDen4FeederActuatorConfigurationWizard.class"
+ ],
+ "Feeder ID": [
+  "org/openpnp/machine/neoden4/wizards/NeoDen4FeederActuatorConfigurationWizard.class"
+ ],
+ "Feed Strength": [
+  "org/openpnp/machine/neoden4/wizards/NeoDen4FeederActuatorConfigurationWizard.class"
+ ],
+ "Peel Strength": [
+  "org/openpnp/machine/neoden4/wizards/NeoDen4FeederActuatorConfigurationWizard.class"
+ ],
+ "Feed length": [
+  "org/openpnp/machine/neoden4/wizards/NeoDen4FeederActuatorConfigurationWizard.class"
+ ],
+ "Peel length": [
+  "org/openpnp/machine/neoden4/wizards/NeoDen4FeederActuatorConfigurationWizard.class"
+ ],
+ "Change Feeder ID": [
+  "org/openpnp/machine/neoden4/wizards/NeoDen4FeederActuatorConfigurationWizard.class"
+ ],
+ "New ID": [
+  "org/openpnp/machine/neoden4/wizards/NeoDen4FeederActuatorConfigurationWizard.class"
+ ],
+ "Image settings": [
+  "org/openpnp/machine/neoden4/wizards/Neoden4CameraConfigurationWizard.class"
+ ],
+ "Shift X": [
+  "org/openpnp/machine/neoden4/wizards/Neoden4CameraConfigurationWizard.class"
+ ],
+ "Shift Y": [
+  "org/openpnp/machine/neoden4/wizards/Neoden4CameraConfigurationWizard.class"
+ ],
+ "Machine Details": [
+  "org/openpnp/machine/neoden4/wizards/Neoden4DriverConfigurationWizard.class"
+ ],
+ "Home Coordinate X": [
+  "org/openpnp/machine/neoden4/wizards/Neoden4DriverConfigurationWizard.class"
+ ],
+ "Home Coordinate Y": [
+  "org/openpnp/machine/neoden4/wizards/Neoden4DriverConfigurationWizard.class"
+ ],
+ "Scale Factor - X": [
+  "org/openpnp/machine/neoden4/wizards/Neoden4DriverConfigurationWizard.class"
+ ],
+ "Scale Factor - Y": [
+  "org/openpnp/machine/neoden4/wizards/Neoden4DriverConfigurationWizard.class"
+ ],
+ "No Image Selected": [
+  "org/openpnp/machine/neoden4/wizards/Neoden4FeederConfigurationWizard$3.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferenceDragFeederConfigurationWizard$2.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferenceLeverFeederConfigurationWizard$2.class"
+ ],
+ "Please select an area of the camera image using the mouse.": [
+  "org/openpnp/machine/neoden4/wizards/Neoden4FeederConfigurationWizard$3.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferenceDragFeederConfigurationWizard$2.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferenceLeverFeederConfigurationWizard$2.class"
+ ],
+ "Can't find actuator '%s'": [
+  "org/openpnp/machine/neoden4/wizards/Neoden4FeederConfigurationWizard$5.class"
+ ],
+ "Reset vision offsets": [
+  "org/openpnp/machine/neoden4/wizards/Neoden4FeederConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferenceDragFeederConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferenceLeverFeederConfigurationWizard.class"
+ ],
+ "Pitch In Tape [mm]": [
+  "org/openpnp/machine/neoden4/wizards/Neoden4FeederConfigurationWizard.class"
+ ],
+ "Rotation In Tape [deg]": [
+  "org/openpnp/machine/neoden4/wizards/Neoden4FeederConfigurationWizard.class"
+ ],
+ "Actuator Name": [
+  "org/openpnp/machine/neoden4/wizards/Neoden4FeederConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferenceDragFeederConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferenceLeverFeederConfigurationWizard.class"
+ ],
+ "Feed Count": [
+  "org/openpnp/machine/neoden4/wizards/Neoden4FeederConfigurationWizard.class",
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferenceTrayFeederConfigurationWizard.class"
+ ],
+ "Vision Enabled?": [
+  "org/openpnp/machine/neoden4/wizards/Neoden4FeederConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferenceDragFeederConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferenceLeverFeederConfigurationWizard.class"
+ ],
+ "Template Image": [
+  "org/openpnp/machine/neoden4/wizards/Neoden4FeederConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferenceDragFeederConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferenceLeverFeederConfigurationWizard.class"
+ ],
+ "Area of Interest": [
+  "org/openpnp/machine/neoden4/wizards/Neoden4FeederConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferenceDragFeederConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferenceLeverFeederConfigurationWizard.class"
+ ],
+ "Reset offsets": [
+  "org/openpnp/machine/neoden4/wizards/Neoden4FeederConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferenceDragFeederConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferenceLeverFeederConfigurationWizard.class"
+ ],
+ "Source Camera": [
+  "org/openpnp/machine/neoden4/wizards/Neoden4SwitcherCameraConfigurationWizard.class",
+  "org/openpnp/machine/reference/camera/wizards/SwitcherCameraConfigurationWizard.class"
+ ],
+ "Switcher Number": [
+  "org/openpnp/machine/neoden4/wizards/Neoden4SwitcherCameraConfigurationWizard.class",
+  "org/openpnp/machine/reference/camera/wizards/SwitcherCameraConfigurationWizard.class"
+ ],
+ "Vision failed on feeder %s.": [
+  "org/openpnp/machine/pandaplacer/AbstractPandaplacerVisionFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+ ],
+ "Auto-Setup: final exception": [
+  "org/openpnp/machine/pandaplacer/AbstractPandaplacerVisionFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+ ],
+ "Feeder \u0001 sprocket hole locations undefined/too close together.": [
+  "org/openpnp/machine/pandaplacer/AbstractPandaplacerVisionFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+ ],
+ "Feeder \u0001: Please set the Pick Location Z coordinate first, it is required to determine the true scale of the camera view for accurate computer vision.": [
+  "org/openpnp/machine/pandaplacer/AbstractPandaplacerVisionFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+ ],
+ "calibrating sprocket holes pass \u0001 midPoint is \u0001": [
+  "org/openpnp/machine/pandaplacer/AbstractPandaplacerVisionFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+ ],
+ "new vision offset \u0001 vs. previous vision offset \u0001 results in error \u0001 at the (farthest) pick location": [
+  "org/openpnp/machine/pandaplacer/AbstractPandaplacerVisionFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+ ],
+ "Multi parts feed: skipping tape feed at feed count \u0001": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVision.class",
+  "org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+ ],
+ "No actuatorName specified for feeder \u0001": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVision.class"
+ ],
+ "Feed failed. Unable to find an actuator named \u0001": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVision.class",
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard$10.class",
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard$9.class",
+  "org/openpnp/machine/rapidplacer/RapidFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceAutoFeeder.class",
+  "org/openpnp/machine/reference/feeder/SchultzFeeder.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferenceAutoFeederConfigurationWizard$1.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferenceAutoFeederConfigurationWizard$2.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferenceSlotAutoFeederConfigurationWizard$7.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferenceSlotAutoFeederConfigurationWizard$8.class",
+  "org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard$2.class",
+  "org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard$3.class",
+  "org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard$8.class",
+  "org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard$9.class"
+ ],
+ "Post pick cancelled. Actuator not set for feeder \u0001": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVision.class"
+ ],
+ "Post pick failed. Unable to find an actuator named \u0001": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVision.class",
+  "org/openpnp/machine/reference/feeder/ReferenceAutoFeeder.class",
+  "org/openpnp/machine/reference/feeder/SchultzFeeder.class"
+ ],
+ "No postPickActuatorName specified for feeder \u0001.": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard$10.class"
+ ],
+ "Edit the Pipeline to be used for all vision operations of this feeder.": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard$2.class",
+  "org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard$4.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$3.class"
+ ],
+ "move the camera to the proper feeder vision location before editing the pipeline": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard$2.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$3.class"
+ ],
+ "Reset the Pipeline for this feeder to the selected type default.": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard$3.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$4.class"
+ ],
+ "This will reset the pipeline to the \u0001 type default. Are you sure?": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard$3.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$4.class"
+ ],
+ "Reset the average obtained precision statistics.": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard$4.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$5.class"
+ ],
+ "Reset the feed count e.g. when a tape has been changed.": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard$5.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$6.class"
+ ],
+ "This will reset the recorded feed count of this feeder. Are you sure?": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard$5.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$6.class"
+ ],
+ "Discard parts that have been produced by the last tape transport.": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard$6.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$7.class"
+ ],
+ "Preview the features recognized by Computer Vision.": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard$7.class",
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$8.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+ ],
+ "No feedActuatorName specified for feeder \u0001.": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard$9.class"
+ ],
+ "Edit Pipeline": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferenceLoosePartFeederConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+ ],
+ "Reset Pipeline": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferenceLoosePartFeederConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+ ],
+ "Reset Statistics": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+ ],
+ "Reset Feed Count": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+ ],
+ "Discard Parts": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+ ],
+ "Preview Vision Features": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+ ],
+ "Auto-Setup with Camera at Pick Location": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+ ],
+ "Test feed": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferenceSlotAutoFeederConfigurationWizard.class"
+ ],
+ "Test post pick": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferenceSlotAutoFeederConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+ ],
+ "Tape Settings": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+ ],
+ "Part Pitch": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferenceDragFeederConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferenceLeverFeederConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+ ],
+ "Pitch of the parts in the tape (2mm, 4mm, 8mm, 12mm, etc.)": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+ ],
+ "Feed Pitch": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+ ],
+ "How much the tape will be advanced by one lever actuation (usually multiples of 4mm)": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+ ],
+ "Rotation in Tape": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+ ],
+ "Total feed count of the feeder.": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+ ],
+ "Pick Location": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+ ],
+ "Hole 1 Location": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+ ],
+ "Hole 2 Location": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+ ],
+ "Normalize the pick location relative to the sprocket holes according to the EIA-481 standard.": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+ ],
+ "Snap to Axis?": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+ ],
+ "Snap rows of sprocket holes to the Axis parallel.": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+ ],
+ "Vision Type": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+ ],
+ "Calibration Trigger": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+ ],
+ "Precision Average": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+ ],
+ "Obtained precision average i.e. offset of the pick location, as detected by the calibration": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+ ],
+ "Calibration Count": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+ ],
+ "Precision wanted": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+ ],
+ "Precision wanted i.e. the tolerable pick location offset": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+ ],
+ "Precision Confidence Limit": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+ ],
+ "Precision obtained with 95% confidence (assuming normal distribution)": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+ ],
+ "Actuator Value": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+  "org/openpnp/machine/reference/camera/wizards/SwitcherCameraConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferenceSlotAutoFeederConfigurationWizard.class"
+ ],
+ "Select the actuator for the feed action": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class"
+ ],
+ "Post Pick": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferenceSlotAutoFeederConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard.class"
+ ],
+ "Move before feed": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferenceSlotAutoFeederConfigurationWizard.class"
+ ],
+ "Move nozzle to pick location before actuating the feed actuator": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class"
+ ],
+ "Photon Feeder with address %s has no address. Is it inserted?": [
+  "org/openpnp/machine/photon/PhotonFeeder.class"
+ ],
+ "The slot at address %s has no location configured.": [
+  "org/openpnp/machine/photon/PhotonFeeder.class"
+ ],
+ "Photon Feeder with address %s has no location offset.": [
+  "org/openpnp/machine/photon/PhotonFeeder.class"
+ ],
+ "Feeder slot has no configured location": [
+  "org/openpnp/machine/photon/PhotonFeeder.class"
+ ],
+ "Select the feeder in the Feeders tab and make sure the slot has a set location": [
+  "org/openpnp/machine/photon/PhotonFeeder.class"
+ ],
+ "Feeder has no configured offset": [
+  "org/openpnp/machine/photon/PhotonFeeder.class"
+ ],
+ "Select the feeder in the Feeders tab and make sure the feeder has an offset location from the slot": [
+  "org/openpnp/machine/photon/PhotonFeeder.class"
+ ],
+ "Failed to find and initialize the feeder": [
+  "org/openpnp/machine/photon/PhotonFeeder.class"
+ ],
+ "rs485-reply: (?<Value>.*)": [
+  "org/openpnp/machine/photon/PhotonFeeder.class"
+ ],
+ "Feed command timed out": [
+  "org/openpnp/machine/photon/PhotonFeeder.class"
+ ],
+ "Feeder could not reach its destination.": [
+  "org/openpnp/machine/photon/PhotonFeeder.class"
+ ],
+ "Feeder timed out when we requested a feed status update.": [
+  "org/openpnp/machine/photon/PhotonFeeder.class"
+ ],
+ "Failed to feed for an unknown reason. Is the feeder inserted?": [
+  "org/openpnp/machine/photon/PhotonFeeder.class"
+ ],
+ "Unconfigured %s": [
+  "org/openpnp/machine/photon/PhotonFeeder.class"
+ ],
+ "Searching for Photon Feeders": [
+  "org/openpnp/machine/photon/PhotonFeeder.class"
+ ],
+ "Max Photon feeder address: \u0001": [
+  "org/openpnp/machine/photon/PhotonFeeder.class"
+ ],
+ "Querying Photon feeder address: \u0001": [
+  "org/openpnp/machine/photon/PhotonFeeder.class"
+ ],
+ "Found feeder with hardware uuid \u0001 at address \u0001": [
+  "org/openpnp/machine/photon/PhotonFeeder.class"
+ ],
+ "Global Config": [
+  "org/openpnp/machine/photon/sheets/GlobalConfigPropertySheet.class"
+ ],
+ "Please insert a feeder into slot %s.": [
+  "org/openpnp/machine/photon/sheets/gui/FeederSlotUpdateStep$1.class",
+  "org/openpnp/machine/photon/sheets/gui/FeederSlotUpdateStep.class"
+ ],
+ "Feeder found! Programming address %s.": [
+  "org/openpnp/machine/photon/sheets/gui/FeederSlotUpdateStep$2.class",
+  "org/openpnp/machine/photon/sheets/gui/FeederSlotUpdateStep.class"
+ ],
+ "Failed to initialize feeder after updating slot address.": [
+  "org/openpnp/machine/photon/sheets/gui/FeederSlotUpdateStep$2.class"
+ ],
+ "Max feeder address reached.": [
+  "org/openpnp/machine/photon/sheets/gui/FeederSlotUpdateStep$2.class",
+  "org/openpnp/machine/photon/sheets/gui/FeederSlotUpdateStep.class"
+ ],
+ "Programming done.": [
+  "org/openpnp/machine/photon/sheets/gui/FeederSlotUpdateStep$2.class",
+  "org/openpnp/machine/photon/sheets/gui/FeederSlotUpdateStep.class"
+ ],
+ "Feeder address programming failed.": [
+  "org/openpnp/machine/photon/sheets/gui/FeederSlotUpdateStep$2.class",
+  "org/openpnp/machine/photon/sheets/gui/FeederSlotUpdateStep.class"
+ ],
+ "Failed to update feeder slot address": [
+  "org/openpnp/machine/photon/sheets/gui/FeederSlotUpdateStep$2.class"
+ ],
+ "Insert a feeder into the physical slot corresponding to the number shown below. You can change this number as needed if you want to program a different address. This number will automatically increment after the feeder slot is programmed. You can then move the current feeder or insert a new feeder into the next slot.": [
+  "org/openpnp/machine/photon/sheets/gui/FeederSlotUpdateStep.class"
+ ],
+ "Current Slot Address": [
+  "org/openpnp/machine/photon/sheets/gui/FeederSlotUpdateStep.class"
+ ],
+ "Please connect to the machine before running this wizard.": [
+  "org/openpnp/machine/photon/sheets/gui/GlobalConfigConfigurationWizard$1.class"
+ ],
+ "Maximum Feeder Address To Scan": [
+  "org/openpnp/machine/photon/sheets/gui/GlobalConfigConfigurationWizard.class"
+ ],
+ "Program Feeder Slots": [
+  "org/openpnp/machine/photon/sheets/gui/GlobalConfigConfigurationWizard.class"
+ ],
+ "If you've built your own slots and need to program them, use this wizard.": [
+  "org/openpnp/machine/photon/sheets/gui/GlobalConfigConfigurationWizard.class"
+ ],
+ "Start Wizard": [
+  "org/openpnp/machine/photon/sheets/gui/GlobalConfigConfigurationWizard.class"
+ ],
+ "Update Floors": [
+  "org/openpnp/machine/photon/sheets/gui/ProgramFeederSlotWizard$1.class",
+  "org/openpnp/machine/photon/sheets/gui/ProgramFeederSlotWizard.class"
+ ],
+ "Program Feeder Slot Wizard": [
+  "org/openpnp/machine/photon/sheets/gui/ProgramFeederSlotWizard.class"
+ ],
+ "Remove Feeders": [
+  "org/openpnp/machine/photon/sheets/gui/ProgramFeederSlotWizard.class"
+ ],
+ "To program your slots, begin by removing all the Photon feeders from your machine. Then, click Next.": [
+  "org/openpnp/machine/photon/sheets/gui/RemoveAllFeedersStep.class"
+ ],
+ "Rapid Feeder Config": [
+  "org/openpnp/machine/rapidplacer/RapidFeederConfigurationWizard.class"
+ ],
+ "Rapid Feeder Scanning": [
+  "org/openpnp/machine/rapidplacer/RapidFeederConfigurationWizard.class"
+ ],
+ "Scan Start Location": [
+  "org/openpnp/machine/rapidplacer/RapidFeederConfigurationWizard.class"
+ ],
+ "Scan End Location": [
+  "org/openpnp/machine/rapidplacer/RapidFeederConfigurationWizard.class"
+ ],
+ "Scan Increment": [
+  "org/openpnp/machine/rapidplacer/RapidFeederConfigurationWizard.class"
+ ]
+}

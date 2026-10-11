@@ -1,0 +1,357 @@
+{
+ "No actuator name set.": [
+  "org/openpnp/machine/neoden4/Neoden4Feeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceDragFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceLeverFeeder.class"
+ ],
+ "No Actuator found with name %s on feed Head %s": [
+  "org/openpnp/machine/neoden4/Neoden4Feeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceDragFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceLeverFeeder.class"
+ ],
+ "Modified pickLocation {}": [
+  "org/openpnp/machine/neoden4/Neoden4Feeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceDragFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceLeverFeeder.class"
+ ],
+ "No vision capable camera found on head.": [
+  "org/openpnp/machine/neoden4/Neoden4Feeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceDragFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceLeverFeeder.class"
+ ],
+ "Template image is required when vision is enabled.": [
+  "org/openpnp/machine/neoden4/Neoden4Feeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceDragFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceLeverFeeder.class"
+ ],
+ "Area of Interest is required when vision is enabled.": [
+  "org/openpnp/machine/neoden4/Neoden4Feeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceDragFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceLeverFeeder.class"
+ ],
+ "Move camera to pick location.": [
+  "org/openpnp/machine/neoden4/Neoden4Feeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceDragFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceLeverFeeder.class"
+ ],
+ "Perform template match.": [
+  "org/openpnp/machine/neoden4/Neoden4Feeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceDragFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceLeverFeeder.class"
+ ],
+ "centered matchX {}, matchY {}": [
+  "org/openpnp/machine/neoden4/Neoden4Feeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceDragFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceLeverFeeder.class"
+ ],
+ "negated offsetX {}, offsetY {}": [
+  "org/openpnp/machine/neoden4/Neoden4Feeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceDragFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceLeverFeeder.class"
+ ],
+ "final, in camera units offsetX {}, offsetY {}": [
+  "org/openpnp/machine/neoden4/Neoden4Feeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceDragFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceLeverFeeder.class"
+ ],
+ "ReferenceTapeFeeder id %s": [
+  "org/openpnp/machine/neoden4/Neoden4Feeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceDragFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceLeverFeeder.class"
+ ],
+ "final visionOffsets \u0001": [
+  "org/openpnp/machine/neoden4/Neoden4Feeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceDragFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceLeverFeeder.class"
+ ],
+ "Vision failed on feeder %s.": [
+  "org/openpnp/machine/pandaplacer/AbstractPandaplacerVisionFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+ ],
+ "Auto-Setup: final exception": [
+  "org/openpnp/machine/pandaplacer/AbstractPandaplacerVisionFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+ ],
+ "Feeder \u0001 sprocket hole locations undefined/too close together.": [
+  "org/openpnp/machine/pandaplacer/AbstractPandaplacerVisionFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+ ],
+ "Feeder \u0001: Please set the Pick Location Z coordinate first, it is required to determine the true scale of the camera view for accurate computer vision.": [
+  "org/openpnp/machine/pandaplacer/AbstractPandaplacerVisionFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+ ],
+ "calibrating sprocket holes pass \u0001 midPoint is \u0001": [
+  "org/openpnp/machine/pandaplacer/AbstractPandaplacerVisionFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+ ],
+ "new vision offset \u0001 vs. previous vision offset \u0001 results in error \u0001 at the (farthest) pick location": [
+  "org/openpnp/machine/pandaplacer/AbstractPandaplacerVisionFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+ ],
+ "Multi parts feed: skipping tape feed at feed count \u0001": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVision.class",
+  "org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+ ],
+ "Feed failed. Unable to find an actuator named \u0001": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVision.class",
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard$10.class",
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard$9.class",
+  "org/openpnp/machine/rapidplacer/RapidFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceAutoFeeder.class",
+  "org/openpnp/machine/reference/feeder/SchultzFeeder.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferenceAutoFeederConfigurationWizard$1.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferenceAutoFeederConfigurationWizard$2.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferenceSlotAutoFeederConfigurationWizard$7.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferenceSlotAutoFeederConfigurationWizard$8.class",
+  "org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard$2.class",
+  "org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard$3.class",
+  "org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard$8.class",
+  "org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard$9.class"
+ ],
+ "Post pick failed. Unable to find an actuator named \u0001": [
+  "org/openpnp/machine/pandaplacer/BambooFeederAutoVision.class",
+  "org/openpnp/machine/reference/feeder/ReferenceAutoFeeder.class",
+  "org/openpnp/machine/reference/feeder/SchultzFeeder.class"
+ ],
+ "Vision outside of the initial area": [
+  "org/openpnp/machine/reference/feeder/AdvancedLoosePartFeeder.class"
+ ],
+ "Feeder \u0001: No parts found.": [
+  "org/openpnp/machine/reference/feeder/AdvancedLoosePartFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceHeapFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferenceLoosePartFeeder.class"
+ ],
+ "Liberation Mono": [
+  "org/openpnp/machine/reference/feeder/BlindsFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class",
+  "org/openpnp/vision/pipeline/stages/SimpleOcr.class"
+ ],
+ "BlindsFeeder: No Nozzle/NozzleTip found that allows pushing and has no part loaded.": [
+  "org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+ ],
+ "Please review.": [
+  "org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+ ],
+ "Feeder Array": [
+  "org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+ ],
+ "Feeder \u0001 part \u0001 empty.": [
+  "org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+ ],
+ "Feeder \u0001 \u0001: cover is not open. Please open manually.": [
+  "org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+ ],
+ "Feeder \u0001: Please set the fiducials first (camera center is outside any previously defined fiducial area).": [
+  "org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+ ],
+ "Feeder \u0001: Tape centerline not found.": [
+  "org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+ ],
+ "Feeder \u0001: Pocket pitch not found.": [
+  "org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+ ],
+ "Feeder \u0001: Pocket size not found.": [
+  "org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+ ],
+ "OCR text \u0001": [
+  "org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+ ],
+ "Feeder \u0001: Please set the Part Z first, it is required to determine the true scale of the camera view for accurate computer vision.": [
+  "org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+ ],
+ "OCR detected part in feeder \u0001, OCR part \u0001": [
+  "org/openpnp/machine/reference/feeder/BlindsFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+ ],
+ "OCR detected wrong part in slot of feeder \u0001, current part \u0001 != OCR part \u0001": [
+  "org/openpnp/machine/reference/feeder/BlindsFeeder.class",
+  "org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+ ],
+ "OCR could not detect part in slot of feeder \u0001, current part \u0001": [
+  "org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+ ],
+ "Feeder \u0001 is missing an \"OCR\" stage in the pipeline.": [
+  "org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+ ],
+ "Feeder \u0001: Pocket position not found.": [
+  "org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+ ],
+ "Feeder \u0001: Only Blinds Cover can be calibrated.": [
+  "org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+ ],
+ "Feeder \u0001: Fiducial location not set.": [
+  "org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+ ],
+ "Feeder \u0001: Fiducial not found.": [
+  "org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+ ],
+ "Feeder \u0001: Machine not yet homed.": [
+  "org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+ ],
+ "No feeders found to \u0001": [
+  "org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+ ],
+ "Feeder \u0001: has no cover to actuate.": [
+  "org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+ ],
+ "Feeder \u0001 Part Z not set.": [
+  "org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+ ],
+ "Feeder \u0001: loaded nozzle tips do not allow pushing. Check the nozzle tip configuration or change the nozzle tip.": [
+  "org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+ ],
+ "Feeder \u0001: current nozzle tip \u0001 has push diameter not set. Check the nozzle tip configuration.": [
+  "org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+ ],
+ "No actuatorName specified for feeder {}.": [
+  "org/openpnp/machine/reference/feeder/ReferenceAutoFeeder.class",
+  "org/openpnp/machine/reference/feeder/SchultzFeeder.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferenceAutoFeederConfigurationWizard$1.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferenceSlotAutoFeederConfigurationWizard$7.class",
+  "org/openpnp/machine/reference/feeder/wizards/SchultzFeederConfigurationWizard$2.class",
+  "org/openpnp/machine/reference/feeder/wizards/SlotSchultzFeederConfigurationWizard$8.class"
+ ],
+ "First feed, running vision pre-flight.": [
+  "org/openpnp/machine/reference/feeder/ReferenceDragFeeder.class"
+ ],
+ "New drag distance with visionOffset \u0001": [
+  "org/openpnp/machine/reference/feeder/ReferenceDragFeeder.class"
+ ],
+ "Multi parts drag feeder: skipping drag \u0001": [
+  "org/openpnp/machine/reference/feeder/ReferenceDragFeeder.class"
+ ],
+ "Id is required.": [
+  "org/openpnp/machine/reference/feeder/ReferenceHeapFeeder$DropBox.class",
+  "org/openpnp/machine/reference/feeder/ReferenceSlotAutoFeeder$Bank.class",
+  "org/openpnp/machine/reference/feeder/SlotSchultzFeeder$Bank.class"
+ ],
+ "DropBox \u0001: Even after \u0001 attempts the DropBox is not detected as empty. Check Pipeline.": [
+  "org/openpnp/machine/reference/feeder/ReferenceHeapFeeder$DropBox.class"
+ ],
+ "DropBox \u0001: Part is not detected again, check Pipeline": [
+  "org/openpnp/machine/reference/feeder/ReferenceHeapFeeder$DropBox.class"
+ ],
+ "HeapFeeder: Dropping part failed, check nozzle tip": [
+  "org/openpnp/machine/reference/feeder/ReferenceHeapFeeder$HeapFeederHelper.class"
+ ],
+ "DropBox is required.": [
+  "org/openpnp/machine/reference/feeder/ReferenceHeapFeeder.class"
+ ],
+ "Location is required.": [
+  "org/openpnp/machine/reference/feeder/ReferenceHeapFeeder.class"
+ ],
+ "Feeder \u0001: Fetching parts failed => feed failed.": [
+  "org/openpnp/machine/reference/feeder/ReferenceHeapFeeder.class"
+ ],
+ "HeapFeeder \u0001: Can not grab parts. Heap Empty or VacuumDifference wrong.": [
+  "org/openpnp/machine/reference/feeder/ReferenceHeapFeeder.class"
+ ],
+ "HeapFeeder \u0001: Can not grab parts. No parts found on three times part height.": [
+  "org/openpnp/machine/reference/feeder/ReferenceHeapFeeder.class"
+ ],
+ "Multi parts Lever feeder: skipping feed \u0001": [
+  "org/openpnp/machine/reference/feeder/ReferenceLeverFeeder.class"
+ ],
+ "No feed actuator assigned to feeder %s": [
+  "org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+ ],
+ "Auto-Setup: trying with currently assigned pipeline": [
+  "org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+ ],
+ "Auto-Setup: exception": [
+  "org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+ ],
+ "Auto-Setup: success": [
+  "org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+ ],
+ "No enabled feeder with OCR found.": [
+  "org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+ ],
+ "Push-Pull Motion": [
+  "org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+ ],
+ "Auto-Setup: trying with cloned pipeline, template: feeder \u0001": [
+  "org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+ ],
+ "Auto-Setup: trying with stock pipeline type \u0001": [
+  "org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+ ],
+ "Auto-Setup: secondary clone\u0001, template feeder: \u0001": [
+  "org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+ ],
+ "Feeder \u0001: No suitable template feeder found to clone.": [
+  "org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+ ],
+ "Feeder \u0001: No template feeder found to clone for part \u0001 compatibility.": [
+  "org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+ ],
+ "other feeder \u0001 has OCR detected part \u0001": [
+  "org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+ ],
+ "OCR detected part \u0001 in slot of feeder \u0001 is not present in any other feeder. Cannot swap out feeders.": [
+  "org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+ ],
+ "Closest feeder \u0001 \u0001 does not form a row in X and Y": [
+  "org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+ ],
+ "Feeder \u0001 is used as a template and can only be OCR-assigned parts with same tape specification or package.": [
+  "org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+ ],
+ "Feeder \u0001 has no OCR region defined.": [
+  "org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+ ],
+ "Feeder \u0001 OCR operation expected, but no \"OCR\" stage result obtained from pipeline.": [
+  "org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+ ],
+ "got OCR text \u0001": [
+  "org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+ ],
+ "Updating legacy Rotated Tray Feeder to latest version.": [
+  "org/openpnp/machine/reference/feeder/ReferenceRotatedTrayFeeder.class"
+ ],
+ "Remove owner of %s from %s": [
+  "org/openpnp/machine/reference/feeder/ReferenceSlotAutoFeeder$Feeder.class",
+  "org/openpnp/machine/reference/feeder/SlotSchultzFeeder$Feeder.class"
+ ],
+ "Set owner of %s to %s": [
+  "org/openpnp/machine/reference/feeder/ReferenceSlotAutoFeeder$Feeder.class",
+  "org/openpnp/machine/reference/feeder/SlotSchultzFeeder$Feeder.class"
+ ],
+ "No feeder loaded in slot.": [
+  "org/openpnp/machine/reference/feeder/ReferenceSlotAutoFeeder.class",
+  "org/openpnp/machine/reference/feeder/SlotSchultzFeeder.class"
+ ],
+ "Bank is required.": [
+  "org/openpnp/machine/reference/feeder/ReferenceSlotAutoFeeder.class",
+  "org/openpnp/machine/reference/feeder/SlotSchultzFeeder.class"
+ ],
+ "Can't set feeder from another bank.": [
+  "org/openpnp/machine/reference/feeder/ReferenceSlotAutoFeeder.class",
+  "org/openpnp/machine/reference/feeder/SlotSchultzFeeder.class"
+ ],
+ "White Paper": [
+  "org/openpnp/machine/reference/feeder/ReferenceStripFeeder$TapeType.class"
+ ],
+ "Black Plastic": [
+  "org/openpnp/machine/reference/feeder/ReferenceStripFeeder$TapeType.class"
+ ],
+ "Clear Plastic": [
+  "org/openpnp/machine/reference/feeder/ReferenceStripFeeder$TapeType.class"
+ ],
+ "Unable to locate reference hole. End of strip?": [
+  "org/openpnp/machine/reference/feeder/ReferenceStripFeeder.class"
+ ],
+ "Feeder \u0001: please set the Reference Hole Location Z coordinate first, it is required to determine the true scale of the camera view for accurate computer vision.": [
+  "org/openpnp/machine/reference/feeder/ReferenceStripFeeder.class"
+ ],
+ "Tried to feed part: \u0001  Feeder \u0001 empty.": [
+  "org/openpnp/machine/reference/feeder/ReferenceStripFeeder.class"
+ ],
+ "Feeder \u0001: No tape holes found.": [
+  "org/openpnp/machine/reference/feeder/ReferenceStripFeeder.class",
+  "org/openpnp/machine/reference/feeder/wizards/ReferenceStripFeederConfigurationWizard.class"
+ ],
+ "Feeder: \u0001 (\u0001) - tray empty.": [
+  "org/openpnp/machine/reference/feeder/ReferenceTrayFeeder.class"
+ ]
+}

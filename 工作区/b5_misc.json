@@ -1,0 +1,638 @@
+{
+ "definition: \u0001 changedItem: \u0001 source: \u0001": [
+  "org/openpnp/events/DefinitionStructureChangedEvent.class"
+ ],
+ "Client-ID \u0001": [
+  "org/openpnp/imgur/Imgur.class"
+ ],
+ "Attempting to remove listener from: %s @%08x - but: %s @%08x is not a listener": [
+  "org/openpnp/model/AbstractModelObject.class"
+ ],
+ "Attempting to remove listener from: %s @%08x - but: %s @%08x is not a listener for: %s": [
+  "org/openpnp/model/AbstractModelObject.class"
+ ],
+ "During disposal of %s @%08x - removed listener: %s @%08x": [
+  "org/openpnp/model/AbstractModelObject.class"
+ ],
+ "Dump of %s @%08x listeners:": [
+  "org/openpnp/model/AbstractModelObject.class"
+ ],
+ "Axes \u0001 and \u0001 have duplicate type \u0001 assigned.": [
+  "org/openpnp/model/AxesLocation.class"
+ ],
+ "Axis \u0001 has no letter assigned.": [
+  "org/openpnp/model/AxesLocation.class"
+ ],
+ "Axes \u0001 and \u0001 have duplicate letter \u0001 assigned.": [
+  "org/openpnp/model/AxesLocation.class"
+ ],
+ "Axes \u0001 and \u0001 have duplicate type \u0001 assigned. Use letter variables on the driver.": [
+  "org/openpnp/model/AxesLocation.class"
+ ],
+ "Board @%08x defined by @%08x: file %s, dims: %sx%s, placements: %d @%08x (@%08x)": [
+  "org/openpnp/model/Board.class"
+ ],
+ "BoardLocation %s @%08x defined by @%08x: (%s), location (%s), side (%s)": [
+  "org/openpnp/model/BoardLocation.class"
+ ],
+ "Configuration instance not yet initialized.": [
+  "org/openpnp/model/Configuration.class"
+ ],
+ "No packages.xml found in configuration directory, loading defaults.": [
+  "org/openpnp/model/Configuration.class"
+ ],
+ "No parts.xml found in configuration directory, loading defaults.": [
+  "org/openpnp/model/Configuration.class"
+ ],
+ "No boards.xml found in configuration directory, loading defaults.": [
+  "org/openpnp/model/Configuration.class"
+ ],
+ "No panels.xml found in configuration directory, loading defaults.": [
+  "org/openpnp/model/Configuration.class"
+ ],
+ "No vision-settings.xml found in configuration directory, loading defaults.": [
+  "org/openpnp/model/Configuration.class"
+ ],
+ "No machine.xml found in configuration directory, loading defaults.": [
+  "org/openpnp/model/Configuration.class"
+ ],
+ "No script-state.xml found in configuration directory, loading defaults.": [
+  "org/openpnp/model/Configuration.class"
+ ],
+ "Defaults were loaded. Saving to configuration directory.": [
+  "org/openpnp/model/Configuration.class"
+ ],
+ "Package with null Id cannot be added to Configuration.": [
+  "org/openpnp/model/Configuration.class"
+ ],
+ "Part with null Id cannot be added to Configuration.": [
+  "org/openpnp/model/Configuration.class"
+ ],
+ "Vision Settings with null Id cannot be added to Configuration.": [
+  "org/openpnp/model/Configuration.class"
+ ],
+ "Save Error": [
+  "org/openpnp/model/Configuration.class"
+ ],
+ "Dump of the jobRootPanelLocation": [
+  "org/openpnp/model/Configuration.class"
+ ],
+ "The job file contains a legacy panel definition, it will be converted to the new format.": [
+  "org/openpnp/model/Configuration.class"
+ ],
+ "The job file has been updated to use the new panel file.": [
+  "org/openpnp/model/Configuration.class"
+ ],
+ "A legacy job file has been detected, it is being updated to the new format.": [
+  "org/openpnp/model/Configuration.class"
+ ],
+ "Unable to find child %s of panel %s": [
+  "org/openpnp/model/Configuration.class"
+ ],
+ "Error while reading packages.xml (\u0001)": [
+  "org/openpnp/model/Configuration.class"
+ ],
+ "Error while reading parts.xml (\u0001)": [
+  "org/openpnp/model/Configuration.class"
+ ],
+ "Error while reading boards.xml (\u0001)": [
+  "org/openpnp/model/Configuration.class"
+ ],
+ "Error while reading panels.xml (\u0001)": [
+  "org/openpnp/model/Configuration.class"
+ ],
+ "Error while reading vision-settings.xml (\u0001)": [
+  "org/openpnp/model/Configuration.class"
+ ],
+ "Error while reading machine.xml (\u0001)": [
+  "org/openpnp/model/Configuration.class"
+ ],
+ "Error while reading script-state.xml (\u0001)": [
+  "org/openpnp/model/Configuration.class"
+ ],
+ "Error while saving machine.xml (\u0001)": [
+  "org/openpnp/model/Configuration.class"
+ ],
+ "Error while saving packages.xml (\u0001)": [
+  "org/openpnp/model/Configuration.class"
+ ],
+ "Error while saving parts.xml (\u0001)": [
+  "org/openpnp/model/Configuration.class"
+ ],
+ "Error while saving boards.xml (\u0001)": [
+  "org/openpnp/model/Configuration.class"
+ ],
+ "Error while saving panels.xml (\u0001)": [
+  "org/openpnp/model/Configuration.class"
+ ],
+ "Error while saving vision-settings.xml (\u0001)": [
+  "org/openpnp/model/Configuration.class"
+ ],
+ "Error while saving script-state.xml (\u0001)": [
+  "org/openpnp/model/Configuration.class"
+ ],
+ "Could not load board \u0001, file is missing.": [
+  "org/openpnp/model/Configuration.class"
+ ],
+ "Could not load board \u0001, file may be corrupt.": [
+  "org/openpnp/model/Configuration.class"
+ ],
+ "Could not load panel \u0001, file is missing.": [
+  "org/openpnp/model/Configuration.class"
+ ],
+ "Could not load panel \u0001, file may be corrupt.": [
+  "org/openpnp/model/Configuration.class"
+ ],
+ "Do you want to save your changes to \u0001?\nIf you don't save, your changes will be lost.": [
+  "org/openpnp/model/Configuration.class"
+ ],
+ "Instance type \u0001 not supported.": [
+  "org/openpnp/model/Configuration.class",
+  "org/openpnp/model/Job.class"
+ ],
+ "A new file is being created to hold the panel definition: \u0001": [
+  "org/openpnp/model/Configuration.class"
+ ],
+ "A backup of the legacy job file has been copied to: \u0001": [
+  "org/openpnp/model/Configuration.class"
+ ],
+ "Board file not found: \u0001": [
+  "org/openpnp/model/Configuration.class"
+ ],
+ "Panel file not found: \u0001": [
+  "org/openpnp/model/Configuration.class"
+ ],
+ "For Dual form factor, the pad count must be positive multiples of 2.": [
+  "org/openpnp/model/Footprint.class"
+ ],
+ "For Quad form factor, the pad count must be positive multiples of 4.": [
+  "org/openpnp/model/Footprint.class"
+ ],
+ "For PGA, the pad count must be a square number.": [
+  "org/openpnp/model/Footprint.class"
+ ],
+ "This can't happen!": [
+  "org/openpnp/model/Length.class"
+ ],
+ "s, o=": [
+  "org/openpnp/model/Motion.class"
+ ],
+ "Driver does not support move interpolation. Please refer to Issues & Solutions.": [
+  "org/openpnp/model/Motion.class"
+ ],
+ "Interpolation failed! Max. steps (\u0001) reached after \u0001% of move time/ \u0001 probes. Degrading to moderated move.": [
+  "org/openpnp/model/Motion.class"
+ ],
+ "Interpolation \u0001 intervals, \u0001 probes, \u0001 steps, comp time \u0001ms": [
+  "org/openpnp/model/Motion.class"
+ ],
+ "s, bounds s@t = ": [
+  "org/openpnp/model/MotionProfile.class"
+ ],
+ "Vmax symmetrical move, immediate solution": [
+  "org/openpnp/model/MotionProfile.class"
+ ],
+ "Analytical solution with constant acceleration profile = \u0001": [
+  "org/openpnp/model/MotionProfile.class"
+ ],
+ "Analytical solution with constant acceleration segment (1) = \u0001 (2) = \u0001": [
+  "org/openpnp/model/MotionProfile.class"
+ ],
+ "Analytical solution with constant deceleration segment (1) = \u0001 (2) = \u0001": [
+  "org/openpnp/model/MotionProfile.class"
+ ],
+ "border case v=\u0001, s=\u0001, t=\u0001 \u0001": [
+  "org/openpnp/model/MotionProfile.class"
+ ],
+ "region invalid in s \u0001 .. \u0001, s=\u0001 .. \u0001": [
+  "org/openpnp/model/MotionProfile.class"
+ ],
+ "region invalid in t \u0001 .. \u0001, s=\u0001 .. \u0001, t=\u0001 .. \u0001": [
+  "org/openpnp/model/MotionProfile.class"
+ ],
+ "region eclipsed by best t \u0001 \u0001 .. \u0001, s=\u0001 .. \u0001, t=\u0001 .. \u0001": [
+  "org/openpnp/model/MotionProfile.class"
+ ],
+ "best velocity \u0001 best time \u0001 time-tMin \u0001": [
+  "org/openpnp/model/MotionProfile.class"
+ ],
+ "region eclipsed by best t \u0001": [
+  "org/openpnp/model/MotionProfile.class"
+ ],
+ "region eclipsed by best t == min t \u0001": [
+  "org/openpnp/model/MotionProfile.class"
+ ],
+ "taken previous valid solution after converging \u0001": [
+  "org/openpnp/model/MotionProfile.class"
+ ],
+ "id %s": [
+  "org/openpnp/model/Package.class"
+ ],
+ "Can not use setChild method to add/remove children from a Panel definition - use addChild or removeChild instead.": [
+  "org/openpnp/model/Panel.class"
+ ],
+ "This method should only be called on a Panel definition.": [
+  "org/openpnp/model/Panel.class"
+ ],
+ "Use addPseudoPlacement to add a PseudoPlacement to a panel definition": [
+  "org/openpnp/model/Panel.class"
+ ],
+ "Can only add new pseudoPlacements to a panel definition": [
+  "org/openpnp/model/Panel.class"
+ ],
+ "Can only remove pseudoPlacements from a panel definition": [
+  "org/openpnp/model/Panel.class"
+ ],
+ "Can only create pseudoPlacements for a panel definition": [
+  "org/openpnp/model/Panel.class"
+ ],
+ "Panel @%08x defined by @%08x: file %s, dims: %sx%s, fiducial count: %d, children: %d": [
+  "org/openpnp/model/Panel.class"
+ ],
+ "Unable to create panel child of type \u0001": [
+  "org/openpnp/model/Panel.class"
+ ],
+ "Unable to create panel child id for type \u0001": [
+  "org/openpnp/model/Panel.class"
+ ],
+ "PanelLocation %s @%08x defined by @%08x: (%s), location (%s), side (%s)": [
+  "org/openpnp/model/PanelLocation.class"
+ ],
+ "id %s, name %s, heightUnits %s, height %f, packageId (%s)": [
+  "org/openpnp/model/Part.class"
+ ],
+ "Invalid pseudoPlacementId \"%s\" for %s": [
+  "org/openpnp/model/PseudoPlacement.class"
+ ],
+ "Pseudo-placement, for panel alignment only": [
+  "org/openpnp/model/PseudoPlacement.class"
+ ],
+ "Pseudo-fiducial, for panel alignment only": [
+  "org/openpnp/model/PseudoPlacement.class"
+ ],
+ "Unable to find matching id!": [
+  "org/openpnp/model/PseudoPlacement.class"
+ ],
+ "About to set state \u0001 (from \u0001) on \u0001: \u0001": [
+  "org/openpnp/model/Solutions$Issue.class"
+ ],
+ "Package \u0001 pad \u0001 not at 90° step angle.": [
+  "org/openpnp/model/VisionCompositing$Composite.class"
+ ],
+ "Unable to calculate center from composite vision for package \u0001": [
+  "org/openpnp/model/VisionCompositing$Composite.class"
+ ],
+ "Unable to calculate angle from composite vision for package \u0001": [
+  "org/openpnp/model/VisionCompositing$Composite.class"
+ ],
+ "Failed to create \u0001 scripting engine": [
+  "org/openpnp/scripting/ScriptEngineKeyedPooledObjectFactory.class",
+  "org/openpnp/scripting/Scripting.class"
+ ],
+ "No scripting engines in pool, nothing to do": [
+  "org/openpnp/scripting/Scripting.class"
+ ],
+ "Unknown scripting engine for \u0001": [
+  "org/openpnp/scripting/Scripting.class"
+ ],
+ "Failed to borrow \u0001 scripting engine": [
+  "org/openpnp/scripting/Scripting.class"
+ ],
+ "Engine pooling disabled, \u0001 scripting engine loaded in \u0001 milliseconds": [
+  "org/openpnp/scripting/Scripting.class"
+ ],
+ "Script \u0001 execution aborted with exception after \u0001 milliseconds": [
+  "org/openpnp/scripting/Scripting.class"
+ ],
+ "Script \u0001 executed in \u0001 milliseconds": [
+  "org/openpnp/scripting/Scripting.class"
+ ],
+ "Scripting.on \u0001": [
+  "org/openpnp/scripting/Scripting.class"
+ ],
+ "Scripting.on found \u0001": [
+  "org/openpnp/scripting/Scripting.class"
+ ],
+ "Cleared \u0001 scripting engines from pool: ": [
+  "org/openpnp/scripting/Scripting.class"
+ ],
+ "offset ( location: \u0001 pre-rotated \u0001)": [
+  "org/openpnp/spi/PartAlignment$PartAlignmentOffset.class"
+ ],
+ "Unsupported valueType \u0001": [
+  "org/openpnp/spi/base/AbstractActuator.class"
+ ],
+ "Actuator \u0001 has Default ON/OFF values not properly configured.": [
+  "org/openpnp/spi/base/AbstractActuator.class"
+ ],
+ "Actuator \u0001 must not coordinate with machine when actuated outside machine task.": [
+  "org/openpnp/spi/base/AbstractActuator.class"
+ ],
+ "Delete Axis": [
+  "org/openpnp/spi/base/AbstractAxis$1.class",
+  "org/openpnp/spi/base/AbstractAxis.class"
+ ],
+ "Are you sure you want to delete \u0001?": [
+  "org/openpnp/spi/base/AbstractAxis$1.class"
+ ],
+ "Permutate Up": [
+  "org/openpnp/spi/base/AbstractAxis$2.class"
+ ],
+ "Permutate Down": [
+  "org/openpnp/spi/base/AbstractAxis$3.class"
+ ],
+ "Secondary Camera Units Per Pixel have not been calibrated.": [
+  "org/openpnp/spi/base/AbstractCamera.class"
+ ],
+ "Camera Units Per Pixel has not been calibrated at two different camera relative Z.": [
+  "org/openpnp/spi/base/AbstractCamera.class"
+ ],
+ "Apparent change in position or apparent size of object feature is too small to estimate object Z coordinate.": [
+  "org/openpnp/spi/base/AbstractCamera.class"
+ ],
+ "Actual change in camera position or actual feature size too small to estimate object Z coordinate.": [
+  "org/openpnp/spi/base/AbstractCamera.class"
+ ],
+ "Can't change head on camera \u0001": [
+  "org/openpnp/spi/base/AbstractCamera.class"
+ ],
+ "The axis \u0001 is not mapped to any HeadMountables. Can't move safely.": [
+  "org/openpnp/spi/base/AbstractCoordinateAxis.class"
+ ],
+ "Not supported on this Feeder": [
+  "org/openpnp/spi/base/AbstractFeeder.class"
+ ],
+ "Cannot switch off pump.": [
+  "org/openpnp/spi/base/AbstractHead.class"
+ ],
+ "No default camera available on head \u0001": [
+  "org/openpnp/spi/base/AbstractHead.class"
+ ],
+ "No default nozzle available on head \u0001": [
+  "org/openpnp/spi/base/AbstractHead.class"
+ ],
+ "No default head mountable available on head \u0001": [
+  "org/openpnp/spi/base/AbstractHead.class"
+ ],
+ "Effective Safe Z coordinate \u0001 is outside Safe Z Zone.": [
+  "org/openpnp/spi/base/AbstractHeadMountable.class"
+ ],
+ "Machine has not been started.": [
+  "org/openpnp/spi/base/AbstractMachine$1.class"
+ ],
+ "Exception caught, executing pending motion": [
+  "org/openpnp/spi/base/AbstractMachine$1.class"
+ ],
+ "Secondary exception when executing pending motion planner commands": [
+  "org/openpnp/spi/base/AbstractMachine$1.class"
+ ],
+ "Machine entering idle state.": [
+  "org/openpnp/spi/base/AbstractMachine$1.class"
+ ],
+ "Machine not enabled, task ignored.": [
+  "org/openpnp/spi/base/AbstractMachine.class"
+ ],
+ "Machine still busy after timeout expired, task rejected.": [
+  "org/openpnp/spi/base/AbstractMachine.class"
+ ],
+ "No default head available.": [
+  "org/openpnp/spi/base/AbstractMachine.class"
+ ],
+ "Nozzle \u0001: set rotation mode offset: \u0001": [
+  "org/openpnp/spi/base/AbstractNozzle.class"
+ ],
+ "No compatible, enabled feeder found for part \u0001": [
+  "org/openpnp/spi/base/AbstractPnpJobProcessor.class"
+ ],
+ "Delete Signaler": [
+  "org/openpnp/spi/base/AbstractSignaler$1.class",
+  "org/openpnp/spi/base/AbstractSignaler.class"
+ ],
+ "Average Latency: %.2f": [
+  "org/openpnp/util/CameraLatencyTest.class"
+ ],
+ "Unable to estimate machine to pixel scaling - can't find feature in image.": [
+  "org/openpnp/util/CameraWalker.class"
+ ],
+ "Unable to estimate machine to pixel scaling - testStepLength may be too small.": [
+  "org/openpnp/util/CameraWalker.class"
+ ],
+ "CameraWalker not ready to walk, must call estimateScaling method first.": [
+  "org/openpnp/util/CameraWalker.class"
+ ],
+ "Unable to start walk - can't find feature in image.": [
+  "org/openpnp/util/CameraWalker.class"
+ ],
+ "Unable to complete walk - can't find feature in image.": [
+  "org/openpnp/util/CameraWalker.class"
+ ],
+ "Loop gain must be a positive number": [
+  "org/openpnp/util/CameraWalker.class"
+ ],
+ "Loop gain too large, limiting to 1.7 to prevent possible unbounded machine oscillations.": [
+  "org/openpnp/util/CameraWalker.class"
+ ],
+ "Maximum allowable step in pixels must be greater than 0": [
+  "org/openpnp/util/CameraWalker.class"
+ ],
+ "Minimum allowable step in pixels must be non-negative": [
+  "org/openpnp/util/CameraWalker.class"
+ ],
+ "Maximum allowable step in machine units must be greater than 0": [
+  "org/openpnp/util/CameraWalker.class"
+ ],
+ "Minimum allowable step in machine units must be greater than 0": [
+  "org/openpnp/util/CameraWalker.class"
+ ],
+ "Head \u0001 Z Probe \u0001 conversion failed (\u0001)": [
+  "org/openpnp/util/Cycles.class"
+ ],
+ "No line of sprocket holes can be recognized": [
+  "org/openpnp/util/FeederVisionHelper.class"
+ ],
+ "At least two sprocket holes need to be recognized": [
+  "org/openpnp/util/FeederVisionHelper.class"
+ ],
+ "The two reference sprocket holes cannot be recognized": [
+  "org/openpnp/util/FeederVisionHelper.class"
+ ],
+ "Dismissed Circle with non-compliant diameter \u0001mm, allowed tolerance is ±\u0001mm": [
+  "org/openpnp/util/FeederVisionHelper.class"
+ ],
+ "Dismissed RotatedRect with non-compliant width or height \u0001mm x \u0001mm, allowed tolerance is ±\u0001mm": [
+  "org/openpnp/util/FeederVisionHelper.class"
+ ],
+ "Ransac algorithm has not found any lines of sprocket holes with 4.0mm pitch, allowed pitch and line tolerance is ±\u0001mm": [
+  "org/openpnp/util/FeederVisionHelper.class"
+ ],
+ "Found sprocket holes line with distance \u0001mm [min: \u0001mm, max: \u0001mm]": [
+  "org/openpnp/util/FeederVisionHelper.class"
+ ],
+ "Dismissed line by distance, \u0001mm, not within \u0001mm .. \u0001mm": [
+  "org/openpnp/util/FeederVisionHelper.class"
+ ],
+ "calibrated vision offset is: \u0001, length is: \u0001": [
+  "org/openpnp/util/FeederVisionHelper.class"
+ ],
+ "calibrated pick location is: \u0001": [
+  "org/openpnp/util/FeederVisionHelper.class"
+ ],
+ "digraph fsm {\n": [
+  "org/openpnp/util/FiniteStateMachine.class"
+ ],
+ "No defined transitions from \u0001": [
+  "org/openpnp/util/FiniteStateMachine.class"
+ ],
+ "No defined transitions from \u0001 for \u0001": [
+  "org/openpnp/util/FiniteStateMachine.class"
+ ],
+ "error:unknown command": [
+  "org/openpnp/util/GcodeServer$Worker.class"
+ ],
+ "ok C:": [
+  "org/openpnp/util/GcodeServer$Worker.class"
+ ],
+ "ok WCS:": [
+  "org/openpnp/util/GcodeServer$Worker.class"
+ ],
+ "Worker port \u0001 bye-bye.": [
+  "org/openpnp/util/GcodeServer$Worker.class"
+ ],
+ "Nested comment at \u0001: \u0001": [
+  "org/openpnp/util/GcodeServer$Worker.class"
+ ],
+ "Mismatched comment at \u0001: \u0001": [
+  "org/openpnp/util/GcodeServer$Worker.class"
+ ],
+ "Syntax error at col \u0001 '\u0001' unexpected: \u0001": [
+  "org/openpnp/util/GcodeServer$Worker.class"
+ ],
+ "Parsed Gcode: \u0001": [
+  "org/openpnp/util/GcodeServer$Worker.class"
+ ],
+ "Invalid letter on axis \u0001": [
+  "org/openpnp/util/GcodeServer$Worker.class"
+ ],
+ "Dwell time limited from \u0001s": [
+  "org/openpnp/util/GcodeServer$Worker.class"
+ ],
+ "Waiting \u0001ms": [
+  "org/openpnp/util/GcodeServer$Worker.class"
+ ],
+ "New global offset location: \u0001": [
+  "org/openpnp/util/GcodeServer$Worker.class"
+ ],
+ "Move takes \u0001 ms": [
+  "org/openpnp/util/GcodeServer$Worker.class"
+ ],
+ "New location: \u0001": [
+  "org/openpnp/util/GcodeServer$Worker.class"
+ ],
+ "Socket port \u0001 bye-bye.": [
+  "org/openpnp/util/GcodeServer.class"
+ ],
+ "Color parameter outside of expected range - Saturation": [
+  "org/openpnp/util/HslColor.class"
+ ],
+ "Color parameter outside of expected range - Luminance": [
+  "org/openpnp/util/HslColor.class"
+ ],
+ "Color parameter outside of expected range - Alpha": [
+  "org/openpnp/util/HslColor.class"
+ ],
+ "Some short description": [
+  "org/openpnp/util/IconViewer$SwingAction.class"
+ ],
+ "invalid dimensions": [
+  "org/openpnp/util/Matrix.class"
+ ],
+ "OCR part id \u0001 on feeder \u0001 matches multiple parts \u0001 and \u0001": [
+  "org/openpnp/util/OcrUtils.class"
+ ],
+ "OCR could not identify/find part id on feeder \u0001, OCR detected part id \u0001 (avg. score=\u0001)": [
+  "org/openpnp/util/OcrUtils.class"
+ ],
+ "Unsupported Mat: type %d, channels %d, depth %d": [
+  "org/openpnp/util/OpenCvUtils.class",
+  "org/openpnp/vision/FluentCv.class",
+  "org/openpnp/vision/pipeline/stages/SimpleOcr.class"
+ ],
+ "Invalid footprint found, unable to create template for part match. See https://github.com/openpnp/openpnp/wiki/Fiducials.": [
+  "org/openpnp/util/OpenCvUtils.class"
+ ],
+ "Invalid footprint found, unable to create template for part match. Width and height of pads must be greater than 0. See https://github.com/openpnp/openpnp/wiki/Fiducials.": [
+  "org/openpnp/util/OpenCvUtils.class"
+ ],
+ "Expecting image to be in the \u0001 color space but it has only one channel.": [
+  "org/openpnp/util/OpenCvUtils.class"
+ ],
+ "Unrecognised dir separator '\u0001'": [
+  "org/openpnp/util/ResourceUtils.class"
+ ],
+ "No common path element found for '\u0001' and '\u0001'": [
+  "org/openpnp/util/ResourceUtils.class"
+ ],
+ "HeadMountable \u0001has no XY axis assigned": [
+  "org/openpnp/util/TravelCost.class"
+ ],
+ "Travel cost estimation for headmountable \u0001 not avaiable on Z axis": [
+  "org/openpnp/util/TravelCost.class"
+ ],
+ "Travel cost estimation for headmountable \u0001 not avaiable on rotational axis": [
+  "org/openpnp/util/TravelCost.class"
+ ],
+ "estimated travel cost": [
+  "org/openpnp/util/TravellingSalesman.class"
+ ],
+ "linear distance": [
+  "org/openpnp/util/TravellingSalesman.class"
+ ],
+ "Simulated Annealing: global best route better then last best route": [
+  "org/openpnp/util/TravellingSalesman.class"
+ ],
+ "stroke:blue; fill:white;": [
+  "org/openpnp/util/TravellingSalesman.class"
+ ],
+ "stroke:green; fill:white;": [
+  "org/openpnp/util/TravellingSalesman.class"
+ ],
+ "Using \u0001 as metric": [
+  "org/openpnp/util/TravellingSalesman.class"
+ ],
+ "Open Web Browser": [
+  "org/openpnp/util/UiUtils.class"
+ ],
+ "Browse to \u0001": [
+  "org/openpnp/util/UiUtils.class"
+ ],
+ "rundll32 url.dll,FileProtocolHandler \u0001": [
+  "org/openpnp/util/UiUtils.class"
+ ],
+ "No system support for URI browsing found. See the log. \u0001": [
+  "org/openpnp/util/UiUtils.class"
+ ],
+ "Do you want to \u0001?\n": [
+  "org/openpnp/util/UiUtils.class"
+ ],
+ "About to \u0001.\nDo you want to proceed?": [
+  "org/openpnp/util/UiUtils.class"
+ ],
+ "Machine not enabled, unable to \u0001.": [
+  "org/openpnp/util/UiUtils.class"
+ ],
+ "Machine not enabled, unable to \u0001.\nDo you want to proceed anyway?": [
+  "org/openpnp/util/UiUtils.class"
+ ],
+ "scale (%f, %f) shear (%f, 0.0) rotation (%f deg) translation (%f mm, %f mm)": [
+  "org/openpnp/util/Utils2D$AffineInfo.class"
+ ],
+ "Correcting for reflection...": [
+  "org/openpnp/util/Utils2D.class"
+ ],
+ "Unable to calculate location for type \u0001": [
+  "org/openpnp/util/Utils2D.class"
+ ],
+ "No up-looking camera found on the machine to use for bottom vision.": [
+  "org/openpnp/util/VisionUtils.class"
+ ]
+}

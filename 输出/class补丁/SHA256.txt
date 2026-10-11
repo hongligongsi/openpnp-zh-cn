@@ -1,0 +1,3 @@
+openpnp-gui-patched.jar (class常量池汉化补丁版)
+SHA256: 7a8eba7e8f5390d33cd4ab1e2a0241f926c73444ce8d21cb1819814c6658cc56
+Size: 11112397 bytes

@@ -1,0 +1,228 @@
+{
+"On URL": [
+"org/openpnp/machine/reference/wizards/HttpActuatorConfigurationWizard.class"
+],
+"Off URL": [
+"org/openpnp/machine/reference/wizards/HttpActuatorConfigurationWizard.class"
+],
+"Read URL": [
+"org/openpnp/machine/reference/wizards/HttpActuatorConfigurationWizard.class"
+],
+"Probe Speed": [
+"org/openpnp/machine/reference/wizards/ContactProbeNozzleWizard.class"
+],
+"Probe Depth": [
+"org/openpnp/machine/reference/wizards/ContactProbeNozzleWizard.class"
+],
+"Script Name": [
+"org/openpnp/machine/reference/wizards/ScriptActuatorConfigurationWizard.class"
+],
+"Start Offset": [
+"org/openpnp/machine/reference/wizards/ContactProbeNozzleWizard.class"
+],
+"Runout Phase": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"Camera Noise": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"Homing Error": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"Calibrate now": [
+"org/openpnp/machine/reference/wizards/ContactProbeNozzleWizard.class"
+],
+"Show Outliers": [
+"org/openpnp/machine/reference/wizards/ReferenceCameraCalibrationWizard.class"
+],
+"Reset Feeders": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"Interlock Type": [
+"org/openpnp/machine/reference/wizards/ActuatorInterlockMonitorConfigurationWizard.class"
+],
+"Parametric URL": [
+"org/openpnp/machine/reference/wizards/HttpActuatorConfigurationWizard.class"
+],
+"Residual Error": [
+"org/openpnp/machine/reference/wizards/ReferenceCameraCalibrationWizard.class"
+],
+"Camera Lag [s]": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"Contact Probing": [
+"org/openpnp/machine/reference/wizards/ContactProbeNozzleWizard.class"
+],
+"Discard Probing": [
+"org/openpnp/machine/reference/wizards/ContactProbeNozzleWizard.class"
+],
+"Open Advice Url": [
+"org/openpnp/machine/reference/wizards/ReferenceNozzleCameraOffsetWizard.class"
+],
+"Machine Table Z": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"Boolean Actuator": [
+"org/openpnp/machine/reference/wizards/ActuatorInterlockMonitorConfigurationWizard.class"
+],
+"Final Adjustment": [
+"org/openpnp/machine/reference/wizards/ContactProbeNozzleWizard.class"
+],
+"Replace Drivers?": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"Sniffle Increment": [
+"org/openpnp/machine/reference/wizards/ContactProbeNozzleWizard.class"
+],
+"Nozzle Tip Runout": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"Confirmation range": [
+"org/openpnp/machine/reference/wizards/ActuatorInterlockMonitorConfigurationWizard.class"
+],
+"Regular Expression": [
+"org/openpnp/machine/reference/wizards/HttpActuatorConfigurationWizard.class"
+],
+"Override Old Style": [
+"org/openpnp/machine/reference/wizards/ReferenceCameraCalibrationWizard.class"
+],
+"Enable Calibration": [
+"org/openpnp/machine/reference/wizards/ReferenceCameraCalibrationWizard.class"
+],
+"Vibration Amplitude": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"Set Machine Table Z": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"Confirmation pattern": [
+"org/openpnp/machine/reference/wizards/ActuatorInterlockMonitorConfigurationWizard.class"
+],
+"Interlock Conditions": [
+"org/openpnp/machine/reference/wizards/ActuatorInterlockMonitorConfigurationWizard.class"
+],
+"Calibration Z Offset": [
+"org/openpnp/machine/reference/wizards/ContactProbeNozzleWizard.class"
+],
+"Calibration Complete": [
+"org/openpnp/machine/reference/wizards/ReferenceCameraCalibrationWizard.class"
+],
+"Calibration Pipeline": [
+"org/openpnp/machine/reference/wizards/ReferenceNozzleTipCalibrationWizard.class"
+],
+"Feeder Height Probing": [
+"org/openpnp/machine/reference/wizards/ContactProbeNozzleWizard.class"
+],
+"Non-Squareness Factor": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"Contact Sense Actuator": [
+"org/openpnp/machine/reference/wizards/ContactProbeNozzleWizard.class"
+],
+"Pick & Place Checking?": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"Vibration Duration [s]": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"Sniffle Dwell Time [ms]": [
+"org/openpnp/machine/reference/wizards/ContactProbeNozzleWizard.class"
+],
+"Simulated Imperfections": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"Placement Height Probing": [
+"org/openpnp/machine/reference/wizards/ContactProbeNozzleWizard.class"
+],
+"No down-looking camera found.": [
+"org/openpnp/machine/reference/wizards/ReferenceNozzleTipToolChangerWizard.class"
+],
+"Start Calibration Data Collection": [
+"org/openpnp/machine/reference/wizards/ReferenceCameraCalibrationWizard.class"
+],
+"Nozzle \u0001 is no ContactProbeNozzle.": [
+"org/openpnp/machine/reference/wizards/ReferenceNozzleTipToolChangerWizard$5.class",
+"org/openpnp/machine/reference/wizards/ReferenceNozzleTipToolChangerWizard$6.class"
+],
+"Phase angle for the simulated runout.": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"Please load the nozzle tip on a nozzle.": [
+"org/openpnp/machine/reference/wizards/ReferenceNozzleTipCalibrationWizard.class"
+],
+"No background calibration recorded for \u0001": [
+"org/openpnp/machine/reference/wizards/ReferenceNozzleTipCalibrationWizard.class"
+],
+"Vacuum sensing \"sniffle\" increment in Z. ": [
+"org/openpnp/machine/reference/wizards/ContactProbeNozzleWizard.class"
+],
+"Background calibration problems: Frame \u0001/\u0001": [
+"org/openpnp/machine/reference/wizards/ReferenceNozzleTipCalibrationWizard.class"
+],
+"Select a vision calibration location first.": [
+"org/openpnp/machine/reference/wizards/ReferenceNozzleTipToolChangerWizard.class"
+],
+"Use a regular expression to match the pattern.": [
+"org/openpnp/machine/reference/wizards/ActuatorInterlockMonitorConfigurationWizard.class"
+],
+"Creates simulated Non-Squareness by that factor. ": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"Nozzle offset wizard set head offset to location: \u0001": [
+"org/openpnp/machine/reference/wizards/ReferenceNozzleCameraOffsetWizard$3.class"
+],
+"Simulates runout of that radius on all nozzle tips.": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"Please unload the nozzle tip on the selected nozzle.": [
+"org/openpnp/machine/reference/wizards/ReferenceNozzleTipCalibrationWizard.class"
+],
+"Must define camera location before starting calibration.": [
+"org/openpnp/machine/reference/wizards/ReferenceCameraCalibrationWizard$5.class"
+],
+"Vibration duration in seconds (exponential decay to ~1%).": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"Maximum contact probing depth in Z, from the Start Offset.": [
+"org/openpnp/machine/reference/wizards/ContactProbeNozzleWizard.class"
+],
+"Background calibration for \u0001 does not indicate any problems.": [
+"org/openpnp/machine/reference/wizards/ReferenceNozzleTipCalibrationWizard.class"
+],
+"Primary and Secondary Calibration Z values must be different.": [
+"org/openpnp/machine/reference/wizards/ReferenceCameraCalibrationWizard$5.class"
+],
+"Machine must be enabled and homed before starting calibration.": [
+"org/openpnp/machine/reference/wizards/ReferenceCameraCalibrationWizard$5.class"
+],
+"move nozzle \u0001 to the camera center location before editing the pipeline": [
+"org/openpnp/machine/reference/wizards/ReferenceNozzleTipCalibrationWizard.class"
+],
+"Must define finite Default Working Plane Z value before starting calibration.": [
+"org/openpnp/machine/reference/wizards/ReferenceCameraCalibrationWizard$5.class"
+],
+"The interlock is only active if this actuator has the chosen known or unknown state.": [
+"org/openpnp/machine/reference/wizards/ActuatorInterlockMonitorConfigurationWizard.class"
+],
+"Captured %d of %d.\nMove the card to a new position and angle each time the screen flashes.": [
+"org/openpnp/machine/reference/wizards/ReferenceCameraCalibrationConfigurationWizard$1.class"
+],
+"Must define finite Primary and Secondary Calibration Z values before starting calibration.": [
+"org/openpnp/machine/reference/wizards/ReferenceCameraCalibrationWizard$5.class"
+],
+"Must define Primary and Secondary Calibration Fiducial locations before starting calibration.": [
+"org/openpnp/machine/reference/wizards/ReferenceCameraCalibrationWizard$5.class"
+],
+"Simulates Vibration, the amplitude is given in relation to the past acceleration at Eigenfrequency (try 0.1 for a strong vibration).": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"Calibration of the head's default camera is complete and the machine should be re-homed before any new locations are captured/examined. Home the machine now?": [
+"org/openpnp/machine/reference/wizards/ReferenceCameraCalibrationWizard.class"
+],
+"Nozzle tip \u0001 must at least have the First Location defined, before it can clone from the template. The displacement between the two changer slots must be known.": [
+"org/openpnp/machine/reference/wizards/ReferenceNozzleTipToolChangerWizard$7.class"
+],
+"Go to https://github.com/openpnp/openpnp/wiki/Camera-Lens-Calibration for detailed instructions.\nWhen you have your calibration card ready, hold it in front of the camera so that the entire card is visible.\nEach time the screen flashes an image is captured. After the flash you should move the card to a new orientation.": [
+"org/openpnp/machine/reference/wizards/ReferenceCameraCalibrationConfigurationWizard$1.class"
+]
+}

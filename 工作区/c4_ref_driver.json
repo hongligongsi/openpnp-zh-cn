@@ -1,0 +1,171 @@
+{
+ "Paste Failed": [
+  "org/openpnp/gui/PackagesPanel$10.class",
+  "org/openpnp/gui/PartsPanel$10.class",
+  "org/openpnp/gui/VisionSettingsPanel$5.class",
+  "org/openpnp/machine/reference/driver/wizards/GcodeDriverGcodes$7.class",
+  "org/openpnp/machine/reference/driver/wizards/GcodeDriverSettings$5.class"
+ ],
+ "Copy Failed": [
+  "org/openpnp/gui/PackagesPanel$9.class",
+  "org/openpnp/gui/PartsPanel$9.class",
+  "org/openpnp/gui/VisionSettingsPanel$4.class",
+  "org/openpnp/machine/reference/driver/wizards/GcodeDriverGcodes$6.class",
+  "org/openpnp/machine/reference/driver/wizards/GcodeDriverSettings$4.class"
+ ],
+ "Subordinate Motion: axesLocation \u0001 queued to \u0001": [
+  "org/openpnp/machine/reference/driver/AbstractMotionPlanner$SubordinateMotion.class"
+ ],
+ "Subordinate Motion: axesLocation \u0001 merged with \u0001 to \u0001": [
+  "org/openpnp/machine/reference/driver/AbstractMotionPlanner$SubordinateMotion.class"
+ ],
+ "Subordinate Motion queue not empty: \u0001, drained.": [
+  "org/openpnp/machine/reference/driver/AbstractMotionPlanner$SubordinateMotion.class"
+ ],
+ "delay Thread.sleep": [
+  "org/openpnp/machine/reference/driver/AbstractMotionPlanner.class"
+ ],
+ "Speed must be greater than 0.": [
+  "org/openpnp/machine/reference/driver/AbstractMotionPlanner.class"
+ ],
+ "Interlock motion accross drivers {} vs. {}": [
+  "org/openpnp/machine/reference/driver/AbstractMotionPlanner.class"
+ ],
+ "Can't move %s to %s, lower than soft limit %s.": [
+  "org/openpnp/machine/reference/driver/AbstractMotionPlanner.class"
+ ],
+ "Can't move %s to %s, higher than soft limit %s.": [
+  "org/openpnp/machine/reference/driver/AbstractMotionPlanner.class"
+ ],
+ "Motion Planning": [
+  "org/openpnp/machine/reference/driver/AbstractMotionPlanner.class"
+ ],
+ "Axis \u0001 has no driver set.": [
+  "org/openpnp/machine/reference/driver/AbstractMotionPlanner.class"
+ ],
+ "Machine not homed. Jogging only allowed if driver \u0001 has option \"Sync. Initial Location\" enabled.": [
+  "org/openpnp/machine/reference/driver/AbstractMotionPlanner.class"
+ ],
+ "Machine not homed. Motion only allowed if driver \u0001 has option \"Allow Unhomed Motion\" enabled.": [
+  "org/openpnp/machine/reference/driver/AbstractMotionPlanner.class"
+ ],
+ "Rotation axis \u0001 cannot be wrapped around when no head-mountable is mapped.": [
+  "org/openpnp/machine/reference/driver/AbstractMotionPlanner.class"
+ ],
+ "Rotation axis \u0001 cannot be limited when no head-mountable is mapped.": [
+  "org/openpnp/machine/reference/driver/AbstractMotionPlanner.class"
+ ],
+ "Axis \u0001 with limited articulation must not have Wrap Around option set.": [
+  "org/openpnp/machine/reference/driver/AbstractMotionPlanner.class"
+ ],
+ "Axis \u0001 with limited articulation \u0001..\u0001 cannot rotate to \u0001 (transformed \u0001 to \u0001°)": [
+  "org/openpnp/machine/reference/driver/AbstractMotionPlanner.class"
+ ],
+ "Reported location changes current location from \u0001 to \u0001": [
+  "org/openpnp/machine/reference/driver/AbstractMotionPlanner.class"
+ ],
+ "Rotation axis \u0001 wrap-around coordinate limiting did not transform back to a single axis adjustment.": [
+  "org/openpnp/machine/reference/driver/AbstractMotionPlanner.class"
+ ],
+ "Invalid communications method attempted to be set. Defaulting to serial.": [
+  "org/openpnp/machine/reference/driver/AbstractReferenceDriver.class"
+ ],
+ "Send-on-change logic for Feed Rate, Acceleration and Jerk reset": [
+  "org/openpnp/machine/reference/driver/GcodeDriver.class"
+ ],
+ "delaying in gcode driver is not supported": [
+  "org/openpnp/machine/reference/driver/GcodeDriver.class"
+ ],
+ "gcode delay sent": [
+  "org/openpnp/machine/reference/driver/GcodeDriver.class"
+ ],
+ "gcode delay not sent for zero duration": [
+  "org/openpnp/machine/reference/driver/GcodeDriver.class"
+ ],
+ "Actuator \"%s\" read error: Regex matching response vanished.": [
+  "org/openpnp/machine/reference/driver/GcodeDriver.class"
+ ],
+ "Actuator \"%s\" read error: Driver configuration is missing ACTUATOR_READ_COMMAND or ACTUATOR_READ_REGEX.": [
+  "org/openpnp/machine/reference/driver/GcodeDriver.class"
+ ],
+ "Cannot open Gcode log": [
+  "org/openpnp/machine/reference/driver/GcodeDriver.class"
+ ],
+ "Position report: {}": [
+  "org/openpnp/machine/reference/driver/GcodeDriver.class"
+ ],
+ "Position report cannot be processed when motion might still be pending. Missing Machine Coordination on Actuators?": [
+  "org/openpnp/machine/reference/driver/GcodeDriver.class"
+ ],
+ "Actuator \"%s\" read error: No matching responses found.": [
+  "org/openpnp/machine/reference/driver/GcodeDriver.class"
+ ],
+ "Timed out waiting for move to complete.": [
+  "org/openpnp/machine/reference/driver/GcodeDriver.class"
+ ],
+ "Timed out waiting for home to complete.": [
+  "org/openpnp/machine/reference/driver/GcodeDriver.class"
+ ],
+ "Axis variable \u0001 is missing in SET_GLOBAL_OFFSETS_COMMAND.": [
+  "org/openpnp/machine/reference/driver/GcodeDriver.class"
+ ],
+ "Migrating OffsetTransform for axis \u0001 not supported": [
+  "org/openpnp/machine/reference/driver/GcodeDriver.class"
+ ],
+ "Machine new location {}": [
+  "org/openpnp/machine/reference/driver/NullDriver.class"
+ ],
+ "Use continuous motion. OpenPnP will only wait for the machine when really needed.": [
+  "org/openpnp/machine/reference/driver/ReferenceAdvancedMotionPlanner.class"
+ ],
+ "Enable Continuous Motion.": [
+  "org/openpnp/machine/reference/driver/ReferenceAdvancedMotionPlanner.class"
+ ],
+ "Trying to read from a unconnected serial.": [
+  "org/openpnp/machine/reference/driver/SerialPortCommunications.class"
+ ],
+ "Read error.": [
+  "org/openpnp/machine/reference/driver/SerialPortCommunications.class"
+ ],
+ "Read timeout.": [
+  "org/openpnp/machine/reference/driver/SerialPortCommunications.class"
+ ],
+ "Write error.": [
+  "org/openpnp/machine/reference/driver/SerialPortCommunications.class"
+ ],
+ "Trying to read from a unconnected socket.": [
+  "org/openpnp/machine/reference/driver/SimulatedCommunications.class",
+  "org/openpnp/machine/reference/driver/TcpCommunications.class"
+ ],
+ "Please start machine before sending commands.": [
+  "org/openpnp/machine/reference/driver/wizards/GcodeDriverConsole.class"
+ ],
+ "Gcode console error: \u0001": [
+  "org/openpnp/machine/reference/driver/wizards/GcodeDriverConsole.class"
+ ],
+ "Replace file?": [
+  "org/openpnp/machine/reference/driver/wizards/GcodeDriverGcodes$4.class",
+  "org/openpnp/machine/reference/driver/wizards/GcodeDriverSettings$2.class"
+ ],
+ "Export Failed": [
+  "org/openpnp/machine/reference/driver/wizards/GcodeDriverGcodes$4.class",
+  "org/openpnp/machine/reference/driver/wizards/GcodeDriverSettings$2.class"
+ ],
+ "Import Failed": [
+  "org/openpnp/machine/reference/driver/wizards/GcodeDriverGcodes$5.class",
+  "org/openpnp/machine/reference/driver/wizards/GcodeDriverSettings$3.class"
+ ],
+ "This will delete all your Gcode and reset it to minimal defaults.\nAre you absolutely sure?": [
+  "org/openpnp/machine/reference/driver/wizards/GcodeDriverGcodes$8.class"
+ ],
+ "Reset to defaults": [
+  "org/openpnp/machine/reference/driver/wizards/GcodeDriverGcodes$8.class"
+ ],
+ "Reset Failed": [
+  "org/openpnp/machine/reference/driver/wizards/GcodeDriverGcodes$8.class"
+ ],
+ "Cannot determine Name of machine.": [
+  "org/openpnp/machine/reference/driver/wizards/ReferenceAdvancedMotionPlannerConfigurationWizard.class",
+  "org/openpnp/machine/reference/wizards/ReferenceNozzleTipToolChangerWizard.class"
+ ]
+}

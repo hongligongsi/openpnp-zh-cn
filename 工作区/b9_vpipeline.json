@@ -1,0 +1,680 @@
+{
+"Display the detection result diagnostics.": [
+"org/openpnp/vision/pipeline/stages/MinAreaRect.class"
+],
+"Minimum diameter of the circle, in pixels.": [
+"org/openpnp/vision/pipeline/stages/DetectCircularSymmetry.class"
+],
+"Maximum diameter of the circle, in pixels.": [
+"org/openpnp/vision/pipeline/stages/DetectCircularSymmetry.class"
+],
+"Capture an image from the pipeline camera.": [
+"org/openpnp/vision/pipeline/stages/ImageCapture.class"
+],
+"Description of the parameter (for tooltip).": [
+"org/openpnp/vision/pipeline/CvAbstractParameterStage.class"
+],
+"No actuator name specified for pipeline {}.": [
+"org/openpnp/vision/pipeline/stages/ActuatorWrite.class"
+],
+"Selects the from/to color space conversion.": [
+"org/openpnp/vision/pipeline/stages/ConvertColor.class"
+],
+"Find expected rectangle centered on nozzle.": [
+"org/openpnp/vision/pipeline/stages/DetectRectangleHough.class"
+],
+"Radius of circle at center of RotatedRects.": [
+"org/openpnp/vision/pipeline/stages/DrawRotatedRects.class"
+],
+"Previously saved pipeline failed to load: \u0001": [
+"org/openpnp/vision/pipeline/ui/StandaloneEditor.class"
+],
+"Minimum distance between circles, in pixels.": [
+"org/openpnp/vision/pipeline/stages/DetectCirclesHough.class"
+],
+"Display matches with circle and cross-hairs.": [
+"org/openpnp/vision/pipeline/stages/DetectCircularSymmetry.class"
+],
+"Stage to input FitEllipse RotatedRects from.": [
+"org/openpnp/vision/pipeline/stages/DrawEllipses.class"
+],
+"Expected angle during perfect pick operation": [
+"org/openpnp/vision/pipeline/stages/OrientRotatedRects.class"
+],
+"Extension of image file. Defaults to '.png'.": [
+"org/openpnp/vision/pipeline/stages/ReadPartTemplateImage.class",
+"org/openpnp/vision/pipeline/stages/WritePartTemplateImage.class"
+],
+"Name of a prior stage to load the model from.": [
+"org/openpnp/vision/pipeline/stages/ClosestModel.class"
+],
+"Expected angle of the subject to be detected.": [
+"org/openpnp/vision/pipeline/stages/DetectRectlinearSymmetry.class"
+],
+"Performs median blurring on the working image.": [
+"org/openpnp/vision/pipeline/stages/BlurMedian.class"
+],
+"Pass any size rect within aspect ratio limits.": [
+"org/openpnp/vision/pipeline/stages/FilterRects.class"
+],
+"Minimum line separation to be considered a pair": [
+"org/openpnp/vision/pipeline/stages/DetectRectangleHough.class"
+],
+"Deriving \u0001 limits based on aspect ratio limits.": [
+"org/openpnp/vision/pipeline/stages/FilterRects.class"
+],
+"No model was found. A RotatedRect was expected.": [
+"org/openpnp/vision/pipeline/stages/MatchPartTemplate.class",
+"org/openpnp/vision/pipeline/stages/MatchPartsTemplate.class"
+],
+"Performs gaussian blurring on the working image.": [
+"org/openpnp/vision/pipeline/stages/BlurGaussian.class"
+],
+"Draw a circle at the center of each RotatedRect.": [
+"org/openpnp/vision/pipeline/stages/DrawRotatedRects.class"
+],
+"Pipeline stage \"\u0001\" returned a \u0001 but expected a \u0001.": [
+"org/openpnp/vision/pipeline/CvStage$Result.class"
+],
+"Name of a prior stage to retrieve the model from.": [
+"org/openpnp/vision/pipeline/stages/ComposeResult.class",
+"org/openpnp/vision/pipeline/stages/CreateModelTemplateImage.class"
+],
+"Minimum accumulator count to be considered a line.": [
+"org/openpnp/vision/pipeline/stages/DetectRectangleHough.class"
+],
+"Search angle, two-sided around the expected angle.": [
+"org/openpnp/vision/pipeline/stages/DetectRectlinearSymmetry.class",
+"org/openpnp/vision/pipeline/stages/MinAreaRect.class"
+],
+"Display the detection with cross-hairs and bounds.": [
+"org/openpnp/vision/pipeline/stages/DetectRectlinearSymmetry.class"
+],
+"Copy the pipeline to the clipboard in text format.": [
+"org/openpnp/vision/pipeline/ui/PipelinePanel$6.class"
+],
+"Property named after templateShapeName is required.": [
+"org/openpnp/vision/pipeline/stages/CreateShapeTemplateImage.class"
+],
+"Previous pipeline stage that outputs rotated rects.": [
+"org/openpnp/vision/pipeline/stages/FilterRects.class",
+"org/openpnp/vision/pipeline/stages/SelectSingleRect.class"
+],
+"Name of the stage to be controlled by the parameter.": [
+"org/openpnp/vision/pipeline/CvAbstractParameterStage.class"
+],
+"TemplateMatch [x=\u0001, y=\u0001, width=\u0001, height=\u0001, score=\u0001]": [
+"org/openpnp/vision/pipeline/CvStage$Result$TemplateMatch.class"
+],
+"Oversize factor for border recognition around shape.": [
+"org/openpnp/vision/pipeline/stages/CreateShapeTemplateImage.class"
+],
+"Performs adaptive thresholding on the working image.": [
+"org/openpnp/vision/pipeline/stages/ThresholdAdaptive.class"
+],
+"Weight of accumulator count that contributes to score": [
+"org/openpnp/vision/pipeline/stages/DetectRectangleHough.class"
+],
+"Name of a prior stage to load the working model from.": [
+"org/openpnp/vision/pipeline/stages/MatchPartTemplate.class",
+"org/openpnp/vision/pipeline/stages/MatchPartsTemplate.class"
+],
+"Name of a prior stage to load the template image from.": [
+"org/openpnp/vision/pipeline/stages/MatchPartTemplate.class",
+"org/openpnp/vision/pipeline/stages/MatchPartsTemplate.class",
+"org/openpnp/vision/pipeline/stages/MatchTemplate.class"
+],
+"Expected angle of the rectangular hull to be detected.": [
+"org/openpnp/vision/pipeline/stages/MinAreaRect.class"
+],
+"Name of the property to be controlled by the parameter.": [
+"org/openpnp/vision/pipeline/CvAbstractParameterStage.class"
+],
+"Max width of the template. Set 0 to get the full width.": [
+"org/openpnp/vision/pipeline/stages/CreateFootprintTemplateImage.class"
+],
+"Dilate or contract a model by a given number of pixels.": [
+"org/openpnp/vision/pipeline/stages/DilateModel.class"
+],
+"Please select a stage implemention from the list below.": [
+"org/openpnp/vision/pipeline/ui/PipelinePanel$4.class"
+],
+"Max line gap, as a percent of the diagonal image length.": [
+"org/openpnp/vision/pipeline/stages/DetectLinesHough.class"
+],
+"Draw selected Hough lines to help with parameter tuning.": [
+"org/openpnp/vision/pipeline/stages/DetectRectangleHough.class"
+],
+"Wait for the camera to settle before capturing an image.": [
+"org/openpnp/vision/pipeline/stages/ImageCapture.class"
+],
+"Size of the font in typographic points (1 pt = 1/72 in).": [
+"org/openpnp/vision/pipeline/stages/SimpleOcr.class"
+],
+"Max height of the template. Set 0 to get the full height.": [
+"org/openpnp/vision/pipeline/stages/CreateFootprintTemplateImage.class"
+],
+"Maximum angle deviation of lines to be considered a pair.": [
+"org/openpnp/vision/pipeline/stages/DetectRectangleHough.class"
+],
+"Create a new pipeline from a definition on the clipboard.": [
+"org/openpnp/vision/pipeline/ui/PipelinePanel$7.class"
+],
+"If enabled dimensions are only controled by the part size.": [
+"org/openpnp/vision/pipeline/stages/CreateFootprintTemplateImage.class"
+],
+"Overlay a heat map indicating the local circular symmetry.": [
+"org/openpnp/vision/pipeline/stages/DetectCircularSymmetry.class"
+],
+"Maximum cross-section width of the subject to be detected.": [
+"org/openpnp/vision/pipeline/stages/DetectRectlinearSymmetry.class"
+],
+"Invert the sense of the Boolean, as presented to the user.": [
+"org/openpnp/vision/pipeline/stages/ParameterBool.class"
+],
+"Write debug images and messages. Will slow down operation.": [
+"org/openpnp/vision/pipeline/stages/SimpleOcr.class"
+],
+"Pipeline stage \"\u0001\" returned a \u0001 list but expected a \u0001 list.": [
+"org/openpnp/vision/pipeline/CvStage$Result.class"
+],
+"Can't convert pipeline property \"\u0001\" of type \"\u0001\" to type \"\u0001\"": [
+"org/openpnp/vision/pipeline/CvStage.class"
+],
+"Adds two images together, scale either, or subtract second.": [
+"org/openpnp/vision/pipeline/stages/Add.class"
+],
+"DetectFixedCirclesHough properties are not set on pipeline.": [
+"org/openpnp/vision/pipeline/stages/DetectFixedCirclesHough.class"
+],
+"Maximum symmetry deviation of lines to be considered a pair": [
+"org/openpnp/vision/pipeline/stages/DetectRectangleHough.class"
+],
+"Maximum cross-section height of the subject to be detected.": [
+"org/openpnp/vision/pipeline/stages/DetectRectlinearSymmetry.class"
+],
+"Set all pixels of the working image to the specified color.": [
+"org/openpnp/vision/pipeline/stages/SetColor.class"
+],
+"Circular symmetry stage: search range is cropped to nothing.": [
+"org/openpnp/vision/pipeline/stages/DetectCircularSymmetry.class"
+],
+"The number of tile rows into which the image is partitioned.": [
+"org/openpnp/vision/pipeline/stages/HistogramEqualizeAdaptive.class"
+],
+"Maximum angle deviation of pairs to be considered a rectangle": [
+"org/openpnp/vision/pipeline/stages/DetectRectangleHough.class"
+],
+"Name of the stage to preview the effect of a parameter change.": [
+"org/openpnp/vision/pipeline/CvAbstractParameterStage.class"
+],
+"Invalid shape found, unable to create template for shape match.": [
+"org/openpnp/vision/pipeline/stages/CreateShapeTemplateImage.class"
+],
+"Minimum line length, as a percent of the diagonal image length.": [
+"org/openpnp/vision/pipeline/stages/DetectLinesHough.class"
+],
+"The number of tile columns into which the image is partitioned.": [
+"org/openpnp/vision/pipeline/stages/HistogramEqualizeAdaptive.class"
+],
+"RGB: %03d, %03d, %03d HSV(full): %03d, %03d, %03d XY: %d, %d %s": [
+"org/openpnp/vision/pipeline/ui/ResultsPanel$1.class"
+],
+"Maximum search distance (radius) from nominal center, in pixels.": [
+"org/openpnp/vision/pipeline/stages/DetectCircularSymmetry.class",
+"org/openpnp/vision/pipeline/stages/MatchTemplate.class"
+],
+"Detect the top edge of the rectangle (rotated to expectedAngle).": [
+"org/openpnp/vision/pipeline/stages/MinAreaRect.class"
+],
+"Relative outer diameter margin used when the propertyName is set.": [
+"org/openpnp/vision/pipeline/stages/DetectCircularSymmetry.class"
+],
+"Relative inner diameter margin used when the propertyName is set.": [
+"org/openpnp/vision/pipeline/stages/DetectCircularSymmetry.class"
+],
+"Minimum area of the contour, or -1 if no minimum limit is wanted.": [
+"org/openpnp/vision/pipeline/stages/FilterContours.class"
+],
+"Maximum area of the contour, or -1 if no maximum limit is wanted.": [
+"org/openpnp/vision/pipeline/stages/FilterContours.class"
+],
+"Mask an image with model shapes originating from previous stages.": [
+"org/openpnp/vision/pipeline/stages/MaskModel.class"
+],
+"Detect the left edge of the rectangle (rotated to expectedAngle).": [
+"org/openpnp/vision/pipeline/stages/MinAreaRect.class"
+],
+"Replace the working image with the image loaded from a given path.": [
+"org/openpnp/vision/pipeline/stages/ImageRead.class"
+],
+"Detect the right edge of the rectangle (rotated to expectedAngle).": [
+"org/openpnp/vision/pipeline/stages/MinAreaRect.class"
+],
+"Inverse ratio of the accumulator resolution to the image resolution": [
+"org/openpnp/vision/pipeline/stages/DetectCirclesHough.class",
+"org/openpnp/vision/pipeline/stages/DetectFixedCirclesHough.class"
+],
+"Soft factor, i.e. how strongly the mask is applied, from 0 ... 1.0.": [
+"org/openpnp/vision/pipeline/stages/MaskHsv.class"
+],
+"Detect the bottom edge of the rectangle (rotated to expectedAngle).": [
+"org/openpnp/vision/pipeline/stages/MinAreaRect.class"
+],
+"Minimum relative symmetry. Values larger than 1.0 indicate symmetry.": [
+"org/openpnp/vision/pipeline/stages/DetectRectlinearSymmetry.class"
+],
+"Name of a prior stage containing a RotatedRect or List<RotatedRect>.": [
+"org/openpnp/vision/pipeline/stages/OrientRotatedRects.class"
+],
+"Dilate the model by given pixels. Negative values contract the model.": [
+"org/openpnp/vision/pipeline/stages/DilateModel.class"
+],
+"Threshold minimum grayscale value of the pixel to be considered \"set\".": [
+"org/openpnp/vision/pipeline/stages/MinAreaRect.class"
+],
+"Threshold mayimum grayscale value of the pixel to be considered \"set\".": [
+"org/openpnp/vision/pipeline/stages/MinAreaRect.class"
+],
+"Stage name of the results to unwarp. If empty, takes the working model.": [
+"org/openpnp/vision/pipeline/stages/AffineUnwarp.class"
+],
+"Orientation of the output image. Zero is up, angles increase clockwise.": [
+"org/openpnp/vision/pipeline/stages/CreateModelTemplateImage.class"
+],
+"Light actuator value or profile, if default camera lighting is disabled.": [
+"org/openpnp/vision/pipeline/stages/ImageCapture.class"
+],
+"CharacterMatch [x=\u0001, y=\u0001, width=\u0001, height=\u0001, ch=\"\u0001\", score=\u0001, charNum=\u0001]": [
+"org/openpnp/vision/pipeline/stages/SimpleOcr$CharacterMatch.class"
+],
+"Images displayed assuming BGR color space - colors may not look correct.": [
+"org/openpnp/vision/pipeline/ui/ResultsPanel$8.class"
+],
+"Unable to convert to pixels because pipeline property \"camera\" is not set": [
+"org/openpnp/vision/pipeline/CvStage.class"
+],
+"Create a cropped template image in portrait orientation based on a model.": [
+"org/openpnp/vision/pipeline/stages/CreateModelTemplateImage.class"
+],
+"Thresholding type that must be either binary (default) or inverted binary": [
+"org/openpnp/vision/pipeline/stages/ThresholdAdaptive.class"
+],
+"Finds circles in the working image. Diameter and spacing can be specified.": [
+"org/openpnp/vision/pipeline/stages/DetectCirclesHough.class",
+"org/openpnp/vision/pipeline/stages/DetectLinesHough.class"
+],
+"Filter rotated rects based on given width, length and aspect ratio limits.": [
+"org/openpnp/vision/pipeline/stages/FilterRects.class"
+],
+"Exposes a Boolean stage property as an external parameter to this pipeline.": [
+"org/openpnp/vision/pipeline/stages/ParameterBool.class"
+],
+"Exposes a numeric stage property as an external parameter to this pipeline.": [
+"org/openpnp/vision/pipeline/stages/ParameterNumeric.class"
+],
+"The diameter of the circle to mask. Use a negative value to invert the mask.": [
+"org/openpnp/vision/pipeline/stages/MaskCircle.class"
+],
+"No feeder, part, or useable templateFile found. Cannot figure out part name.": [
+"org/openpnp/vision/pipeline/stages/ReadPartTemplateImage.class",
+"org/openpnp/vision/pipeline/stages/WritePartTemplateImage.class"
+],
+"ERROR: affineWarp must not generate an image that is larger than the original": [
+"org/openpnp/vision/pipeline/stages/AffineWarp.class"
+],
+"OpenCV based image template matching with local maxima detection improvements.": [
+"org/openpnp/vision/pipeline/stages/MatchTemplate.class"
+],
+"Actuator writing (CvStage operation) failed. Unable to find an actuator named \u0001": [
+"org/openpnp/vision/pipeline/stages/ActuatorWrite.class"
+],
+"The caller of the pipeline can override the region of interest under this name.": [
+"org/openpnp/vision/pipeline/stages/AffineWarp.class"
+],
+"Mask an image with multiple shapes formed with numeric data provided by the user.": [
+"org/openpnp/vision/pipeline/stages/MaskPolygon.class"
+],
+"This value is inaccuracy tolerance +/- pixel size that is considered to be valid.": [
+"org/openpnp/vision/pipeline/stages/SizeCheck.class"
+],
+"Constant subtracted from the mean or weighted mean. Can take negative values too.": [
+"org/openpnp/vision/pipeline/stages/ThresholdAdaptive.class"
+],
+"Template matching minimum match threshold (CCOEFF_NORMED method). Default is 0.75.": [
+"org/openpnp/vision/pipeline/stages/SimpleOcr.class"
+],
+"Selects a single rotated rectangle from a list. Main purpose convert the data type.": [
+"org/openpnp/vision/pipeline/stages/SelectSingleRect.class"
+],
+"Performs simple actuator write. Machine must be connected, otherwise error is thrown.": [
+"org/openpnp/vision/pipeline/stages/ActuatorWrite.class"
+],
+"Finds circles in the working image. Diameter and spacing are provided by the pipeline.": [
+"org/openpnp/vision/pipeline/stages/DetectFixedCirclesHough.class"
+],
+"If maximum value is below this value, then no matches will be reported. Default is 0.4.": [
+"org/openpnp/vision/pipeline/stages/MatchPartTemplate.class"
+],
+"If maximum value is below this value, then no matches will be reported. Default is 0.7.": [
+"org/openpnp/vision/pipeline/stages/MatchTemplate.class"
+],
+"On color images it does RGB Max algorithm, removes shadow and looses color information.": [
+"org/openpnp/vision/pipeline/stages/Normalize.class"
+],
+"Minimum relative circular symmetry (overall pixel variance vs. circular pixel variance).": [
+"org/openpnp/vision/pipeline/stages/DetectCircularSymmetry.class"
+],
+"The index of the contour in the list to draw. Any negative value will draw all contours.": [
+"org/openpnp/vision/pipeline/stages/DrawContours.class"
+],
+"If maximum value is below this value, then no matches will be reported. Default is 0.85.": [
+"org/openpnp/vision/pipeline/stages/MatchPartsTemplate.class"
+],
+"Draws KeyPoints contained in a List<KeyPoint> by referencing a previous stage's model data.": [
+"org/openpnp/vision/pipeline/stages/DrawKeyPoints.class"
+],
+"What will become the left upper corner of the extracted area. X offset from camera location.": [
+"org/openpnp/vision/pipeline/stages/AffineWarp.class"
+],
+"What will become the left upper corner of the extracted area. Y offset from camera location.": [
+"org/openpnp/vision/pipeline/stages/AffineWarp.class"
+],
+"What will become the left lower corner of the extracted area. X offset from camera location.": [
+"org/openpnp/vision/pipeline/stages/AffineWarp.class"
+],
+"What will become the left lower corner of the extracted area. Y offset from camera location.": [
+"org/openpnp/vision/pipeline/stages/AffineWarp.class"
+],
+"Width and height of the blurring kernel. Should be and odd number greater than or equal to 3": [
+"org/openpnp/vision/pipeline/stages/BlurGaussian.class",
+"org/openpnp/vision/pipeline/stages/BlurMedian.class"
+],
+"What will become the right upper corner of the extracted area. X offset from camera location.": [
+"org/openpnp/vision/pipeline/stages/AffineWarp.class"
+],
+"What will become the right upper corner of the extracted area. Y offset from camera location.": [
+"org/openpnp/vision/pipeline/stages/AffineWarp.class"
+],
+"If width or length limits are 0, then both aspectRatioMax and aspepctRatioMin must be non zero.": [
+"org/openpnp/vision/pipeline/stages/FilterRects.class"
+],
+"Name of a prior stage to retrieve the image from. An empty name will retrieve the working image.": [
+"org/openpnp/vision/pipeline/stages/ComposeResult.class"
+],
+"Maximum search width across nominal center, in pixels (0 = same as maximum search distance × 2).": [
+"org/openpnp/vision/pipeline/stages/DetectCircularSymmetry.class"
+],
+"Overlay a diagnostic map indicating the angular reclinear contrast and rectlinear cross-section.": [
+"org/openpnp/vision/pipeline/stages/DetectRectlinearSymmetry.class"
+],
+"Maximum search height across nominal center, in pixels (0 = same as maximum search distance × 2).": [
+"org/openpnp/vision/pipeline/stages/DetectCircularSymmetry.class"
+],
+"Name of the property through which OpenPnP controls this stage. Use \"MaskHsv\" for standard control.": [
+"org/openpnp/vision/pipeline/stages/MaskHsv.class"
+],
+"The higher threshold of the two passed to the Canny() edge detector (the lower one is twice smaller)": [
+"org/openpnp/vision/pipeline/stages/DetectCirclesHough.class",
+"org/openpnp/vision/pipeline/stages/DetectFixedCirclesHough.class"
+],
+"Name of the property through which OpenPnP controls this stage. Use \"footprint\" for standard control.": [
+"org/openpnp/vision/pipeline/stages/CreateFootprintTemplateImage.class"
+],
+"Name of the property through which OpenPnP controls this stage. Use \"MaskCircle\" for standard control.": [
+"org/openpnp/vision/pipeline/stages/MaskCircle.class"
+],
+"Name of the property through which OpenPnP controls this stage. Use \"BlurGaussian\" for standard control.": [
+"org/openpnp/vision/pipeline/stages/BlurGaussian.class"
+],
+"Finds circular symmetry in the working image. Diameter range and maximum search distance can be specified.": [
+"org/openpnp/vision/pipeline/stages/DetectCircularSymmetry.class"
+],
+"Draws RotatedRects from a stage's model. Input can be either a single RotatedRect or a List of RotatedRect": [
+"org/openpnp/vision/pipeline/stages/DrawEllipses.class",
+"org/openpnp/vision/pipeline/stages/DrawRotatedRects.class"
+],
+"Name of the property through which OpenPnP controls this stage. Use \"FilterContours\" for standard control.": [
+"org/openpnp/vision/pipeline/stages/FilterContours.class"
+],
+"Normalized minimum recognition threshold for the CCOEFF_NORMED method, in the interval [0,1]. Default is 0.85.": [
+"org/openpnp/vision/pipeline/stages/MatchTemplate.class"
+],
+"Name of the property through which OpenPnP controls this stage. Use \"SimpleBlobDetector\" for standard control.": [
+"org/openpnp/vision/pipeline/stages/SimpleBlobDetector.class"
+],
+"Name of a prior stage to load the filter size from. The filter stage should contain a single RotatedRect model.": [
+"org/openpnp/vision/pipeline/stages/ClosestModel.class"
+],
+"Retrieves the result of a user defined stage, or the working result in the pipeline, when this stage is processed.": [
+"org/openpnp/vision/pipeline/stages/ComposeResult.class"
+],
+"Name of the shape property to load the template shape from. The shape itself must be provided by the pipeline user.": [
+"org/openpnp/vision/pipeline/stages/CreateShapeTemplateImage.class"
+],
+"Scale of the transformation. NOTE: subsequent stages must be aware that the camera pixel to units scale has changed.": [
+"org/openpnp/vision/pipeline/stages/AffineWarp.class"
+],
+"Creates a template from the specified footprint and camera properties. The template is scaled to the camera's units.": [
+"org/openpnp/vision/pipeline/stages/CreateFootprintTemplateImage.class"
+],
+"Selects which channel(s) of the image to equalize.  This setting has no effect on single channel (gray scale) images.": [
+"org/openpnp/vision/pipeline/stages/HistogramEqualize.class",
+"org/openpnp/vision/pipeline/stages/HistogramEqualizeAdaptive.class"
+],
+"Sets the angle of a RotatedRect or List<RotatedRect> to match the specified orientation, either landscape or portrait.": [
+"org/openpnp/vision/pipeline/stages/OrientRotatedRects.class"
+],
+"Mask everything in the working image outside of a circle centered at the center of the image with the specified diameter.": [
+"org/openpnp/vision/pipeline/stages/MaskCircle.class"
+],
+"Rectify the transformation to be rectangular. The point [x2, y2] is not interpreted as a corner but as a height indicator.": [
+"org/openpnp/vision/pipeline/stages/AffineWarp.class"
+],
+"Name of a template image, or name of a directory where an image can be found with a name inferred from part or package ID.": [
+"org/openpnp/vision/pipeline/stages/ReadPartTemplateImage.class"
+],
+"Creates a template from the specified shape and camera properties. The shape is scaled from Millimeters to the camera's units.": [
+"org/openpnp/vision/pipeline/stages/CreateShapeTemplateImage.class"
+],
+"Finds the smallest rotated rectangle that encloses pixels that fall within the given range.\nInput should be a grayscale image.": [
+"org/openpnp/vision/pipeline/stages/MinAreaRect.class"
+],
+"Vision offset in X in pixels. The footprint is visually asymmetric, and its detection center offset to the right (+) or left (-).": [
+"org/openpnp/vision/pipeline/stages/CreateFootprintTemplateImage.class"
+],
+"Vision offset in Y in pixels. The footprint is visually asymmetric, and its detection center offset to the top (+) or bottom (-).": [
+"org/openpnp/vision/pipeline/stages/CreateFootprintTemplateImage.class"
+],
+"The accumulator threshold for the circle centers at the detection stage. The smaller it is, the more false circles may be detected": [
+"org/openpnp/vision/pipeline/stages/DetectCirclesHough.class",
+"org/openpnp/vision/pipeline/stages/DetectFixedCirclesHough.class"
+],
+"Filter RotatedRects that fit in the template's size, with a tolerance and find the closest RotatedRect to the center of the screen.": [
+"org/openpnp/vision/pipeline/stages/ClosestModel.class"
+],
+"Name of the template image to write, or name of a directory where the image should be written with a name inferred from the part ID.": [
+"org/openpnp/vision/pipeline/stages/WritePartTemplateImage.class"
+],
+"Determines, how the footprint is drawn. Fiducial: only draws the pads, TopView: draws body over pads, BottomView: draws pads over body.": [
+"org/openpnp/vision/pipeline/stages/CreateFootprintTemplateImage.class"
+],
+"Soft edge of the HSV mask bounding box. If not 0, the mask is computed and applied with gradual impact, creating a more natural result.": [
+"org/openpnp/vision/pipeline/stages/MaskHsv.class"
+],
+"Property name as controlled by the vision operation using this pipeline.<br/>If set, these will override the properties configured here.": [
+"org/openpnp/vision/pipeline/stages/SimpleOcr.class"
+],
+"The superSampling value can be used to achieve sub-pixel final precision: 1 means no supersampling, 2 means half sub-pixel precision etc.": [
+"org/openpnp/vision/pipeline/stages/DetectCircularSymmetry.class"
+],
+"Gamma to be applied to the image. The input signal is raised to the power gamma. With gammas > 1.0 the bright image parts are emphasized.": [
+"org/openpnp/vision/pipeline/stages/DetectRectlinearSymmetry.class"
+],
+"OpenCV based image template matching with local maxima detection improvements. On match, returns the true orientation of the input model.": [
+"org/openpnp/vision/pipeline/stages/MatchPartTemplate.class"
+],
+"OpenCV based image template matching with local maxima detection improvements. On match, returns the true orientation of the input models.": [
+"org/openpnp/vision/pipeline/stages/MatchPartsTemplate.class"
+],
+"Prefix of the filename. Used for automatic filename generation to distinguish between different uses (e.g. up/down camera). Default empty.": [
+"org/openpnp/vision/pipeline/stages/ReadPartTemplateImage.class",
+"org/openpnp/vision/pipeline/stages/WritePartTemplateImage.class"
+],
+"Size of a pixel neighborhood that is used to calculate a threshold value for the pixel. Should be and odd number greater than or equal to 3": [
+"org/openpnp/vision/pipeline/stages/ThresholdAdaptive.class"
+],
+"Maximum value to be masked.  Note values range from 0 to 255 (inclusive). Setting valueMax less than valueMin will result in no pixels being masked.": [
+"org/openpnp/vision/pipeline/stages/MaskHsv.class"
+],
+"Minimum value to be masked.  Note values range from 0 to 255 (inclusive). Setting valueMin greater than valueMax will result in no pixels being masked.": [
+"org/openpnp/vision/pipeline/stages/MaskHsv.class"
+],
+"Correlated minimum circular symmetry for multiple matches, i.e. other matches must have at least this relative symmetry. Must be in the interval [0,1]. ": [
+"org/openpnp/vision/pipeline/stages/DetectCircularSymmetry.class"
+],
+"If set, the mask is returned directly as a grayscale image with the masked area black, the unmasked white. Otherwise the masked area is blackened in the source image.": [
+"org/openpnp/vision/pipeline/stages/MaskHsv.class"
+],
+"Maximum saturation to be masked.  Note saturations range from 0 to 255 (inclusive). Setting saturationMax less than saturationMin will result in no pixels being masked.": [
+"org/openpnp/vision/pipeline/stages/MaskHsv.class"
+],
+"Minimum saturation to be masked.  Note saturations range from 0 to 255 (inclusive). Setting saturationMin greater than saturationMax will result in no pixels being masked.": [
+"org/openpnp/vision/pipeline/stages/MaskHsv.class"
+],
+"Coordinates forming shapes. X,Y coordinates or sizes are separated by commas, coordinate or size pairs are separated by colons ':'. Multiple shapes are separated by semicolons ';'": [
+"org/openpnp/vision/pipeline/stages/MaskPolygon.class"
+],
+"Read a template image from disk given a user defined file name, or infer the image's name from the id of the part loaded in the feeder and load it from a path defined by the user.": [
+"org/openpnp/vision/pipeline/stages/ReadPartTemplateImage.class"
+],
+"Write a template image to disk given a user defined file name, or infer the image's name from the id of the part loaded in the feeder and write it to the path defined by the user.": [
+"org/openpnp/vision/pipeline/stages/WritePartTemplateImage.class"
+],
+"Alphabet of all the characters that can be recognized. The smaller the alphabet, the faster and the more reliable the OCR works. The alphabet can be overriden with the \"alphabet\" property.": [
+"org/openpnp/vision/pipeline/stages/SimpleOcr.class"
+],
+"Please assign a stable name to the stage. This name will be used as parameter name and should not be changed later, or assigned data will be lost. Names starting with digits are not allowed.": [
+"org/openpnp/vision/pipeline/CvAbstractParameterStage.class"
+],
+"When the <strong>OutlineSymmetryMasked</strong> function is used, only pixels with luminance greater than the <strong>threshold</strong> are considered when determining the outline of the part.": [
+"org/openpnp/vision/pipeline/stages/DetectRectlinearSymmetry.class"
+],
+"Max aspect ratio for selecting rects, used if one or both of width and length are 0. If both width and length are 0, then any rect with size satisfying the aspect ratio limits will pass through.": [
+"org/openpnp/vision/pipeline/stages/FilterRects.class"
+],
+"Min aspect ratio for selecting rects, used if one or both of width and length are 0. If both width and length are 0, then any rect with size satisfying the aspect ratio limits will pass through.": [
+"org/openpnp/vision/pipeline/stages/FilterRects.class"
+],
+"Smoothing applied to the sampled cross-sections. Given as the Gaussian kernel size.<br/>This is needed to eliminate interferences, when angular sampling coincides with the pixel raster or its diagonals.": [
+"org/openpnp/vision/pipeline/stages/DetectRectlinearSymmetry.class"
+],
+"determines the pipeline property name under which this stage is controlled by the vision operation. If set, these will override some of the properties configured here. Use \"MinAreaRect\" for default control.": [
+"org/openpnp/vision/pipeline/stages/MinAreaRect.class"
+],
+"determines the pipeline property name under which this stage is controlled by the vision operation. If set, these will override some of the properties configured here. Use \"DetectRectlinearSymmetry\" for default control.": [
+"org/openpnp/vision/pipeline/stages/DetectRectlinearSymmetry.class"
+],
+"Property name as controlled by the vision operation using this pipeline.<br/><ul><li><i>propertyName</i>.maxDistance</li><li><i>propertyName</i>.center</li></ul>If set, these will override the properties configured here.": [
+"org/openpnp/vision/pipeline/stages/MatchTemplate.class"
+],
+"The threshold for contrast limiting.  Lower values will limit the amount of contrast enhancement while higher values will allow for more enhancement but at the risk of increasing noise in homogeneous regions of the image.": [
+"org/openpnp/vision/pipeline/stages/HistogramEqualizeAdaptive.class"
+],
+"Sets each channel's min and max limits such that the pixels falling in and around the channel's histogram peak bin are masked.  The number of histogram bins that get masked is controlled by the value of the fractionToMask parameter.": [
+"org/openpnp/vision/pipeline/stages/MaskHsv.class"
+],
+"Tells the stage whether the subject is left/right-symmetric (in the sense as seen at 0° subject rotation). According to this switch, the stage either takes the <strong>symmetricFunction</strong>, or the <strong>asymmetricFunction</strong>.": [
+"org/openpnp/vision/pipeline/stages/DetectRectlinearSymmetry.class"
+],
+"Tells the stage whether the subject is upper/lower-symmetric (in the sense as as seen at 0° subject rotation). According to this switch, the stage either takes the <strong>symmetricFunction</strong>, or the <strong>asymmetricFunction</strong>.": [
+"org/openpnp/vision/pipeline/stages/DetectRectlinearSymmetry.class"
+],
+"Name of the font to be recognized or [Barcode].<br/>Monospace fonts work much better and allow lower resolution. Use a font where all the used characters are easily distinguishable. Fonts with clear separation between characters are preferred.": [
+"org/openpnp/vision/pipeline/stages/SimpleOcr.class"
+],
+"The superSampling value can be used to achieve sub-pixel final precision:<br/>1 means no supersampling, 2 means half sub-pixel precision etc.<br/>Negative values can be used to stop refining subSampling, -2 means it will stop at a 2-pixel resolution.": [
+"org/openpnp/vision/pipeline/stages/DetectRectlinearSymmetry.class"
+],
+"Property name as controlled by the vision operation using this pipeline.<br/><ul><li><i>propertyName</i>.diameter</li><li><i>propertyName</i>.maxDistance</li><li><i>propertyName</i>.center</li></ul>If set, these will override the properties configured here.": [
+"org/openpnp/vision/pipeline/stages/DetectCircularSymmetry.class"
+],
+"Convert a variety of built in types to Points. Currently handles KeyPoints, Circles and RotatedRects. The center point of each is stored. If the input model is a single value the result will be a single value. If the input is a List the result will be a List.": [
+"org/openpnp/vision/pipeline/stages/ConvertModelToPoints.class"
+],
+"Adaptive thresholding algorithm to use: 'Mean' is a mean of the (blockSize x blockSize) neighborhood of a pixel minus cParm. 'Gaussian' is a weighted sum (cross-correlation with a Gaussian window) of the (blockSize x blockSize) neighborhood of a pixel minus cParm": [
+"org/openpnp/vision/pipeline/stages/ThresholdAdaptive.class"
+],
+"Run an arbitrary script file using the built in scripting engine. pipeline and stage are exposed as globals for use by the script. To return a pipeline result you can't use a return statement, but instead just let the object be the last thing the script evaluates.": [
+"org/openpnp/vision/pipeline/stages/ScriptRun.class"
+],
+"If the font size is larger in pixels than this value, the OCR stage will resizes the image to a smaller resolution first (to achieve acceptable OCR speed). Alternatively, you can use an AffineWarp stage with scale < 1.0, but then you need to scale your pointSize too.": [
+"org/openpnp/vision/pipeline/stages/SimpleOcr.class"
+],
+"When the auto flag is set, the min and max limits are set so that the fraction of pixels in the image that get masked is approximately equal to this value.  The pixels with the most commonly occurring colors are masked first.   Valid range is from 0.0 to 1.0 (inclusive).": [
+"org/openpnp/vision/pipeline/stages/MaskHsv.class"
+],
+"The color space of the image.  Use to select the color space that the original image had when it was written. Note that this does not change any of the numerical values that represent the image but rather their interpretation when the image is displayed in the pipeline editor.": [
+"org/openpnp/vision/pipeline/stages/ImageRead.class"
+],
+"It uses pixel sizes. Check part's pixel sizes on detected RotatedRect (i.e. MinAreaRect) and put the same values into this stage. Place this stage after the Pipeline that returns RotatedRect (i.e. MinAreaRect...) and use it as 'results' stage. Rename MinAreaRect into 'result'.": [
+"org/openpnp/vision/pipeline/stages/SizeCheck.class"
+],
+"The color space of the image.  Use to select the color space that the original image had when it was written.  Note that this does not change any of the numerical values that represent the image but rather their interpretation when the image is displayed in the pipeline editor.": [
+"org/openpnp/vision/pipeline/stages/ReadPartTemplateImage.class"
+],
+"A very simple OCR/Barcode stage that returns a (multi-line) text string. <br/>Use an AffineWarp stage to extract the region of interest first (for cropping, rotation and acceptable speed).<br/>It is also recommended to convert the image to grayscale first. Do not apply a threshold stage.": [
+"org/openpnp/vision/pipeline/stages/SimpleOcr.class"
+],
+"Convert a variety of built in types to KeyPoints. Currently handles Points, Circles, TemplateMatches, and RotatedRects. The center point of each is stored, along with a score and diameter where appropriate. If the input model is a single value the result will be a single value. If the input is a List the result will be a List.": [
+"org/openpnp/vision/pipeline/stages/ConvertModelToKeyPoints.class"
+],
+"To speed things up, only one pixel out of a square of subSampling × subSampling pixels is sampled. The best region is then locally searched using iteration with smaller and smaller subSampling size.<br/>The subSampling value will automatically be reduced for small diameters. Use BlurGaussian before this stage if subSampling suffers from moiré effects.": [
+"org/openpnp/vision/pipeline/stages/DetectCircularSymmetry.class"
+],
+"To speed things up, only one pixel out of a square of subSampling × subSampling pixels is sampled. The best region is then locally searched using iteration with smaller and smaller subSampling size.<br/>The subSampling value will automatically be reduced when other search properties require it. Use BlurGaussian before this stage if subSampling suffers from moiré effects.": [
+"org/openpnp/vision/pipeline/stages/DetectRectlinearSymmetry.class"
+],
+"Result model coordinates obtained from images gone through AfficeWarp are not usable as camera coordinates. This stage applies the proper reverse Affine Transformation to reconstruct camera coordinates. The stage currently supports Lists or single instances of Circles, RotatedRects and KeyPoints. For transformations with stretch and shear, some of the model properties are approximated. ": [
+"org/openpnp/vision/pipeline/stages/AffineUnwarp.class"
+],
+"Handle the loaded image as if captured by the camera. The image resolution and aspect ratio will be adapted, and if information is present (upp.txt), the image is scaled to camera Units per Pixel.<br/>Any pixel coordinates obtained from the image are therefore correctly interpreted, as they would from a camera captured image.<br/>The image is also registered as the pipeline captured image.": [
+"org/openpnp/vision/pipeline/stages/ImageRead.class"
+],
+"Finds the subject and angle with maximum rectlinear symmetry in the working image. This is achieved by first computing reclinear, i.e. horizontal and vertical cross-sections at various angles. The angle with the largest contrasts is then used.<br/>As a second step, the mid-points with the largest symmetry in the horizontal and vertical cross-sections is determined to detect the subject center.": [
+"org/openpnp/vision/pipeline/stages/DetectRectlinearSymmetry.class"
+],
+"Last hue to be masked.  Note hues range from 0 to 255 (inclusive) but in a circular fashion so that 255 is directly adjacent to 0 (as 359 degrees is adjacent to 0 degrees).  To mask hues that cross the 255-0 boundary, set hueMin greater than hueMax.  As a rough guide, yellows fall in the range 21 to 64, greens 64 to 107, cyans 107 to 149, blues 149 to 192, magentas 192 to 235, and reds 235 to 21.": [
+"org/openpnp/vision/pipeline/stages/MaskHsv.class"
+],
+"First hue to be masked.  Note hues range from 0 to 255 (inclusive) but in a circular fashion so that 255 is directly adjacent to 0 (as 359 degrees is adjacent to 0 degrees).  To mask hues that cross the 255-0 boundary, set hueMin greater than hueMax.  As a rough guide, yellows fall in the range 21 to 64, greens 64 to 107, cyans 107 to 149, blues 149 to 192, magentas 192 to 235, and reds 235 to 21.": [
+"org/openpnp/vision/pipeline/stages/MaskHsv.class"
+],
+"When the <strong>OutlineSymmetryMasked</strong> function is used, pixels are masked by the <strong>threshold</strong> property. A cross-section pixel count over these masked pixels is then determined. A cross-section bin only counts as \"detected\" when the pixel count is larger than <strong>minFeatureSize</strong>.<br/>This is used to remove masking imperfections, i.e. image specks and impurities up to a certain size and frequency.": [
+"org/openpnp/vision/pipeline/stages/DetectRectlinearSymmetry.class"
+],
+"Applies histogram equalization to the selected channels of the image.  For gray scale images this will increase the image contrast.  For color images, the results will vary depending on the image format and channels selected for equalization.  Generally applying histogram equalization to a color image will result in a false color image; however, contrast enhancement can be achieved on HSV formats by applying equalization to only the third channel (V).": [
+"org/openpnp/vision/pipeline/stages/HistogramEqualize.class"
+],
+"Set the symmetry score calculation method.<br/><ul><li>Overall variance vs. ring variance sum (default): tolerant circular symmetry score. Matches partial/scattered circular patterns.</li><li>Ring ageraged variance vs. ring variance sum: stricter circular symmetry score. The rings must be quite uniform to match.</li><li>Ring median variance vs. ring variance sum: even stricter circular symmetry score. Rejects interrupted rings, e.g. from tangential non-circular shapes.</li></ul>": [
+"org/openpnp/vision/pipeline/stages/DetectCircularSymmetry.class"
+],
+"Applies contrast limited adaptive histogram equalization (CLAHE) to the selected channels of the image.  For gray scale images this will increase the image contrast.  For color images, the results will vary depending on the image format and channels selected for equalization.  Generally applying histogram equalization to a color image will result in a false color image; however, contrast enhancement can be achieved on HSV formats by applying equalization to only the third channel (V).": [
+"org/openpnp/vision/pipeline/stages/HistogramEqualizeAdaptive.class"
+],
+"Converts the internal representation of an image from one color space to another.  Note that the conversions (other than to/from gray) do not alter the colors in the image but rather change the underlying numerical represention of the colors such that the preceived colors in the new color space are the same as those in the old color space.  See <a href=\\\"https://en.wikipedia.org/wiki/Color_space\\\" target=\\\"_blank\\\">https://en.wikipedia.org/wiki/Color_space</a> for a detailed explaination of color spaces.": [
+"org/openpnp/vision/pipeline/stages/ConvertColor.class"
+],
+"Extracts a rectangular (parallelogrammatic) region of interest from the image that can have any position, size, rotation, scale, <em>shear</em> or even be mirrored. A so-called Affine Transformation Warp.<br/>The coordinates are given in real length units rather than pixels and are relative to the camera center, Y pointing up. This allows the pipeline to be independent of camera model and resolution, lens, focus distance etc. <br/>To setup, pin the previous stage and read off length unit coordinates from the mouse position.": [
+"org/openpnp/vision/pipeline/stages/AffineWarp.class"
+],
+"Mask color from an image based on the HSV color space. Pixels that fall between (hueMin, saturationMin, valueMin) and (hueMax, saturationMax, valueMax) are set to black in the output image. This stage expects the input to be in HSV_FULL format, so you should do a ConvertColor with Bgr2HsvFull before this stage and ConvertColor Hsv2BgrFull after. These are not applied internally as to not complicate the use of multiple instances of this stage in series. Note that this stage can be used with any 3 channel, 8 bit per channel color space. The order of the filtered channels is hue, saturation, value, but you can use these ranges for other channels.": [
+"org/openpnp/vision/pipeline/stages/MaskHsv.class"
+],
+"Determines how the cross-section is evaluated for <strong>symmetric</strong> subjects.<br/><ul><li><strong>FullSymmetry</strong> looks for full inner and outline symmetry. Use for truly symmetric subjects and best precision.</li><li><strong>EdgeSymmetry</strong> looks for full inner and outline symmetry of edges. Use for partially symmetric subjects, where some, but not all features are present on both sides, or where shades differ.</li><li><strong>OutlineSymmetry</strong> looks for outline symmetry only. Used for subjects that are symmetric on their outline, but not on the inside.</li><li><strong>OutlineEdgeSymmetry</strong> looks for outline symmetry of edges only. Used for subjects that are symmetric on their outline, but not on the inside, and where some, but not all features are present on both sides, or where shades differ.</li><li><strong>OutlineSymmetryMasked</strong> looks for outline mask symmetry only. Use for quite asymmetric subjects. Requires setting a mask <strong>threshold</strong>.<br/></li></ul>": [
+"org/openpnp/vision/pipeline/stages/DetectRectlinearSymmetry.class"
+],
+"Determines how the cross-section is evaluated for <strong>asymmetric</strong> subjects.<br/><ul><li><strong>FullSymmetry</strong> looks for full inner and outline symmetry. Use for truly symmetric subjects and best precision.</li><li><strong>EdgeSymmetry</strong> looks for full inner and outline symmetry of edges. Use for partially symmetric subjects, where some, but not all features are present on both sides, or where shades differ.</li><li><strong>OutlineSymmetry</strong> looks for outline symmetry only. Used for subjects that are symmetric on their outline, but not on the inside.</li><li><strong>OutlineEdgeSymmetry</strong> looks for outline symmetry of edges only. Used for subjects that are symmetric on their outline, but not on the inside, and where some, but not all features are present on both sides, or where shades differ.</li><li><strong>OutlineSymmetryMasked</strong> looks for outline mask symmetry only. Use for quite asymmetric subjects. Requires setting a mask <strong>threshold</strong>.<br/></li></ul>": [
+"org/openpnp/vision/pipeline/stages/DetectRectlinearSymmetry.class"
+]
+}

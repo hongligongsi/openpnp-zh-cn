@@ -1,0 +1,505 @@
+{
+ "Part vacuum-detected on nozzle before pick.": [
+  "org/openpnp/gui/FeedersPanel.class",
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$Pick.class"
+ ],
+ "Contact Probe": [
+  "org/openpnp/machine/reference/ContactProbeNozzle.class"
+ ],
+ "No nozzle tip is marked as Template.": [
+  "org/openpnp/machine/reference/ContactProbeNozzle.class"
+ ],
+ "No default ContactProbeNozzle found.": [
+  "org/openpnp/machine/reference/ContactProbeNozzle.class"
+ ],
+ "Contact probe actuator needs unconditional machine coordination after actuation.": [
+  "org/openpnp/machine/reference/ContactProbeNozzle.class"
+ ],
+ "Set After Actuation machine coordination to WaitForUnconditionalCoordination.": [
+  "org/openpnp/machine/reference/ContactProbeNozzle.class"
+ ],
+ "Enable Location Confirmation.": [
+  "org/openpnp/machine/reference/ContactProbeNozzle.class"
+ ],
+ "Only the GcodeAsyncDriver currently supports it. Advanced milestone required.": [
+  "org/openpnp/machine/reference/ContactProbeNozzle.class"
+ ],
+ "Please add the command manually.": [
+  "org/openpnp/machine/reference/ContactProbeNozzle.class"
+ ],
+ "The nozzle can be replaced with a ContactProbeNozzle to support various probing features.": [
+  "org/openpnp/machine/reference/ContactProbeNozzle.class"
+ ],
+ "Replace with ContactProbeNozzle.": [
+  "org/openpnp/machine/reference/ContactProbeNozzle.class"
+ ],
+ "Converting the ContactProbeNozzle back to a plain ReferenceNozzle may simplify the machine setup.": [
+  "org/openpnp/machine/reference/ContactProbeNozzle.class"
+ ],
+ "Replace with ReferenceNozzle.": [
+  "org/openpnp/machine/reference/ContactProbeNozzle.class"
+ ],
+ "Nozzle \u0001 probed part \u0001 height at \u0001": [
+  "org/openpnp/machine/reference/ContactProbeNozzle.class"
+ ],
+ "Nozzle \u0001 probed feeder \u0001 Z at offset \u0001": [
+  "org/openpnp/machine/reference/ContactProbeNozzle.class"
+ ],
+ "Nozzle \u0001 applies feeder \u0001 height offset \u0001": [
+  "org/openpnp/machine/reference/ContactProbeNozzle.class"
+ ],
+ "Part height \u0001 probing by nozzle \u0001 failed (returned negative height). Check PCB Z and probing adjustment.": [
+  "org/openpnp/machine/reference/ContactProbeNozzle.class"
+ ],
+ "Nozzle \u0001 probed part \u0001 height at offset \u0001": [
+  "org/openpnp/machine/reference/ContactProbeNozzle.class"
+ ],
+ "Nozzle \u0001 applies part \u0001 height offset \u0001": [
+  "org/openpnp/machine/reference/ContactProbeNozzle.class"
+ ],
+ "Nozzle \u0001 cannot sniffle-probe without nozzle tip.": [
+  "org/openpnp/machine/reference/ContactProbeNozzle.class"
+ ],
+ "Nozzle tip \u0001 cannot sniffle-probe without Part-Off sensing method.": [
+  "org/openpnp/machine/reference/ContactProbeNozzle.class"
+ ],
+ "Nozzle \u0001 cannot sniffle-probe without vacuum valve actuator.": [
+  "org/openpnp/machine/reference/ContactProbeNozzle.class"
+ ],
+ "Nozzle \u0001 cannot sniffle-probe without vacuum sensing actuator.": [
+  "org/openpnp/machine/reference/ContactProbeNozzle.class"
+ ],
+ "Nozzle \u0001 cannot sniffle-probe with part on nozzle. Free nozzle vacuum sensing needed.": [
+  "org/openpnp/machine/reference/ContactProbeNozzle.class"
+ ],
+ "Nozzle \u0001 first sniffle-probe was already sensing contact. Check the settings.": [
+  "org/openpnp/machine/reference/ContactProbeNozzle.class"
+ ],
+ "Nozzle \u0001 sniffle-probing made no contact. Check the settings.": [
+  "org/openpnp/machine/reference/ContactProbeNozzle.class"
+ ],
+ "Nozzle \u0001 has contact probing disabled.": [
+  "org/openpnp/machine/reference/ContactProbeNozzle.class"
+ ],
+ "Nozzle \u0001 has not nozzle tip \u0001 loaded.": [
+  "org/openpnp/machine/reference/ContactProbeNozzle.class"
+ ],
+ "Nozzle \u0001 has no nozzle tip loaded.": [
+  "org/openpnp/machine/reference/ContactProbeNozzle.class"
+ ],
+ "Nozzle tip \u0001 has no touch location configured.": [
+  "org/openpnp/machine/reference/ContactProbeNozzle.class"
+ ],
+ "Nozzle \u0001 nozzle tip \u0001 Z calibration offset \u0001": [
+  "org/openpnp/machine/reference/ContactProbeNozzle.class"
+ ],
+ "Nozzle \u0001 nozzle tip \u0001 Z calibration offset \u0001 unexpectedly large. Check setup.": [
+  "org/openpnp/machine/reference/ContactProbeNozzle.class"
+ ],
+ "Nozzle tip \u0001 touch location Z set to \u0001 (previously \u0001)": [
+  "org/openpnp/machine/reference/ContactProbeNozzle.class"
+ ],
+ "ContactProbeNozzle \u0001 has no contact probing actuator.": [
+  "org/openpnp/machine/reference/ContactProbeNozzle.class"
+ ],
+ "Create a contact probing actuator and assign it to the nozzle \u0001.": [
+  "org/openpnp/machine/reference/ContactProbeNozzle.class"
+ ],
+ "Z driver \u0001 not same as actuator \u0001 driver \u0001.": [
+  "org/openpnp/machine/reference/ContactProbeNozzle.class"
+ ],
+ "Assign driver \u0001 to actuator \u0001.": [
+  "org/openpnp/machine/reference/ContactProbeNozzle.class"
+ ],
+ "Z driver \u0001 must use Location Confirmation for the probe actuator to work.": [
+  "org/openpnp/machine/reference/ContactProbeNozzle.class"
+ ],
+ "Z driver \u0001 must support Location Confirmation for the Z probe actuator to work.": [
+  "org/openpnp/machine/reference/ContactProbeNozzle.class"
+ ],
+ "Missing ACTUATE_BOOLEAN_COMMAND for actuator \u0001 on driver \u0001 (no suggestion available for detected firmware).": [
+  "org/openpnp/machine/reference/ContactProbeNozzle.class"
+ ],
+ "A HTTPActuator with Read URL likely needs a regular Expression to parse the value.": [
+  "org/openpnp/machine/reference/HttpActuator.class"
+ ],
+ "Set an example expression": [
+  "org/openpnp/machine/reference/HttpActuator.class"
+ ],
+ "Delete Actuator": [
+  "org/openpnp/machine/reference/ReferenceActuator.class"
+ ],
+ "Axis Interlock": [
+  "org/openpnp/machine/reference/ReferenceActuator.class",
+  "org/openpnp/machine/reference/wizards/ActuatorInterlockMonitorConfigurationWizard.class"
+ ],
+ "Error actuating \u0001": [
+  "org/openpnp/machine/reference/ReferenceActuator.class"
+ ],
+ "Default ON": [
+  "org/openpnp/machine/reference/ReferenceActuatorProfiles.class"
+ ],
+ "Default OFF": [
+  "org/openpnp/machine/reference/ReferenceActuatorProfiles.class"
+ ],
+ "Actuator \u0001 profile \u0001 not found.": [
+  "org/openpnp/machine/reference/ReferenceActuatorProfiles.class"
+ ],
+ "Actuator \u0001 \u0001 profile not found.": [
+  "org/openpnp/machine/reference/ReferenceActuatorProfiles.class"
+ ],
+ "Normal feed": [
+  "org/openpnp/machine/reference/ReferenceFeeder$FeedOptions.class"
+ ],
+ "Skip next feed": [
+  "org/openpnp/machine/reference/ReferenceFeeder$FeedOptions.class"
+ ],
+ "Disable feed": [
+  "org/openpnp/machine/reference/ReferenceFeeder$FeedOptions.class"
+ ],
+ "Visual homing is missing the FIDUCIAL-HOME part. Please create it.": [
+  "org/openpnp/machine/reference/ReferenceHead.class"
+ ],
+ "Visual homing failed": [
+  "org/openpnp/machine/reference/ReferenceHead.class"
+ ],
+ "User requested stop.": [
+  "org/openpnp/machine/reference/ReferenceMachine.class"
+ ],
+ "homing machine": [
+  "org/openpnp/machine/reference/ReferenceMachine.class"
+ ],
+ "Change to ReferenceAdvancedMotionPlanner": [
+  "org/openpnp/machine/reference/ReferenceMachine.class"
+ ],
+ "Advanced motion planner set. Revert to a simpler, safer planner.": [
+  "org/openpnp/machine/reference/ReferenceMachine.class"
+ ],
+ "Change to NullMotionPlanner": [
+  "org/openpnp/machine/reference/ReferenceMachine.class"
+ ],
+ "OpenPnP can often automatically select the right tool for you in Machine Controls.": [
+  "org/openpnp/machine/reference/ReferenceMachine.class"
+ ],
+ "Enable Auto tool select.": [
+  "org/openpnp/machine/reference/ReferenceMachine.class"
+ ],
+ "Error: Nozzle Not Deleted": [
+  "org/openpnp/machine/reference/ReferenceNozzle$1.class"
+ ],
+ "Can't delete last nozzle. There must be at least one nozzle.": [
+  "org/openpnp/machine/reference/ReferenceNozzle$1.class"
+ ],
+ "Delete Nozzle": [
+  "org/openpnp/machine/reference/ReferenceNozzle.class"
+ ],
+ "Can't pick null part": [
+  "org/openpnp/machine/reference/ReferenceNozzle.class"
+ ],
+ "Can't pick, no nozzle tip loaded": [
+  "org/openpnp/machine/reference/ReferenceNozzle.class"
+ ],
+ "Can't place, no nozzle tip loaded": [
+  "org/openpnp/machine/reference/ReferenceNozzle.class"
+ ],
+ "Can't load incompatible nozzle tip.": [
+  "org/openpnp/machine/reference/ReferenceNozzle.class"
+ ],
+ "Task interrupted: Please perform": [
+  "org/openpnp/machine/reference/ReferenceNozzle.class"
+ ],
+ "Nozzle tip {} baseline vacuum level {} outside PartOn range {} .. {}": [
+  "org/openpnp/machine/reference/ReferenceNozzle.class"
+ ],
+ "Nozzle tip {} vacuum level difference {} outside PartOn range {} .. {}": [
+  "org/openpnp/machine/reference/ReferenceNozzle.class"
+ ],
+ "Nozzle tip {} absolute vacuum level {} outside PartOn range {} .. {}": [
+  "org/openpnp/machine/reference/ReferenceNozzle.class"
+ ],
+ "Nozzle tip {} baseline vacuum level {} outside PartOff range {} .. {}": [
+  "org/openpnp/machine/reference/ReferenceNozzle.class"
+ ],
+ "Nozzle tip {} vacuum level difference {} outside PartOff range {} .. {}": [
+  "org/openpnp/machine/reference/ReferenceNozzle.class"
+ ],
+ "Nozzle tip {} absolute vacuum level {} outside PartOff range {} .. {}": [
+  "org/openpnp/machine/reference/ReferenceNozzle.class"
+ ],
+ "vacuum valve": [
+  "org/openpnp/machine/reference/ReferenceNozzle.class"
+ ],
+ "blow off": [
+  "org/openpnp/machine/reference/ReferenceNozzle.class"
+ ],
+ "vacuum sensing": [
+  "org/openpnp/machine/reference/ReferenceNozzle.class"
+ ],
+ "Set manual nozzle tip change location for \u0001 to \u0001 (previously \u0001)": [
+  "org/openpnp/machine/reference/ReferenceNozzle.class"
+ ],
+ "Set \u0001 \u0001 head offsets to \u0001 (previously \u0001)": [
+  "org/openpnp/machine/reference/ReferenceNozzle.class"
+ ],
+ "Set camera \u0001 head offsets to \u0001 (previously \u0001)": [
+  "org/openpnp/machine/reference/ReferenceNozzle.class",
+  "org/openpnp/machine/reference/solutions/VisionSolutions$4.class"
+ ],
+ "Nozzle \u0001 has no Z axis with Safe Zone mapped.": [
+  "org/openpnp/machine/reference/ReferenceNozzle.class"
+ ],
+ "Nozzle \u0001 still has a part loaded. Please discard first.": [
+  "org/openpnp/machine/reference/ReferenceNozzle.class"
+ ],
+ "Task interrupted: Please perform a manual nozzle tip \u0001 unload from nozzle \u0001 now. You can then resume/restart the interrupted task.": [
+  "org/openpnp/machine/reference/ReferenceNozzle.class"
+ ],
+ "Nozzle \u0001 Manual Change Location is not configured!": [
+  "org/openpnp/machine/reference/ReferenceNozzle.class"
+ ],
+ "Nozzle \u0001 has no vacuum sense actuator assigned.": [
+  "org/openpnp/machine/reference/ReferenceNozzle.class"
+ ],
+ "Nozzle \u0001 has no vacuum actuator assigned.": [
+  "org/openpnp/machine/reference/ReferenceNozzle.class"
+ ],
+ "Nozzle \u0001 has no blow off actuator assigned.": [
+  "org/openpnp/machine/reference/ReferenceNozzle.class"
+ ],
+ "Cannot fully upgrade partOffProbingMilliseconds time": [
+  "org/openpnp/machine/reference/ReferenceNozzleTip$1.class"
+ ],
+ "Delete Nozzle Tip": [
+  "org/openpnp/machine/reference/ReferenceNozzleTip.class"
+ ],
+ "No Nozzle Tip is defined as template.": [
+  "org/openpnp/machine/reference/ReferenceNozzleTip.class"
+ ],
+ "Nozzle tip %s changer slot vision calibration failed. Score %f lower than minmum %f.": [
+  "org/openpnp/machine/reference/ReferenceNozzleTip.class"
+ ],
+ "Nozzle tip %s changer slot was expected %s, but found %s.": [
+  "org/openpnp/machine/reference/ReferenceNozzleTip.class"
+ ],
+ "Nozzle tip %s changer slot calibration offset %s, %s, distance %s": [
+  "org/openpnp/machine/reference/ReferenceNozzleTip.class"
+ ],
+ "Nozzle tip \u0001 changer slot vision calibration: Template Empty missing.": [
+  "org/openpnp/machine/reference/ReferenceNozzleTip.class"
+ ],
+ "Nozzle tip \u0001 changer slot vision calibration: Template Occupied missing.": [
+  "org/openpnp/machine/reference/ReferenceNozzleTip.class"
+ ],
+ "Nozzle tip \u0001 slot was found too far away.": [
+  "org/openpnp/machine/reference/ReferenceNozzleTip.class"
+ ],
+ "Machine not yet homed, nozzle tip calibration request aborted": [
+  "org/openpnp/machine/reference/ReferenceNozzleTipCalibration.class"
+ ],
+ "Nozzle to nozzle tip mismatch.": [
+  "org/openpnp/machine/reference/ReferenceNozzleTipCalibration.class"
+ ],
+ "Calibrate the nozzle tip first.": [
+  "org/openpnp/machine/reference/ReferenceNozzleTipCalibration.class"
+ ],
+ "For calibration the bottom vision camera must be a ReferenceCamera.": [
+  "org/openpnp/machine/reference/ReferenceNozzleTipCalibration.class"
+ ],
+ "Non-color-keyed background elements are ": [
+  "org/openpnp/machine/reference/ReferenceNozzleTipCalibration.class"
+ ],
+ "too bright.<br/>Try to eliminate highlights and reflections.<br/>Use a shade behind the nozzle.<br/>Renew the blackening of dark parts of the nozzle tip.<br/>Clean the nozzle tip. If it is shiny, make it dull.<br/>Eliminate light sources that reflect on the nozzle tip.": [
+  "org/openpnp/machine/reference/ReferenceNozzleTipCalibration.class"
+ ],
+ "sufficiently dark. <br/>": [
+  "org/openpnp/machine/reference/ReferenceNozzleTipCalibration.class"
+ ],
+ "possibly too dark. <br/>Check camera exposure.<br/>": [
+  "org/openpnp/machine/reference/ReferenceNozzleTipCalibration.class"
+ ],
+ "quite dark. Perfect!<br/>": [
+  "org/openpnp/machine/reference/ReferenceNozzleTipCalibration.class"
+ ],
+ "The key color is ": [
+  "org/openpnp/machine/reference/ReferenceNozzleTipCalibration.class"
+ ],
+ "Check camera white balance (see the Wiki).<br/>": [
+  "org/openpnp/machine/reference/ReferenceNozzleTipCalibration.class"
+ ],
+ "sufficiently consistent.<br/>": [
+  "org/openpnp/machine/reference/ReferenceNozzleTipCalibration.class"
+ ],
+ "very consistent. Perfect!<br/>": [
+  "org/openpnp/machine/reference/ReferenceNozzleTipCalibration.class"
+ ],
+ "not detectable.<br/>": [
+  "org/openpnp/machine/reference/ReferenceNozzleTipCalibration.class"
+ ],
+ "sufficiently saturated.<br/>": [
+  "org/openpnp/machine/reference/ReferenceNozzleTipCalibration.class"
+ ],
+ "very vivid. Perfect!<br/>": [
+  "org/openpnp/machine/reference/ReferenceNozzleTipCalibration.class"
+ ],
+ "Background elements are ": [
+  "org/openpnp/machine/reference/ReferenceNozzleTipCalibration.class"
+ ],
+ "Cannot calibrate nozzle tip with part on nozzle \u0001.": [
+  "org/openpnp/machine/reference/ReferenceNozzleTipCalibration.class"
+ ],
+ "Nozzle tip \u0001 on \u0001 calibration: too many vision misdetects. Check the allowable distance threshold and/or computer vision. Failure information can be found in the log.": [
+  "org/openpnp/machine/reference/ReferenceNozzleTipCalibration.class"
+ ],
+ "not consistent enough.<br/>\u0001Clean the nozzle tip. If it is shiny, make it dull.<br/>Eliminate light sources that reflect on the nozzle tip..<br/>": [
+  "org/openpnp/machine/reference/ReferenceNozzleTipCalibration.class"
+ ],
+ "not vivid enough.<br/>\u0001Clean the nozzle tip. If it is shiny, make it dull.<br/>Eliminate light sources that reflect on the nozzle tip.<br/>": [
+  "org/openpnp/machine/reference/ReferenceNozzleTipCalibration.class"
+ ],
+ "Background calibration computation time: \u0001s": [
+  "org/openpnp/machine/reference/ReferenceNozzleTipCalibration.class"
+ ],
+ "Not aligning {} as no compatible enabled aligners defined": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$Align.class"
+ ],
+ "Aligning %s for %s using nozzle %s.": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$Align.class"
+ ],
+ "No part vacuum-detected after alignment. Part may have been lost in transit.": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$Align.class"
+ ],
+ "Suppressing error from getPartAlignmentLocation for part \u0001": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$AlignLocator.class"
+ ],
+ "Calibrate nozzle tip %s on nozzle %s": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$CalibrateNozzleTips.class"
+ ],
+ "No nozzle tip change needed for nozzle {}": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$ChangeNozzleTips.class"
+ ],
+ "Change nozzle tip on nozzle %s to %s.": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$ChangeNozzleTips.class"
+ ],
+ "Restarting the job now.": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$ChangeNozzleTips.class"
+ ],
+ "Cleaning up.": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$Cleanup.class"
+ ],
+ "Park head.": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$Cleanup.class"
+ ],
+ "align step": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$EndCameraBatchOperation.class",
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$StartCameraBatchOperation.class"
+ ],
+ "Error in EndCameraBatchOperation": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$EndCameraBatchOperation.class"
+ ],
+ "Checking remaining fiducials.": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$FiducialCheck.class"
+ ],
+ "Checking all fiducials.": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$FiducialCheck.class"
+ ],
+ "Checking fiducials at level \u0001.": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$FiducialCheck.class"
+ ],
+ "Errored Placements: \u0001": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$Finish.class"
+ ],
+ "Feed %s on %s.": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$Pick.class"
+ ],
+ "Pick %s from %s for %s using nozzle %s.": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$Pick.class"
+ ],
+ "No part vacuum-detected after pick.": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$Pick.class"
+ ],
+ "Part mismatch with part on nozzle before pick. Found \u0001 but expected the nozzle to be empty.": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$Pick.class"
+ ],
+ "Placing %s for %s using nozzle %s.": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$Place.class"
+ ],
+ "No part on nozzle before place.": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$Place.class"
+ ],
+ "Part mismatch with part on nozzle before place.": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$Place.class"
+ ],
+ "No part vacuum-detected on nozzle before place.": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$Place.class"
+ ],
+ "Part vacuum-detected on nozzle after place.": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$Place.class"
+ ],
+ "error null placement location for \u0001": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$PlaceLocator.class"
+ ],
+ "Planning placements.": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$Plan.class"
+ ],
+ "Planned placements {}": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$Plan.class"
+ ],
+ "Selected nozzle tips:": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$Plan.class"
+ ],
+ "JobProcessor:Plan(): unhandled jobOrder \u0001": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$Plan.class"
+ ],
+ "Unhandled Error Handling case \u0001": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$PlannedPlacementStep.class"
+ ],
+ "Checking job for setup errors.": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$PreFlight.class"
+ ],
+ "Part not found for board %s, placement %s.": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$PreFlight.class"
+ ],
+ "No package set for part %s.": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$PreFlight.class"
+ ],
+ "No part height sensing method found for part %s. Check camera, contact probe nozzle and compatible, loadable nozzle tips for height sensing settings or set part height manually.": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$PreFlight.class"
+ ],
+ "No compatible, loadable nozzle tip found for part %s.": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$PreFlight.class"
+ ],
+ "Preparing machine.": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$PreFlight.class"
+ ],
+ "Preparing feeders.": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$PreFlight.class"
+ ],
+ "This board contains at least one duplicate ID entry: %s ": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$PreFlight.class"
+ ],
+ "Alternate plan accepted {} better than {}": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$SimplePnpJobPlanner.class"
+ ],
+ "TravelCost() failed, skipping second placement optimiation": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor$SimplePnpJobPlanner.class"
+ ],
+ "Can't initialize with a null Job.": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor.class"
+ ],
+ "job abort": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor.class"
+ ],
+ "Feeder pick location must not be null": [
+  "org/openpnp/machine/reference/ReferencePnpJobProcessor.class"
+ ],
+ "Simulation Mode": [
+  "org/openpnp/machine/reference/SimulationModeMachine.class",
+  "org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+ ],
+ "Nozzle \u0001 part \u0001 pick location not recognized.": [
+  "org/openpnp/machine/reference/SimulationModeMachine.class"
+ ],
+ "Nozzle \u0001 part \u0001 place location not recognized.": [
+  "org/openpnp/machine/reference/SimulationModeMachine.class"
+ ]
+}
