@@ -1,0 +1,1339 @@
+{
+"\u0001scripting engine created in \u0001 milliseconds": [
+"org/openpnp/scripting/ScriptEngineKeyedPooledObjectFactory.class"
+],
+"\u0001 scripting engine borrowed from pool in \u0001 milliseconds": [
+"org/openpnp/scripting/Scripting.class"
+],
+"\u0001 engine created \u0001, borrowed \u0001 times": [
+"org/openpnp/scripting/Scripting.class"
+],
+"rundll32 url.dll,FileProtocolHandler \u0001": [
+"org/openpnp/util/UiUtils.class"
+],
+"<html><p>This platform does not support direct web browsing.</p><br/><p>However, the URI was copied to the clipboard, please paste into your favorite browser's address line.</p><br/><p><a href=\"\u0001\">\u0001</a></p></html>": [
+"org/openpnp/util/UiUtils.class"
+],
+"[FeederVisionHelper] calibrated hole locations are: \u0001, \u0001": [
+"org/openpnp/util/FeederVisionHelper.class"
+],
+"Unrecognized result type (should be Result.Circle, RotatedRect, KeyPoint): \u0001": [
+"org/openpnp/util/FeederVisionHelper.class"
+],
+"stroke:blue; fill:white;": [
+"org/openpnp/util/TravellingSalesman.class"
+],
+"stroke:green; fill:white;": [
+"org/openpnp/util/TravellingSalesman.class"
+],
+"<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<svg xmlns=\"http://www.w3.org/2000/svg\"\n  xmlns:xlink=\"http://www.w3.org/1999/xlink\"\n  version=\"1.1\" baseProfile=\"full\"\n  width=\"100%\" height=\"100%\"\n  viewBox=\"\u0001 \u0001 \u0001 \u0001\">\r\n": [
+"org/openpnp/util/TravellingSalesman.class"
+],
+"<title>Travelling Salesman (\u0001 locations, \u0001mm, \u0001ms)</title>\n": [
+"org/openpnp/util/TravellingSalesman.class"
+],
+"<line x1=\"\u0001\" y1=\"\u0001\" x2=\"\u0001\" y2=\"\u0001\" style=\"stroke:lightgrey;\"/>": [
+"org/openpnp/util/TravellingSalesman.class"
+],
+"<circle cx=\"\u0001\" cy=\"\u0001\" r=\"2\" style=\"fill:lightgrey;\"/>\n": [
+"org/openpnp/util/TravellingSalesman.class"
+],
+"<line x1=\"\u0001\" y1=\"\u0001\" x2=\"\u0001\" y2=\"\u0001\" style=\"stroke:black;\"/>": [
+"org/openpnp/util/TravellingSalesman.class"
+],
+"<circle cx=\"\u0001\" cy=\"\u0001\" r=\"2\" style=\"": [
+"org/openpnp/util/TravellingSalesman.class"
+],
+"<html>\n": [
+"org/openpnp/util/XmlSerialize.class",
+"org/openpnp/machine/reference/solutions/GcodeDriverSolutions$20.class"
+],
+"    %s -> %s [ label = %s ];\n": [
+"org/openpnp/util/FiniteStateMachine.class"
+],
+"FIRMWARE_NAME:GcodeServer, FIRMWARE_URL:http%3A//openpnp.org, X-SOURCE_CODE_URL:https%3A//github.com/openpnp/openpnp, FIRMWARE_VERSION:\u0001, X-FIRMWARE_BUILD_DATE:Oct 23 2020 00:00:00": [
+"org/openpnp/util/GcodeServer.class"
+],
+"\u0001, X-AXES:\u0001, X-PAXES:\u0001\nok": [
+"org/openpnp/util/GcodeServer$Worker.class"
+],
+"<strong color=\"red\">Controlled by pipeline caller: \u0001=\u0001</strong><br/><br/>\u0001": [
+"org/openpnp/vision/pipeline/CvStage$CvStageBeanInfo.class"
+],
+"<html/>": [
+"org/openpnp/vision/pipeline/ui/PipelinePanel.class"
+],
+"%s is not compatible with %s colorspace. Only Grey colorspace is supported.": [
+"org/openpnp/vision/pipeline/stages/MinEnclosingCircle.class",
+"org/openpnp/vision/pipeline/stages/MinAreaRect.class"
+],
+"\u0001 Now trying root path.": [
+"org/openpnp/vision/pipeline/stages/ReadPartTemplateImage.class",
+"org/openpnp/vision/pipeline/stages/WritePartTemplateImage.class"
+],
+"CharacterMatch [x=\u0001, y=\u0001, width=\u0001, height=\u0001, ch=\"\u0001\", score=\u0001, charNum=\u0001]": [
+"org/openpnp/vision/pipeline/stages/SimpleOcr$CharacterMatch.class"
+],
+"{} rect: xy={}, {} area={} angle= {}°": [
+"org/openpnp/vision/pipeline/stages/FilterRects.class"
+],
+"<strong style=\"color:red;\">CAUTION, Quick&Dirty Hack:</strong> This will auto-detect the font size upwards and downwards of your currently set pointSize. This is a one-shot option, used while editing the pipeline. Once the detection is done, the switch is cleared.<br/>The process may take a while and appear to hang, be patient. Afterwards you need to switch stages to refresh the GUI.": [
+"org/openpnp/vision/pipeline/stages/SimpleOcr.class"
+],
+"[\u0001] auto-detecting at font size = \u0001pt": [
+"org/openpnp/vision/pipeline/stages/SimpleOcr.class"
+],
+"[\u0001] new best font size = \u0001pt, overallScore = \u0001, text = \u0001": [
+"org/openpnp/vision/pipeline/stages/SimpleOcr.class"
+],
+"    Swapping hue limits and setting invert to true.": [
+"org/openpnp/vision/pipeline/stages/MaskHsv.class"
+],
+"    Keeping hue limits as is and setting invert to false.": [
+"org/openpnp/vision/pipeline/stages/MaskHsv.class"
+],
+"rotatedRectsStageName must be specified.": [
+"org/openpnp/vision/pipeline/stages/DrawRotatedRects.class"
+],
+"<<< filtered out rect with size=\u0001, because filter size is = \u0001x\u0001": [
+"org/openpnp/vision/pipeline/stages/ClosestModel.class"
+],
+"[\u0001] affineWarp must not generate an image that is larger than the original": [
+"org/openpnp/vision/pipeline/stages/AffineWarp.class"
+],
+"[\u0001] getAffineTransform() cannot invert transformation": [
+"org/openpnp/vision/pipeline/stages/AffineWarp.class"
+],
+"%YAML:1.0\nthresholdStep: \u0001\nminThreshold: \u0001\nmaxThreshold: \u0001\nminRepeatability: \u0001\nminDistBetweenBlobs: \u0001\nfilterByColor: \u0001\nblobColor: \u0001\nfilterByArea: \u0001\nminArea: \u0001\nmaxArea: \u0001\nfilterByCircularity: \u0001\nminCircularity: \u0001\nmaxCircularity: \u0001\nfilterByInertia: \u0001\nminInertiaRatio: \u0001\nmaxInertiaRatio: \u0001\nfilterByConvexity: \u0001\nminConvexity: \u0001\nmaxConvexity: \u0001\n": [
+"org/openpnp/vision/pipeline/stages/SimpleBlobDetector.class"
+],
+"ellipsesStageName must be specified.": [
+"org/openpnp/vision/pipeline/stages/DrawEllipses.class"
+],
+"TemplateMatch [x=\u0001, y=\u0001, width=\u0001, height=\u0001, score=\u0001]": [
+"org/openpnp/vision/pipeline/CvStage$Result$TemplateMatch.class"
+],
+"\u0001 LensModel not yet supported. OpenCV 3+ needed.": [
+"org/openpnp/vision/LensCalibration.class"
+],
+"\u0001 dwell for pump on \u0001ms": [
+"org/openpnp/spi/base/AbstractHead.class"
+],
+"\u0001 dwell for pump on, keep running \u0001ms": [
+"org/openpnp/spi/base/AbstractHead.class"
+],
+"<html><p>Axis currently assigned in:</p><ul>\u0001</ul><p>Are you sure you want to delete \u0001?</p></html>": [
+"org/openpnp/spi/base/AbstractAxis$1.class"
+],
+"<html>Center the camera on the pick location and press this button to Auto-Setup <br/>If there are multiple picks per feed cycle, choose the one closest to the tape reel.</html>": [
+"org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard$8.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$9.class"
+],
+"<html><p>This may overwrite all your current settings. Are you sure?</p></html>": [
+"org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard$8.class"
+],
+"<html>Discard parts left over in the (multi-part) feed cycle.<br/>\r\nStarts with a fresh feed cycle including vision calibration (if enabled). \r\n</html>": [
+"org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"<html>Rotation of the part inside the tape as seen when the sprocket holes <br/>\r\nare on top. Your E-CAD part orientation is the reference.<br/>\r\nSee also: \r\n<ul>\r\n<li>EIA-481</li>\r\n<li>Component Zero Orientations for CAD Libraries</li>\r\n</ul>\r\n</html>": [
+"org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"<html>\n<p>The <strong>Rotation in Tape</strong> setting must be interpreted relative to the tape's orientation, <br/>\nregardless of how the feeder/tape is oriented on the machine. </p>\n<ol>\n<li>\n<p>Look at the <strong>neutral</strong> upright orientation of the part package/footprint <br/>\nas drawn inside your E-CAD <strong>library</strong>.</p>\n</li>\n<li>\n<p>Note how pin 1, polarity, cathode etc. are oriented.  <br/>\nThis is your 0° for the part.</p>\n</li>\n<li>\n<p>Look at the tape so that the sprocket holes are at the top. <br/>\nThis is your 0° tape orientation (per EIA-481 industry standard).</p>\n</li>\n<li>\n<p>Determine how the part is rotated inside the tape pocket, <em>relative</em> from  <br/>\nits upright orientation in (1).  Positive rotation goes counter-clockwise.<br/>\nThis is your <strong>Rotation in Tape</strong>.</p>\n</li>\n</ol>\n</html>": [
+"org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"<html>Pick Location of the part. If multiple are produced by a feed operation<br/>\r\nthis must be the last one picked i.e. the one closest to the the tape reel.</html>": [
+"org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"<html>Choose Hole 1 closer to the tape reel.<br/>\r\nIf possible choose two holes that bracket the part(s) to be picked.\r\n</html>": [
+"org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"<html>Choose Hole 2 further away from the tape reel.<br/>\r\nIf possible choose two holes that bracket the part(s) to be picked.\r\n</html>": [
+"org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"<html>\r\n<p>Choose the vision type, then press <strong>Reset Pipeline</strong> to assign the<br/>\r\ndefault pipeline of that type. Sprocket holes are detected as follows:</p>\r\n<ul>\r\n<li><strong>ColorKeyed</strong>: the background under the holes must be of a vivid color<br/>\r\n(green by default).</li>\r\n<li><strong>CircularSymmetry</strong>: the shape of the holes must be circular, their<br/>\r\ninside/outside must be plain.</li>\r\n</ul>\r\n<p>Both types of pipeline will further assess detected holes by size, alignment, pitch<br/>\r\nand expected distance.</p>\r\n</html>": [
+"org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"<html>\r\n<p>For Duble: numerical value<br/>\r\nFor Boolean: 1 = True, 0 = False</p></html>": [
+"org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class"
+],
+"<html>Do atomic feed, i.e. not full feed based on <i>Part&Feed pitch</i>.</html>": [
+"org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class"
+],
+"<html>\r\n<p>Select the actuator for the post pick action<br/>\r\nThis is optional: blank selection will skip the post pick operation\r\n</p></html>": [
+"org/openpnp/machine/pandaplacer/BambooFeederAutoVisionConfigurationWizard.class"
+],
+"ensureOpen [cameraId:%d] failed": [
+"org/openpnp/machine/neoden4/Neoden4Camera.class"
+],
+"internalCapture() done in: %d": [
+"org/openpnp/machine/neoden4/Neoden4Camera.class"
+],
+"imgSetGain() [cameraId:%d, gain:%d]": [
+"org/openpnp/machine/neoden4/Neoden4Camera.class"
+],
+"Neoden moveStep %d, %d": [
+"org/openpnp/machine/neoden4/NeoDen4Driver.class"
+],
+"moveXy timeout while waiting for status==ready": [
+"org/openpnp/machine/neoden4/NeoDen4Driver.class"
+],
+"xMs, yMs changed to %d,%d": [
+"org/openpnp/machine/neoden4/NeoDen4Driver.class"
+],
+"changeFeederId, oldId=%d, newId=%d": [
+"org/openpnp/machine/neoden4/NeoDen4Driver.class"
+],
+"changeFeederId oldId must be between 0-99.": [
+"org/openpnp/machine/neoden4/NeoDen4Driver.class"
+],
+"changeFeederId newId must be between 0-99.": [
+"org/openpnp/machine/neoden4/NeoDen4Driver.class"
+],
+"(Stored in Feeder NVMEM)": [
+"org/openpnp/machine/neoden4/wizards/NeoDen4FeederActuatorConfigurationWizard.class"
+],
+"AOI X:%d, Y:%d, W:%d, H:%d": [
+"org/openpnp/machine/neoden4/Neoden4Feeder.class"
+],
+"Planner complete in {}ms: {} open, {}": [
+"org/openpnp/machine/reference/ReferencePnpJobProcessor$Plan.class"
+],
+"Planner failed to plan any placements. Please contact support.": [
+"org/openpnp/machine/reference/ReferencePnpJobProcessor$Plan.class"
+],
+"Placements sorting using {} completed in {}ms": [
+"org/openpnp/machine/reference/ReferencePnpJobProcessor$Plan.class"
+],
+"{}.getPickLocation: feedCount larger then tray, limiting to maximum.": [
+"org/openpnp/machine/reference/feeder/ReferenceRotatedTrayFeeder.class",
+"org/openpnp/machine/reference/feeder/ReferenceTrayFeeder.class"
+],
+"[BlindsFeeder.isCoverOpenChecked] pocketPosition: {}, pocketDistance {}, error {}": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder.class"
+],
+"Unrecognized result type (should be RotatedRect): \u0001": [
+"org/openpnp/machine/reference/feeder/BlindsFeeder$FindFeatures.class"
+],
+"\u0001 with part <strong>\u0001</strong>": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"\u0001 selected by common tape & reel specification <strong>\u0001</strong>": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"\u0001 selected by common package <strong>\u0001</strong>": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"\u0001 selected as partial match.<br/><strong style=\"color:red\">Tape & reel specifications/packages are incompatible, settings must be reviewed.</strong>": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"\u0001<strong>None found</strong>": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"OCR detected different part in feeder \u0001, current part \u0001 vs. OCR part \u0001. Action performed: \u0001. Please review.": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"<p>Feeder \u0001: current part \u0001, OCR part \u0001. Action performed: \u0001.</p>": [
+"org/openpnp/machine/reference/feeder/ReferencePushPullFeeder.class"
+],
+"\u0001 used by current job": [
+"org/openpnp/machine/reference/feeder/wizards/ReferenceStripFeederConfigurationWizard.class"
+],
+"Centerline of the pockets i.e. the perpendicular distance between the tape pocket centerline and fiducial 1.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederConfigurationWizard.class"
+],
+"<br/><p color=\"red\">This feeder is marked as template. Are you really, really sure?</p>": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$9.class"
+],
+"<html><p>This may overwrite all your current settings. Are you sure?</p>\u0001</html>": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$9.class"
+],
+"<html>Locations that are included, when actuating multiple times.<br/>\r\nThe combination with the push ↓ and pull ↑ switch is taken.</html>": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"<html>Before the feed is performed, the current coordinate of the Rotation axis is taken.<br/>\nRotations stated below are then added to that base angle.<br/>\nThis is typically used for peeling axes, creating a continuous cover tape spool wind-up.\n</html>": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard.class"
+],
+"<html>\r\nNormalize the fiducial distances and shear to the theoretically correct <br />\r\nvalues (whole millimeter square grid). This means you trust the mechanics  <br />\r\nof your machine and of your 3D printer over the computer vision fiducial fixes.  <br />\r\nOverall absolute position and angle are still determined by vision. \r\n</html>": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard.class"
+],
+"<html><p>Use vision for fiducial calibration when the feeder is first used. </p>\r\n<p>Even if fiducial vision is disabled, vision will still be used for setup and <br />\r\ncover open checking</p><html>": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard.class"
+],
+"<html>Size of the margin where the OCR/Barcode labels are attached.<br/>When a negative value is given, the labels are assumed to be located at the end of the feeder.": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard.class"
+],
+"<html>Name of the OCR font to be recognized or [Barcode].<br/>\r\nMonospace fonts work much better, allow lower resolution and therefore faster <br/>\r\noperation. Use a font where all the used characters are easily distinguishable.<br/>\r\nFonts with clear separation between glyphs are much preferred.</html>": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"<html>Reset the current rotation axis to <strong>0°</strong> for subsequent<br/>capturing/positioning using the location buttons in additive mode.</html>": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullMotionConfigurationWizard$3.class"
+],
+"<html>Clone the settings from this feeder to all compatible feeders.</html>": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$14.class"
+],
+"<html>This will overwrite the selected settings in all the target feeders:<br/><br/>\u0001<br/><br/>   Are you sure?</html>": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$14.class"
+],
+"<html>Perform OCR and assign the recognized part.</html>": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$12.class"
+],
+"<html>\u0001</html>": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$12.class",
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$10.class"
+],
+"<html>Go to all the feeders with OCR and rediscover the parts loaded in them. </html>": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$10.class"
+],
+"<html>Add one more feeder like this one, advancing in a row.</html>": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$15.class"
+],
+"<html>Determines what action should be taken when OCR detects the wrong Part ID in the feeder.<br/> \r\n<ul>\r\n<li>\r\n<strong>None</strong>: Use this setting if you don't want to use OCR.</li>\r\n<li>\r\n<strong>SwapFeeders</strong>: If a wrong part is detected but the right part is selected<br/>\r\nin a different ReferencePushPullFeeder, the locations of the two feeders are swapped. The<br/>\r\nswapped-in feeder will be enabled. This will happen, if you unload/reload/rearrange your<br/>\r\nfeeders on the machine.</li>\r\n<li>\r\n<strong>SwapOrCreate</strong>: Works like <strong>SwapFeeders</strong>, but if no<br/>\r\nother feeder with the right part is found, a new one will be created and swapped-in at the<br/>\r\ncurrent feeder's location. The current feeder is then disabled in turn (they are now sitting at<br/>\r\nthe same location and only one must be enabled).</li>\r\n<li>\r\n<strong>ChangePart</strong>: The part in the current feeder is changed. This will only<br/>\r\nwork correctly, if the tape settings etc. remain the same between the parts i.e. if you restrict<br/>\r\nany reloading/rearranging to groups of feeders with the same settings.</li>\r\n<li>\r\n<strong>ChangePartAndClone</strong>: The part in the current feeder is changed but<br/>\r\nsettings are cloned from a template feeder.</li>\r\n</ul>\r\n</html>\r\n": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"<html>On Job Start, check that the correct parts are selected in OCR-enabled feeders at their locations. <br/>\r\nOtherwise the Job is stopped.<br/>\r\nThis will also vision-calibrate the feeders' locations, if calibration is enabled.</html>": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"<html>Use this feeder as a template for cloning settings to other feeders. <br/>\r\nThe templates are matched by tape & reel specification or package of the parts <br/>\r\nloaded in feeders. <br/>\r\nWhen no template matches formally, the feeder \nwith the greatest similarities <br/>\r\nis taken (feed pitch, tape width, proximity, etc.).</html>": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard.class"
+],
+"<html>Moves the camera to the vision location and lets you select the OCR region of interest.</html>": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$11.class"
+],
+"<html><p>Files extracted to:</p><p>\u0001</p><p>Cannot open with OpenSCAD automatically (Desktop command failed)</p>": [
+"org/openpnp/machine/reference/feeder/wizards/BlindsFeederArrayConfigurationWizard$2.class"
+],
+"<html>Clone the settings from the selected template feeder, <br/>transforming any coordinates to the pick location and orientation.</html>": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$13.class"
+],
+"<html><p>This will overwrite the selected settings with those from the template:<br/><br/>\u0001<br/><br/>Are you sure?": [
+"org/openpnp/machine/reference/feeder/wizards/ReferencePushPullFeederConfigurationWizard$13.class"
+],
+"No optimisation possible: {} rank {}": [
+"org/openpnp/machine/reference/ReferencePnpJobProcessor$SimplePnpJobPlanner.class"
+],
+"Camera position error %.3f, %.3f, Runout %.3f, Phase %.3f, Peak err %.3f, RMS err %.3f %s": [
+"org/openpnp/machine/reference/ReferenceNozzleTipCalibration$ModelBasedRunoutNoOffsetCompensation.class"
+],
+"Nozzle tip %s changer slot empty template at pixel offset %f, %f, score %f": [
+"org/openpnp/machine/reference/ReferenceNozzleTip.class"
+],
+"Nozzle tip %s changer slot occupied template at pixel offset %f, %f, score %f": [
+"org/openpnp/machine/reference/ReferenceNozzleTip.class"
+],
+"G21 ; Set millimeters mode\nG90 ; Set absolute positioning mode\nM82 ; Set absolute mode for extruder": [
+"org/openpnp/machine/reference/driver/GcodeDriver.class"
+],
+"G28 ; Home all axes": [
+"org/openpnp/machine/reference/driver/GcodeDriver.class"
+],
+"G92 {XL}{X:%.4f} {YL}{Y:%.4f} {ZL}{Z:%.4f} {RotationL}{Rotation:%.4f} ; Reset current position to given coordinates": [
+"org/openpnp/machine/reference/driver/GcodeDriver.class"
+],
+"{Acceleration:M204 S%.1f} G0 {XL}{X:%.4f} {YL}{Y:%.4f} {ZL}{Z:%.4f} {RotationL}{Rotation:%.4f} {FeedRate:F%.1f} ; Send standard Gcode move": [
+"org/openpnp/machine/reference/driver/GcodeDriver.class"
+],
+"Actuator \"%s\" read error: Regex is missing \"Value\" capturing group. See https://github.com/openpnp/openpnp/wiki/GcodeDriver#actuator_read_regex": [
+"org/openpnp/machine/reference/driver/GcodeDriver.class"
+],
+"Actuator \"%s\" read error: Failed to parse response. See https://github.com/openpnp/openpnp/wiki/GcodeDriver#actuator_read_regex": [
+"org/openpnp/machine/reference/driver/GcodeDriver.class"
+],
+"{} empty command after pre process": [
+"org/openpnp/machine/reference/driver/GcodeDriver.class",
+"org/openpnp/machine/reference/driver/GcodeAsyncDriver.class"
+],
+"{} failed to write command {}": [
+"org/openpnp/machine/reference/driver/GcodeDriver.class"
+],
+"{} got response matching \"{}\" after {}ms": [
+"org/openpnp/machine/reference/driver/GcodeDriver.class"
+],
+"{}: Axis {} letter {} missing in POSITION_REPORT_REGEX groups.": [
+"org/openpnp/machine/reference/driver/GcodeDriver.class"
+],
+"{}: Error processing position report for axis {}: {}": [
+"org/openpnp/machine/reference/driver/GcodeDriver.class"
+],
+"=== Detecting firmware and position reporting, please ignore any errors and warnings.": [
+"org/openpnp/machine/reference/driver/GcodeDriver.class"
+],
+"=== End detecting firmware and position reporting.": [
+"org/openpnp/machine/reference/driver/GcodeDriver.class"
+],
+"\"%s\" read error: No matching responses found.": [
+"org/openpnp/machine/reference/driver/GcodeDriver.class"
+],
+"\u0001 waiting for connection \u0001ms": [
+"org/openpnp/machine/reference/driver/GcodeDriver.class"
+],
+"\u0001 configuration error: missing GET_POSITION_COMMAND.": [
+"org/openpnp/machine/reference/driver/GcodeDriver.class"
+],
+"\u0001 configuration error: missing POSITION_REPORT_REGEX.": [
+"org/openpnp/machine/reference/driver/GcodeDriver.class"
+],
+"\u0001 timeout waiting for response to \u0001": [
+"org/openpnp/machine/reference/driver/GcodeDriver.class"
+],
+"\u0001 configuration error: Cannot enable both Letter Variables and Allow Pre-Move Commands.": [
+"org/openpnp/machine/reference/driver/GcodeDriver.class"
+],
+"\u0001 MOVE_TO_COMMAND missing for \u0001 \u0001, please set the command in the driver (no automatic support by Issues & Solutions due to driver Allow Pre-Move Commands option).": [
+"org/openpnp/machine/reference/driver/GcodeDriver.class"
+],
+"\u0001 MOVE_TO_COMMAND missing, please use Issues & Solutions to propose proper G-code commands.": [
+"org/openpnp/machine/reference/driver/GcodeDriver.class"
+],
+"\u0001 configuration upgrade needed: Please remove the extra backlash compensation move from your MOVE_TO_COMMAND. Backlash compensation is now done outside of the drivers and configured on the axes.": [
+"org/openpnp/machine/reference/driver/GcodeDriver.class"
+],
+"\u0001 configuration upgrade needed: Please remove the extra backlash compensation move from your MOVE_TO_COMMAND. Backlash compensation is now done outside of the drivers.": [
+"org/openpnp/machine/reference/driver/GcodeDriver.class"
+],
+"\u0001 configuration error: COMMAND_CONFIRM_REGEX missing. Not waiting for confirmation.": [
+"org/openpnp/machine/reference/driver/GcodeDriver.class"
+],
+"\u0001 error response from controller: \u0001": [
+"org/openpnp/machine/reference/driver/GcodeDriver.class"
+],
+"\u0001 IO Error on reading from the controller.": [
+"org/openpnp/machine/reference/driver/GcodeDriver.class"
+],
+"[{}] Failed to read gcode response": [
+"org/openpnp/machine/reference/driver/GcodeDriver$ReaderThread.class"
+],
+"[{}] Read error while disconnecting (expected)": [
+"org/openpnp/machine/reference/driver/GcodeDriver$ReaderThread.class"
+],
+"\u0001 already exists. Do you want to replace it?": [
+"org/openpnp/machine/reference/driver/wizards/GcodeDriverGcodes$4.class",
+"org/openpnp/machine/reference/driver/wizards/GcodeDriverSettings$2.class"
+],
+"{} waited {}ms for empty command queue.": [
+"org/openpnp/machine/reference/driver/GcodeAsyncDriver.class"
+],
+"{} timeout while waiting for empty command queue.": [
+"org/openpnp/machine/reference/driver/GcodeAsyncDriver.class"
+],
+"{} waited {}ms to drain command queue.": [
+"org/openpnp/machine/reference/driver/GcodeAsyncDriver.class"
+],
+"\u0001 IO Error on writing to the controller.": [
+"org/openpnp/machine/reference/driver/GcodeAsyncDriver.class"
+],
+"\u0001 was interrupted while waiting for completion.": [
+"org/openpnp/machine/reference/driver/GcodeAsyncDriver.class"
+],
+"Job finished {} parts in {} sec. This is {} CPH": [
+"org/openpnp/machine/reference/ReferencePnpJobProcessor$Finish.class"
+],
+"Job finished with %d errors, placed %s parts in %s sec. (%s CPH)": [
+"org/openpnp/machine/reference/ReferencePnpJobProcessor$Finish.class"
+],
+"Job finished without error, placed %s parts in %s sec. (%s CPH)": [
+"org/openpnp/machine/reference/ReferencePnpJobProcessor$Finish.class"
+],
+"<cv-pipeline><stages><cv-stage class=\"org.openpnp.vision.pipeline.stages.ImageCapture\" name=\"image\" enabled=\"true\" default-light=\"true\" settle-option=\"SettleFullArea\" count=\"1\"/><cv-stage class=\"org.openpnp.vision.pipeline.stages.DetectCircularSymmetry\" name=\"detect_circle\" enabled=\"true\" min-diameter=\"18\" max-diameter=\"25\" max-distance=\"100\" search-width=\"0\" search-height=\"0\" max-target-count=\"1\" min-symmetry=\"1.2\" corr-symmetry=\"0.0\" property-name=\"DetectCircularSymmetry\" outer-margin=\"0.1\" inner-margin=\"0.1\" sub-sampling=\"8\" super-sampling=\"8\" diagnostics=\"false\" heat-map=\"false\"/><cv-stage class=\"org.openpnp.vision.pipeline.stages.ConvertModelToKeyPoints\" name=\"results\" enabled=\"true\" model-stage-name=\"detect_circle\"/></stages></cv-pipeline>": [
+"org/openpnp/machine/reference/camera/calibration/AdvancedCalibration.class"
+],
+"Calib3d.calibrateCamera rms = \u0001": [
+"org/openpnp/machine/reference/camera/calibration/AdvancedCalibration.class"
+],
+"autoSettleAndCapture t=\u0001 auto settle score: \u0001 compute time: \u0001": [
+"org/openpnp/machine/reference/camera/AbstractSettlingCamera.class"
+],
+"\u0001 settling fixed time \u0001ms": [
+"org/openpnp/machine/reference/camera/AbstractSettlingCamera.class"
+],
+"\u0001 switcher actuator delay \u0001ms": [
+"org/openpnp/machine/reference/camera/SwitcherCamera.class"
+],
+"(physical camera to use)": [
+"org/openpnp/machine/reference/camera/wizards/OpenCvCameraConfigurationWizard.class"
+],
+"(Use 0 for native resolution)": [
+"org/openpnp/machine/reference/camera/wizards/OpenCvCameraConfigurationWizard.class"
+],
+"<html>Auto-Focus the selected nozzle in this camera.<br/>If a part is on the nozzle, its height will be determined.</html>": [
+"org/openpnp/machine/reference/camera/wizards/AutoFocusProviderConfigurationWizard$1.class"
+],
+"(leave blank for none)": [
+"org/openpnp/machine/reference/camera/wizards/OnvifIPCameraConfigurationWizard.class"
+],
+"(only supported resolutions shown)": [
+"org/openpnp/machine/reference/camera/wizards/OnvifIPCameraConfigurationWizard.class"
+],
+"(Use 0 for no resizing)": [
+"org/openpnp/machine/reference/camera/wizards/OnvifIPCameraConfigurationWizard.class"
+],
+"<html>After having auto-focused, adjust the camera Z coordinate<br/>to match the focal distance i.e. make sure the camera is focused.</html>": [
+"org/openpnp/machine/reference/camera/wizards/AutoFocusProviderConfigurationWizard$2.class"
+],
+"<html>This will overwrite the current camera Z position and therefore<br/>change the camera-to-subject distance and the subject scale.<br/><span color=\"red\">You will need to recalibrate the Units per Pixel!</span><br/><br/>Are you sure?</html>": [
+"org/openpnp/machine/reference/camera/wizards/AutoFocusProviderConfigurationWizard$2.class"
+],
+"{} simulate actuation, sleep 5ms": [
+"org/openpnp/machine/reference/SimulationModeMachine.class"
+],
+"<html><h3>Dynamic Safe Z</h3><p>If a part is on the nozzle, the nozzle is lifted to Safe Z <strong>+</strong> part height.</p><br/><p>Safe Z must only account for the tallest obstacle.</p><br/><p>This will result in faster, more optimized machine motion.</p><br/><p><strong>Recommended.</strong>.</p><br/></html>": [
+"org/openpnp/machine/reference/solutions/KinematicSolutions$2.class"
+],
+"<html><h3>Fixed Safe Z</h3><p>Safe Z is always at a fixed level.</p><br/><p>Safe Z must account for <em>both</em> the tallest obstacle <em>and</em> the tallest part on the nozzle.</p><br/><p>This will result in slower, less optimized machine motion.</p></html>": [
+"org/openpnp/machine/reference/solutions/KinematicSolutions$2.class"
+],
+"<tr><td align=\"right\">Previous Nozzle Head Offsets:</td><td>\u0001</td></tr><tr><td align=\"right\">Difference:</td><td>\u0001</td></tr>": [
+"org/openpnp/machine/reference/solutions/CalibrationSolutions$3.class"
+],
+"<br/><h4>Results:</h4><table><tr><td align=\"right\">Detected Nozzle Head Offsets:</td><td>\u0001</td></tr>\u0001</table>": [
+"org/openpnp/machine/reference/solutions/CalibrationSolutions$3.class"
+],
+"<html><p>To calibrate precision camera ↔ nozzle offsets, we let the nozzle pick, rotate and place a small test object and then measure the resulting offsets using the camera.</p><br/><p>Instructions about suitable test objects etc. must be obtained in the OpenPnP Wiki. Press the blue Info button (below) to open the Wiki.</p><br/><p>Place the calibration test object onto the calibration primary fiducial.</p><br/><p>Jog camera \u0001 over the test object. Target it with the cross-hairs.</p><br/><p>Adjust the <strong>Feature diameter</strong> up and down and see if it is detected right in the camera view. A green circle and cross-hairs should appear and hug the test object contour. Zoom the camera using the scroll-wheel.</p><br/><p><strong color=\"red\">CAUTION</strong> The nozzle \u0001 will move to the test object and perform the calibration pick & place pattern. Make sure to load the right nozzle tip and ready the vacuum system.</p><br/><p>When ready, press Accept.</p>\u0001</html>": [
+"org/openpnp/machine/reference/solutions/CalibrationSolutions$3.class"
+],
+"<html><span color=\"red\">CAUTION:</span> This is a troubleshooting option, you should only disable G-code compression if it causes problems.</html>": [
+"org/openpnp/machine/reference/solutions/GcodeDriverSolutions$15.class"
+],
+"<br/><h4>Results:</h4><table><tr><td align=\"right\">Detected Backlash:</td><td>\u0001</td></tr><tr><td align=\"right\">Selected Method:</td><td>\u0001</td></tr><tr><td align=\"right\">Sneak-up Distance:</td><td>\u0001</td></tr><tr><td align=\"right\">Speed Factor:</td><td>\u0001</td></tr><tr><td align=\"right\">Applicable Resolution:</td><td>\u0001 mm</td></tr></table>": [
+"org/openpnp/machine/reference/solutions/CalibrationSolutions$1.class"
+],
+"<html><p>Backlash compensation is used to avoid the effects of any looseness or play in the mechanical linkages of machine axes. More information can be found in the Wiki (press the blue Info button below).</p><br/><p>Set the acceptable <strong>Tolerance ±</strong> as high as possible to allow for a more efficient backlash compensation method, avoiding extra moves and direction changes.</p><br/><p><strong color=\"red\">CAUTION 1</strong>: The camera \u0001 will move over the primary fiducial and then perform a calibration motion pattern, moving the axis \u0001 over its full soft-limit range.</p><br/><p><strong color=\"red\">CAUTION 2</strong>: The machine will also perform a visual homing cycle, once the new backlash compensation method is established. This is done to recalibrate the coordinate system that might be affected by the new method.</p><br/><p>When ready, press Accept.</p>\u0001</html>": [
+"org/openpnp/machine/reference/solutions/CalibrationSolutions$1.class"
+],
+" even with the tallest part on the nozzle": [
+"org/openpnp/machine/reference/solutions/KinematicSolutions$4.class"
+],
+"<br/><p>Note: optimizing Safe Z will improve your overall motion speed, however your nozzles may appear unbalanced and they will sometimes see-saw during motion. If you rather prefer a strictly symmetric appearance, you might want to dismiss this solution, and setup Safe Z manually.</p>": [
+"org/openpnp/machine/reference/solutions/KinematicSolutions$4.class"
+],
+"<html><p>Jog \u0001 over the tallest obstacle on your machine, including the the tallest parts that may be placed on the PCB.</p><br/><p>Then lower it down so it still has sufficient clearance\u0001.</p><br/><p>Then press Accept to capture the Safe Z.</p>\u0001</html>": [
+"org/openpnp/machine/reference/solutions/KinematicSolutions$4.class"
+],
+"<html>Suggested templates for the <code>\u0001</code>.<br/><br/>\n<strong>CAUTION:</strong> You may need to adapt these to your specific <br/>\n\u0001, controller and/or \u0001.<br/>\nReplace placeholders ¿ with the proper numbers/letters/designators.</html>": [
+"org/openpnp/machine/reference/solutions/ActuatorSolutions$ActuatorGcodeIssue.class"
+],
+"\u0001 must not be empty": [
+"org/openpnp/machine/reference/solutions/ActuatorSolutions$ActuatorGcodeIssue.class"
+],
+"\u0001 still contains placeholders ¿. Please replace with the proper digits or letters specific to your controller/\u0001 configuration.": [
+"org/openpnp/machine/reference/solutions/ActuatorSolutions$ActuatorGcodeIssue.class"
+],
+"<html>\u0001-Switching<br/>\u0001</html>": [
+"org/openpnp/machine/reference/solutions/ActuatorSolutions$ActuatorGcodeIssue.class"
+],
+"<html><p>Move axis \u0001 to the \u0001 soft limit.</p><br/><p>Jog \u0001 of \u0001 \u0001 to do so.</p><br/><p>If the axis has a limit switch, use a position close to it but still safe to not trigger the switch by accident.</p><br/><p>Then press Accept to capture the lower soft limit.</p></html>": [
+"org/openpnp/machine/reference/solutions/KinematicSolutions$6.class"
+],
+"<html>By default, every time a script should be executed, a new instance of the appropriate script engine is created.<br><br>By enabling script engine pooling, a new instance of any script engine is only created if the pool doesn't contain an available instance of the appropriate type. Following executions re-use the already initialized script engines, lowering execution time for scripting hooks.This feature is only relevant if you use scripting in OpenPnP.<br><br><span style=\"color:red;\">Script engine pooling can - depending on the script engine implementation - cause global state to be kept in following invocations. Check the wiki for further information.</span></html>": [
+"org/openpnp/machine/reference/solutions/ScriptingSolutions$1.class"
+],
+"<html><p>You must be sure that your machine supports the homing command with the proper axis end-switches wired and configured.</p><br/><p>Press <strong>Accept</strong> to perform the homing.</p><br/><p>Afterwards, press <strong>Find Issues & Solutions</strong> again.</p></html>": [
+"org/openpnp/machine/reference/solutions/KinematicSolutions$1.class"
+],
+"<html><p>You already performed the preliminary camera calibration earlier, now it is time for the <strong>Advanced Camera Calibration</strong> that includes compensating lens distortion and camera mounting tilt. A more profound and precise 3D Units per Pixel calibration is also applied.</p><br/><p>More information can be found in the Wiki (press the blue Info button below).</p><br/><p>The calibration must be performed with the same calibration rig, that you used for the preliminary calibration. Make sure it is ready, and locations (including Z) are still valid.</p><br/><p>If not, please revisit the <strong>Primary calibration fiducial position</strong> and <strong>Secondary calibration fiducial position</strong> steps first (Enable the <strong>Include Solved?</strong> checkbox above, to see revisitable solutions).</p><br/><p><strong color=\"red\">CAUTION</strong>: The camera \u0001 will move over the calibration rig and perform a length calibration motion pattern.</p><br/></html>": [
+"org/openpnp/machine/reference/solutions/CalibrationSolutions$2.class"
+],
+"G21 ; Set millimeters mode \n": [
+"org/openpnp/machine/reference/solutions/GcodeDriverSolutions.class"
+],
+"G20 ; Set inches mode \n": [
+"org/openpnp/machine/reference/solutions/GcodeDriverSolutions.class"
+],
+"{Acceleration:M204 S%.2f ; Initialize acceleration}\n": [
+"org/openpnp/machine/reference/solutions/GcodeDriverSolutions.class"
+],
+"\u0001 failure to detect firmware": [
+"org/openpnp/machine/reference/solutions/GcodeDriverSolutions.class"
+],
+" The detected \u0001 controller is known to not (reliably) support serial flow-control.": [
+"org/openpnp/machine/reference/solutions/GcodeDriverSolutions.class"
+],
+"\u0001G90 ; Set absolute positioning mode": [
+"org/openpnp/machine/reference/solutions/GcodeDriverSolutions.class"
+],
+"\u0001Replace G20 (inches) with G21 (millimeters). ": [
+"org/openpnp/machine/reference/solutions/GcodeDriverSolutions.class"
+],
+"\u0001Explicitly set millimeters mode. ": [
+"org/openpnp/machine/reference/solutions/GcodeDriverSolutions.class"
+],
+"G21 ; Set millimeters mode \n\u0001": [
+"org/openpnp/machine/reference/solutions/GcodeDriverSolutions.class"
+],
+"\u0001Replace G21 (millimeters) with G20 (inches). ": [
+"org/openpnp/machine/reference/solutions/GcodeDriverSolutions.class"
+],
+"\u0001Explicitly set inches mode. ": [
+"org/openpnp/machine/reference/solutions/GcodeDriverSolutions.class"
+],
+"G20 ; Set inches mode \n\u0001": [
+"org/openpnp/machine/reference/solutions/GcodeDriverSolutions.class"
+],
+"\u0001 ; Set all axes to home coordinates\n": [
+"org/openpnp/machine/reference/solutions/GcodeDriverSolutions.class"
+],
+"\u0001G92.1 ; Reset all offsets": [
+"org/openpnp/machine/reference/solutions/GcodeDriverSolutions.class"
+],
+"\u0001G28 ; Home all axes": [
+"org/openpnp/machine/reference/solutions/GcodeDriverSolutions.class"
+],
+"{Acceleration:M204 S%.\u0001f }": [
+"org/openpnp/machine/reference/solutions/GcodeDriverSolutions.class"
+],
+"\u0001{FeedRate:F%.\u0001f} ; move to target": [
+"org/openpnp/machine/reference/solutions/GcodeDriverSolutions.class"
+],
+"\u0001 \u0001 \u0001 obsolete with Letter Variables.": [
+"org/openpnp/machine/reference/solutions/GcodeDriverSolutions.class"
+],
+"<html><span color=\"red\">CAUTION:</span> This is a troubleshooting option, you should only keep G-code comments if removing them causes problems.</html>": [
+"org/openpnp/machine/reference/solutions/GcodeDriverSolutions$16.class"
+],
+"<html><span color=\"red\">CAUTION:</span> This is a troubleshooting option, you should only choose \u0001 if the current \u0001 causes problems and you want to try a simpler setting.</html>": [
+"org/openpnp/machine/reference/solutions/GcodeDriverSolutions$12.class"
+],
+"<html><p>Switch vision settings pre-rotate usage from <strong>\u0001</strong> to <strong>\u0001</strong> on these parts:</p><ol><li>\u0001</li><ol></html>": [
+"org/openpnp/machine/reference/solutions/AxisSolutions$4.class"
+],
+"<html><p>With <strong>Dynamic Safe Z</strong> enabled, the nozzle needs a head-room, the so-called Safe Z Zone to lift the nozzle higher with taller parts. The maximum expected part height is specified on the nozzle tip <strong>Max. Part Height</strong>.</p><br/><p>Nozzle \u0001 with compatible tip \u0001 has a <strong>Max. Part Height</strong> of \u0001 which is larger than the Safe Z Zone of \u0001. Note, the safe Z Zone is configured on the \u0001 axis to reach from \u0001 to \u0001 in (untransformed) coordinates.</p><br/><p>Please either enlarge the Safe Z Zone, by reducing the nozzle \u0001 Z clearance, or reduce the <strong>Max. Part Height</strong> on nozzle tip \u0001.</p><br/><p>Reducing Z clearance is best done by revisiting the Safe Z solution for nozzle \u0001. Enable the <strong>Include Solved?</strong> checkbox at the top, then reopen the \"Set Safe Z of \u0001\" solution and redo it.</p></html>": [
+"org/openpnp/machine/reference/solutions/KinematicSolutions$7.class"
+],
+"</p><br/><p><strong>Note:</strong> this change will be compensated in the Z head offset of \u0001\u0001so that Z coordinates captured before effectively remain the same.": [
+"org/openpnp/machine/reference/solutions/KinematicSolutions$5.class"
+],
+"<html><p>The cam transform on axis \u0001 with non-zero \u0001\u0001 is deprecated.</p><br/><p><strong color=\"red\">CAUTION:</strong> These offsets will create problems when Issues & Solutions wants to (re-)reference the Z coordinate system later. Failing to accept this solution may ultimately lead to a dead end in the machine setup process.</p><br/><p>Press <strong>Accept</strong> to remove the \u0001\u0001as recommended.\u0001</p></html>": [
+"org/openpnp/machine/reference/solutions/KinematicSolutions$5.class"
+],
+"<html><p>You already performed the preliminary camera calibration earlier, now it is time for the <strong>Advanced Camera Calibration</strong> that includes compensating lens distortion and camera mounting tilt. A more profound and precise 3D Units per Pixel calibration is also applied.</p><br/><p>More information can be found in the Wiki (press the blue Info button below).</p><br/><p>The calibration must be performed with the same nozzle tip, that you used for the preliminary calibration. Make sure it is loaded and its <strong>Vision Diameter</strong> is still valid. Furthermore the camera \u0001 position (including Z) must still be valid.</p><br/><p>If not, please revisit the <strong>Determine up-looking camera \u0001 position</strong> step first (Enable the <strong>Include Solved?</strong> checkbox above, to see revisitable solutions).</p><br/><p><strong color=\"red\">CAUTION</strong>: The nozzle \u0001 will perform a lengthy calibration motion pattern all over the view area of the camera \u0001. Before pressing <strong>Accept</strong>, you need to be sure nozzle \u0001 will not collide with anything!</p><br/></html>": [
+"org/openpnp/machine/reference/solutions/CalibrationSolutions$4.class"
+],
+"\u0001 to suspend camera preview during machine tasks / Jobs.": [
+"org/openpnp/machine/reference/solutions/CameraSolutions.class"
+],
+"\u0001 is missing a \u0001 actuator.": [
+"org/openpnp/machine/reference/solutions/ActuatorSolutions.class"
+],
+"{True:M¿ ; actuate \u0001 ON}\n{False:M¿ ; actuate \u0001 OFF}": [
+"org/openpnp/machine/reference/solutions/ActuatorSolutions.class"
+],
+"{StringValue} ; actuate \u0001 with direct string command value": [
+"org/openpnp/machine/reference/solutions/ActuatorSolutions.class"
+],
+"<html><p>Mount a permanent fiducial to your machine table. Choose a mounting point that is mechanically coupled to the most important parts of your machine table. Make sure it is very unlikely you will ever need to change this new frame of reference. The fiducial must be at the same Z level as the PCB surface. More information is avaible online, please press the blue Info button (below).</p><br/><p>Home the machine by means of your controller/manually. The controller must presently work in the wanted coordinate system.</p><br/><p>Jog camera \u0001 over the fiducial. Target it roughly with the cross-hairs.</p><br/><p>Adjust the <strong>Feature diameter</strong> up and down and see if it is detected right in the camera view. A green circle and cross-hairs should appear and hug the fiducial contour. Zoom the camera using the scroll-wheel.</p><br/><p>Then press Accept to detect the precise position of the fiducial and set it up for visual homing.</p><br/><p>Note: This will not change your present machine coordinate system, but rather pin it down to the fiducial. If the mechanics were to change slightly in the future (e.g. a homing end-switch slightly moved), the homing fiducial will still be able to precisely preserve the frame of reference in X and Y.</p></html>": [
+"org/openpnp/machine/reference/solutions/VisionSolutions$7.class"
+],
+"<html><p>Jog \u0001 to a suitable location where you can manually exchange the nozzle tips.</p><br/><p>Even if you (plan to) use an automatic nozzle tip changer, it is useful to have this location definied, in case you want to disable automatic changing temporarily.</p><br/><p>Often it is best to move Z all the way up so the tip is well reachable. On some head designs the uppermost Z position is blocked by a limiter, so it is the best position to apply the necessary force when inserting the nozzle tip.</p><br/><p>Note for experts: the captured location will be automatically adjusted if you change the nozzle head offsets later.</p><br/><p>Press <strong>Accept</strong> to store the location.</p><br/></html>": [
+"org/openpnp/machine/reference/solutions/NozzleTipSolutions$1.class"
+],
+"<html>": [
+"org/openpnp/machine/reference/solutions/NozzleTipSolutions$3.class",
+"org/openpnp/machine/reference/ReferenceNozzleTipCalibration.class",
+"org/openpnp/model/AbstractVisionSettings$ListConverter.class"
+],
+"<html><h3>Brighness and Key-Color</h3><p>The nozzle tip and/or background (shade) is color-keyed so computer vision can robustly distinguish background pixels from foreground pixels (\"green-screening\"). Use for green Juki style nozzles.</p></html>": [
+"org/openpnp/machine/reference/solutions/NozzleTipSolutions$3.class"
+],
+"<html><h3>Brightness</h3><p>The background is just dark, the foreground is distinguished by brighness only.</p><br/></html>": [
+"org/openpnp/machine/reference/solutions/NozzleTipSolutions$3.class"
+],
+"<br/><h4>Results</h4><p style=\"max-width: 40em\">\u0001</p><br/><p>More information on the Calibration tab of nozzle tip \u0001.</p>": [
+"org/openpnp/machine/reference/solutions/NozzleTipSolutions$3.class"
+],
+"<html><p>Select the proper background calibration.</p><br/><p><strong color=\"red\">CAUTION</strong>: Nozzle \u0001 will move over camera \u0001 and perform a new nozzle tip calibration calibration, including the enabled background calibration. Any problems will be indicated with purple highlights.</p><br/><p>When ready, press Accept.</p>\u0001</html>": [
+"org/openpnp/machine/reference/solutions/NozzleTipSolutions$3.class"
+],
+"<html><p>Up-looking camera calibration can be performed automatically by looking at a nozzle tip while moving the nozzle around in a certain pattern. This solution determines the X, Y position of the camera and it performs preliminary camera calibration.</p><br/><p>Load nozzle \u0001 with the smallest nozzle tip that you can reliably detect (it may take some trial and error).</p><br/><p>Jog nozzle \u0001 over the camera \u0001. Target it with the cross-hairs.</p><br/><p>Jog the nozzle tip point down in Z so it is in focus. This should be more or less on the same Z level as the PCB surface. If not, consider adjusting the camera focus to make it so.</p><br/><p>If enabled, auto-focus will be used to detect the precise Z location.</p><br/><p>Adjust the <strong>Feature diameter</strong> up and down and see if it is detected right in the camera view. A green circle and cross-hairs should appear and hug the wanted contour. Zoom the camera using the scroll-wheel.</p><br/><p>Make sure to target a circular edge that can be detected consistently even when seen from the side. This means it has to be a rather sharp-angled edge. Typically, the air bore contour is targeted.</p><br/><p>Then press Accept to capture the camera position.</p></html>": [
+"org/openpnp/machine/reference/solutions/VisionSolutions$5.class"
+],
+"<p><strong color=\"red\">CAUTION</strong>: The camera \u0001 will move over the primary fiducial and then perform a camera settling test pattern.</p><br/>": [
+"org/openpnp/machine/reference/solutions/CameraSolutions$5.class"
+],
+"<p><strong color=\"red\">CAUTION</strong>: The \u0001 \u0001 will move to the camera \u0001 and then perform a camera settling test pattern.</p><br/>": [
+"org/openpnp/machine/reference/solutions/CameraSolutions$5.class"
+],
+"<br/><h4>Results</h4><table><tr><td>Selected method:</td><td>\u0001</td></tr><tr><td>Compute time:</td><td>\u0001 ms per frame</td></tr><tr><td>Settle time:</td><td>\u0001 ms</td></tr></table><br/>\u0001<p>More information on the Camera Settling tab of camera \u0001.</p>": [
+"org/openpnp/machine/reference/solutions/CameraSolutions$5.class"
+],
+"<html><p>For precision in computer vision it is very important that the camera image has settled down after the machine has moved the camera or the subject. Some cameras exhibit a slight lag, where the frames might still show the camera in motion. Motion might also cause vibration that must abate sufficently before computer vision is performed.</p><br/><p>The simple solution is just to wait for a fixed amount of time. However, this is wasteful if there was no motion in the first place. Using an adaptive settling method can reduce the wait time in these cases, i.e. one does not need to set a large worst case settle wait time.</p><br/>\u0001<p>When ready, press Accept.</p>\u0001</html>": [
+"org/openpnp/machine/reference/solutions/CameraSolutions$5.class"
+],
+"<html><p>Camera calibration also requires looking at a secondary fiducial at different Z level. This will provide the calibration algorithm with the needed 3D/spacial information to determine the true focal length of the lens and the optical position of the camera in space.</p><br/><p>Instructions for how to create and position the secondary fiducial must be obtained in the OpenPnP Wiki. There are very important rules that must be observed, so don't miss it! Press the blue Info button (below) to open the Wiki.</p><br/><p>Once you have prepared the calibration secondary fiducial you can capture its position in X, Y.</p><br/><p>Jog camera \u0001 over the secondary fiducial. Target it roughly with the cross-hairs.</p><br/><p>Adjust the <strong>Feature diameter</strong> up and down and see if it is detected right in the camera view. A green circle and cross-hairs should appear and hug the fiducial contour. Zoom the camera using the scroll-wheel.</p><br/><p>Then press Accept to capture the position.</p></html>": [
+"org/openpnp/machine/reference/solutions/VisionSolutions$3.class"
+],
+"<html><h3>Detect the firmware automatically</h3><p>The M115 command must be supported by the firmware. Make sure the controller is connected to the computer and accept the solution to perform the detection.</p><br/><p>This might take a while!</p><br/><p>If the firmware is known by OpenPnP, it will be able to automatically generate G-code configuration for you.</html>": [
+"org/openpnp/machine/reference/solutions/GcodeDriverSolutions$3.class"
+],
+"<html><h3>Assume a generic G-code controller</h3><p>When the M115 command is not supported by your controller you can let OpenPnP propose a generic G-code configuration.</p><br/><p>You will likely need to hand-tune the G-code configuration to work with your controller.</p></html>": [
+"org/openpnp/machine/reference/solutions/GcodeDriverSolutions$3.class"
+],
+"<html><h3>Use Auto-Focus</h3><p>This is the recommended setting.</p></html>": [
+"org/openpnp/machine/reference/solutions/VisionSolutions$VisionFeatureIssue.class"
+],
+"<html><h3>Use nozzle Z location</h3><p><span style=\"color:red;\">CAUTION:</span> This will invalidate part height auto detection using auto focus.</p></html>": [
+"org/openpnp/machine/reference/solutions/VisionSolutions$VisionFeatureIssue.class"
+],
+"<html><p>Once the calibration primary fiducial is captured you can use it to capture the camera head offsets (first approximation).</p><br/><p>Jog camera \u0001 over the primary fiducial. Target it with the cross-hairs.</p><br/><p>Adjust the <strong>Feature diameter</strong> up and down and see if it is detected right in the camera view. A green circle and cross-hairs should appear and hug the fiducial contour. Zoom the camera using the scroll-wheel.</p><br/><p>Then press Accept to capture the offsets. The camera will perform a small calibration movement </html>": [
+"org/openpnp/machine/reference/solutions/VisionSolutions$4.class"
+],
+"<p>Load nozzle tip \u0001 to nozzle \u0001.</p><br/>": [
+"org/openpnp/machine/reference/solutions/NozzleTipSolutions$2.class"
+],
+"<p>Nozzle tip \u0001 is already loaded on nozzle \u0001.</p><br/>": [
+"org/openpnp/machine/reference/solutions/NozzleTipSolutions$2.class"
+],
+"<html><p>It is recommended to enable nozzle tip calibration for run-out and precision camera offsets. For more information, press the blue Info button (below) to open the Wiki.</p><br/>\u0001<p>Press the <strong>Center Nozzle</strong> button (below) to center nozzle \u0001 over the camera \u0001.</p><br/><p>Adjust the <strong>Feature diameter</strong> up and down and see if it is detected right in the camera view. A green circle and cross-hairs should appear and hug the wanted contour. Zoom the camera using the scroll-wheel. Make sure to target a circular edge that can be detected consistently even when seen from the side. This means it has to be a rather sharp-angled edge. To eliminate nozzle and camera tilt errors, choose a contour that is lowest in Z on the nozzle tip. Typically, the air bore contour is targeted.</p><br/><p>Then press Accept to enable and perform the nozzle tip calibration.</p></html>": [
+"org/openpnp/machine/reference/solutions/NozzleTipSolutions$2.class"
+],
+"Center nozzle \u0001 over camera \u0001": [
+"org/openpnp/machine/reference/solutions/NozzleTipSolutions$2.class"
+],
+"\u0001<p>Delete it.</p>\n": [
+"org/openpnp/machine/reference/solutions/GcodeDriverSolutions$20.class"
+],
+"\u0001<p>Suggested gcode is:</p><pre>\u0001</pre>\n": [
+"org/openpnp/machine/reference/solutions/GcodeDriverSolutions$20.class"
+],
+"\u0001<p>Current gcode is:</p><pre>\u0001</pre>\n": [
+"org/openpnp/machine/reference/solutions/GcodeDriverSolutions$20.class"
+],
+"<p>This will also capture the calibration \u0001 fiducial Z coordinate.</p><br/>": [
+"org/openpnp/machine/reference/solutions/VisionSolutions$6.class"
+],
+"<p>This will also equalize Z of nozzle \u0001 to Z of the default nozzle \u0001.</p><br/>": [
+"org/openpnp/machine/reference/solutions/VisionSolutions$6.class"
+],
+"<p><strong color=\"red\">CAUTION:</strong> A non-zero head offsets Z has been detected on default nozzle \u0001. Accepting this solution will reset it to zero, creating the new reference in Z. This will change the meaning of Z coordinates that have already been captured. Do not accept this solution, unless you are confident this is OK. In the worst case, this may lead to machine collisions! <strong color=\"red\">You have been warned!</strong></p><br/>": [
+"org/openpnp/machine/reference/solutions/VisionSolutions$6.class"
+],
+"<html><p>Once the calibration \u0001 fiducial is captured in X, Y you can use it to capture the nozzle head offsets (first approximation).</p><br/>\u0001\u0001<p>Jog nozzle \u0001 over the \u0001 fiducial. Lower the nozzle tip down until it touches the fiducial.</p><br/><p><strong style=\"color:red;\">CAUTION:</strong> this is a very important Z coordinate, please capture it with care.</p><br/><p>Then press Accept to capture the nozzle head offsets.</p></html>": [
+"org/openpnp/machine/reference/solutions/VisionSolutions$6.class"
+],
+"<html><p>With <strong>Dynamic Safe Z</strong> enabled, the nozzles need a head-room, the so-called Safe Z Zone to lift the nozzles higher with taller parts. On nozzles with shared Z axes the part heights compete for the same head-room. The maximum expected part height is specified on the nozzle tip <strong>Max. Part Height</strong>.</p><br/><p>Nozzle \u0001 with compatible tip \u0001 has a <strong>Max. Part Height</strong> of \u0001, furthermore, nozzle \u0001 with compatible tip \u0001 has a largest <strong>Max. Part Height</strong> of \u0001, which in combination (and after transformation) is larger than the Safe Z Zone of \u0001. Note, the safe Z Zone is configured on the \u0001 axis to reach from \u0001 to \u0001 in (untransformed) coordinates.</p><br/><p>Please either enlarge the Safe Z Zone, by reducing the nozzle \u0001 and \u0001 Z clearances, or reduce the <strong>Max. Part Height</strong> on nozzle tips \u0001 and \u0001.</p><br/><p>Reducing Z clearances is best done by revisiting the Safe Z solutions for nozzles \u0001 and \u0001. Enable the <strong>Include Solved?</strong> checkbox at the top, then reopen the \"Set Safe Z of \u0001\" solution and redo it.</p></html>": [
+"org/openpnp/machine/reference/solutions/KinematicSolutions$8.class"
+],
+"\u0001 \u0001 assigned as \u0001 has wrong type.": [
+"org/openpnp/machine/reference/solutions/HeadSolutions.class"
+],
+"<html><span color=\"red\">CAUTION:</span>  This is a troubleshooting option offered to remove the GcodeAsyncDriver if it causes problems, or if you don't want it after all. Going back to the plain GcodeDriver will lose you all the advanced configuration.</html>": [
+"org/openpnp/machine/reference/solutions/GcodeDriverSolutions$2.class"
+],
+"<html><p>Camera calibration can be performed automatically by looking at fiducials while moving the camera around in a certain pattern. This solution determines the X, Y position of the primary fiducial and it performs preliminary camera calibration.</p><br/><p>Instructions for how to create and position the primary fiducial must be obtained in the OpenPnP Wiki. <strong>There are very important rules that must be observed!</strong> Press the blue Info button (below) to open the Wiki.</p><br/><p>Once you have prepared the calibration primary fiducial you can capture its position in X, Y.</p><br/><p>Jog camera \u0001 over the privary fiducial. Target it roughly with the cross-hairs.</p><br/><p>Adjust the <strong>Feature diameter</strong> up and down and see if it is detected right in the camera view. A green circle and cross-hairs should appear and hug the fiducial contour. Zoom the camera using the scroll-wheel.</p><br/><p>Then press Accept to capture the position. The camera will perform a small calibration movement pattern</p></html>": [
+"org/openpnp/machine/reference/solutions/VisionSolutions$2.class"
+],
+"<p><strong color=\"red\">WARNING:</strong> make sure the device properties are set as recommended by Issues & Solutions. Press <strong>Find Issues & Solutions</strong> to check for the latest status. Proceed only when you are sure the properties are OK, white balance must be computed as the last step.</p><br/>": [
+"org/openpnp/machine/reference/solutions/CameraSolutions$6.class"
+],
+"<html>\u0001<p>Color-keyed computer vision needs stable, and accurate colors. Neither the unstable Auto white balance, nor the device manual white balance is suitable (typically merely a red-blue-shift).Therefore OpenPnP offers its own elaborate and static white balance. You can automatically calibrate it now.</p><br/><p>Make sure a suitable white balance calibration object is visible in the camera view. Brushed metal and paper are recommended. The camera should see all brightness levels, i.e., an assortment of metal objects with holes, bevels, shadows etc. usually provides good gradients.Conversely, make sure there are no colored objects visible. Lighting conditions must be as in operation.<p><br/><p>Alternatively, you can perform white balance on camera \u0001's <strong>White Balance</strong> tab.</p><br><p>Press the blue info button (below) for more information.</p><br><p>When ready, press Accept.</p></html>": [
+"org/openpnp/machine/reference/solutions/CameraSolutions$6.class"
+],
+"Advanced Motion Planner not set. Accept or Dismiss to continue.": [
+"org/openpnp/machine/reference/ReferenceMachine.class"
+],
+"locateTemplateMatches certainty %f at %f, %f": [
+"org/openpnp/machine/reference/vision/OpenCvVisionProvider.class"
+],
+"%s %s fidcuial vision settings %s are disabled.": [
+"org/openpnp/machine/reference/vision/ReferenceFiducialLocator.class"
+],
+"Package %s does not have a valid footprint. See https://github.com/openpnp/openpnp/wiki/Fiducials.": [
+"org/openpnp/machine/reference/vision/ReferenceFiducialLocator.class"
+],
+"Package %s has an invalid or empty footprint.  See https://github.com/openpnp/openpnp/wiki/Fiducials.": [
+"org/openpnp/machine/reference/vision/ReferenceFiducialLocator.class"
+],
+"{} less than max. linear offset {} < {}, locator satisfied.": [
+"org/openpnp/machine/reference/vision/ReferenceFiducialLocator.class"
+],
+"{} averaged location is at {}": [
+"org/openpnp/machine/reference/vision/ReferenceFiducialLocator.class"
+],
+"- Default Machine Fiducial Locator -": [
+"org/openpnp/machine/reference/vision/ReferenceFiducialLocator.class"
+],
+"- Stock Fiducial Vision Settings -": [
+"org/openpnp/machine/reference/vision/ReferenceFiducialLocator.class"
+],
+"- Footprint Fiducial Vision Settings -": [
+"org/openpnp/machine/reference/vision/ReferenceFiducialLocator.class"
+],
+"\u0001 placement to machine transform X: X Factor: \u0001 Y Factor: \u0001 X Offset: \u0001": [
+"org/openpnp/machine/reference/vision/ReferenceFiducialLocator.class"
+],
+"\u0001 placement to machine transform Y: X Factor: \u0001 Y Factor: \u0001 Y Offset: \u0001": [
+"org/openpnp/machine/reference/vision/ReferenceFiducialLocator.class"
+],
+"\u0001 machine to placement transform X: X Factor: \u0001 Y Factor: \u0001 X Offset: \u0001": [
+"org/openpnp/machine/reference/vision/ReferenceFiducialLocator.class"
+],
+"\u0001 machine to placement transform Y: X Factor: \u0001 Y Factor: \u0001 Y Offset: \u0001": [
+"org/openpnp/machine/reference/vision/ReferenceFiducialLocator.class"
+],
+"\u0001 origin offset distance: \u0001mm": [
+"org/openpnp/machine/reference/vision/ReferenceFiducialLocator.class"
+],
+"\u0001x scaling = \u0001 which is outside the expected range of [\u0001, \u0001], ": [
+"org/openpnp/machine/reference/vision/ReferenceFiducialLocator.class",
+"org/openpnp/gui/processes/MultiPlacementBoardLocationProcess.class"
+],
+"\u0001the y scaling = \u0001 which is outside the expected range of [\u0001, \u0001], ": [
+"org/openpnp/machine/reference/vision/ReferenceFiducialLocator.class"
+],
+"\u0001the x shearing = \u0001 which is outside the expected range of [\u0001, \u0001], ": [
+"org/openpnp/machine/reference/vision/ReferenceFiducialLocator.class"
+],
+"\u0001the board origin moved \u0001mm which is greater than the allowed amount of \u0001mm, ": [
+"org/openpnp/machine/reference/vision/ReferenceFiducialLocator.class",
+"org/openpnp/gui/processes/MultiPlacementBoardLocationProcess.class"
+],
+"- Rectlinear Symmetry Bottom Vision Settings -": [
+"org/openpnp/machine/reference/vision/ReferenceBottomVision.class"
+],
+"- Whole Part Body Bottom Vision Settings -": [
+"org/openpnp/machine/reference/vision/ReferenceBottomVision.class"
+],
+"- Default Machine Bottom Vision -": [
+"org/openpnp/machine/reference/vision/ReferenceBottomVision.class"
+],
+"- Stock Bottom Vision Settings -": [
+"org/openpnp/machine/reference/vision/ReferenceBottomVision.class"
+],
+"The panel/board side contains only %d placements marked as fiducials, but at least 2 are required.": [
+"org/openpnp/machine/reference/vision/ReferenceFiducialLocator$PlacementsHolderLocationWithFiducials.class"
+],
+"Optimization skipped because not all placements provide locations": [
+"org/openpnp/machine/reference/ReferencePnpJobProcessor$AbstractOptimizationNozzlesStep.class"
+],
+"Optimization for {} completed in {}ms: {}, {}% gain": [
+"org/openpnp/machine/reference/ReferencePnpJobProcessor$AbstractOptimizationNozzlesStep.class"
+],
+"All nozzle pre-rotation for {} requested": [
+"org/openpnp/machine/reference/ReferencePnpJobProcessor$PrerotateAllNozzlesStep.class"
+],
+"Camera position offset %.3f, %.3f, Runout %.3f, Phase %.3f, Peak err %.3f, RMS err %.3f %s": [
+"org/openpnp/machine/reference/ReferenceNozzleTipCalibration$ModelBasedRunoutCameraOffsetCompensation.class"
+],
+"Current rank is {}. Blocked up to rank {}": [
+"org/openpnp/machine/reference/ReferencePnpJobProcessor.class"
+],
+"<html><span color=\"red\">CAUTION:</span> This is a troubleshooting option offered to remove the ContactProbeNozzle if it causes problems, or if you don't want it after all. Going back to the plain ReferenceNozzle will lose you all the configuration for contact and Z probing and calibration.</html>": [
+"org/openpnp/machine/reference/ContactProbeNozzle$5.class"
+],
+"{True:G38.2 \u0001\u0001 F\u0001 ; probe down in relative coordinates until limit switch is hit}\n{True:M400            ; wait until machine has stopped}": [
+"org/openpnp/machine/reference/ContactProbeNozzle.class"
+],
+"{True:G38.2 \u0001\u0001 F\u0001 ; probe down in absolute coordinates until limit switch is hit}\n{True:M400            ; wait until machine has stopped}": [
+"org/openpnp/machine/reference/ContactProbeNozzle.class"
+],
+"[nozzleTipCalibration]starting measurement; angleStart: {}, angleStop: {}, angleIncrement: {}, angleSubdivisions: {}": [
+"org/openpnp/machine/reference/ReferenceNozzleTipCalibration.class"
+],
+"[nozzleTipCalibration]applying axis offset to bottom camera position: {} - {} = {}": [
+"org/openpnp/machine/reference/ReferenceNozzleTipCalibration.class"
+],
+"[nozzleTipCalibration]applying angle offset to bottom camera rotation: {} - {} = {}": [
+"org/openpnp/machine/reference/ReferenceNozzleTipCalibration.class"
+],
+"[nozzleTipCalibration]Removed offset location {} from results; measured distance {} exceeds offsetThresholdLength {}": [
+"org/openpnp/machine/reference/ReferenceNozzleTipCalibration.class"
+],
+"[nozzleTipCalibration]bottom camera affine transform: \u0001": [
+"org/openpnp/machine/reference/ReferenceNozzleTipCalibration.class"
+],
+"[nozzleTipCalibration]Got more than one result from pipeline. For best performance tweak pipeline to return exactly one result only. Discarding all locations (since it is unknown which may be correct) from the following set: \u0001": [
+"org/openpnp/machine/reference/ReferenceNozzleTipCalibration.class"
+],
+"\u0001 has no input axis set": [
+"org/openpnp/machine/reference/axis/ReferenceCamCounterClockwiseAxis.class",
+"org/openpnp/machine/reference/axis/ReferenceMappedAxis.class"
+],
+"\u0001 has no counter-clock input axis set": [
+"org/openpnp/machine/reference/axis/ReferenceCamClockwiseAxis.class"
+],
+"\u0001 has X factor but no input axis.": [
+"org/openpnp/machine/reference/axis/ReferenceLinearTransformAxis.class"
+],
+"\u0001 has Y factor but no input axis.": [
+"org/openpnp/machine/reference/axis/ReferenceLinearTransformAxis.class"
+],
+"\u0001 has Z factor but no input axis.": [
+"org/openpnp/machine/reference/axis/ReferenceLinearTransformAxis.class"
+],
+"\u0001 has Rotation factor but no input axis.": [
+"org/openpnp/machine/reference/axis/ReferenceLinearTransformAxis.class"
+],
+"<html>Determines, whether this transformation is a compensation transformation e.g. Non-Squareness Compensation.<br/>\r\nThis can be used by OpenPnP to optimize some motion where precision is not needed. Initial calibration <br/>and simulation are other applications. \r\n</html>": [
+"org/openpnp/machine/reference/axis/wizards/ReferenceLinearTransformAxisConfigurationWizard.class"
+],
+"<html>Choose two exemplary points on the axis that you like to map.<br/>\r\nSet the desired Input and Output to create an Offset, Scaling, Negating (etc.).<br/>\r\nNote, the range will not be limited to these points they are just examples.\r\n</html>": [
+"org/openpnp/machine/reference/axis/wizards/ReferenceMappedAxisConfigurationWizard.class"
+],
+"<html>Cam Wheel Radius and Gap are deprecated.<br/>\nIssues & Solutions can fix existing configurations <br/>\nwithout losing captured Z coordinates. </html>": [
+"org/openpnp/machine/reference/axis/wizards/ReferenceCamCounterClockwiseAxisConfigurationWizard.class"
+],
+"[ReferenceMappedAxis] \u0001 input/output range must not be zero. Scale defaults to 1.": [
+"org/openpnp/machine/reference/axis/ReferenceMappedAxis.class"
+],
+"%d°-offset x=%f, y=%f": [
+"org/openpnp/machine/reference/ReferenceNozzleTipCalibration$TableBasedRunoutCompensation.class"
+],
+"{} disabled due to being empty {}": [
+"org/openpnp/machine/reference/ReferencePnpJobProcessor$Pick.class"
+],
+"{} disabled due to feed error {}": [
+"org/openpnp/machine/reference/ReferencePnpJobProcessor$Pick.class"
+],
+"<html>Calibrate the nozzle Z offset by contact-probing against the <strong>Touch Location</strong> defined in the Nozzle Tip.</html>": [
+"org/openpnp/machine/reference/wizards/ContactProbeNozzleWizard$2.class"
+],
+"<html>\nReplace driver connections with a built-in GcodeServer, simulating the real driver.<br/>\nWill only become effective when you disable/enable the machine.\n</html>": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"<html>Be aware that runout will be apparent as an offset in the cross-hairs of the Down-looking Camera, whenever the the Nozzle is positioned. This also happens when watching a Job perform.<html>": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"<html>\r\nCreates simulated noise in the camera image (number of sparks) <br/>\r\nto satisfy Camera Settling that the frame has changed. \r\n</html>": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"<html>\r\nSimulates an initial homing error by that offset. Used to test visial homing. <br/>\r\nSet the homing fiducial to the PCB fiducial in the lower left corner of the test image.<br/>\r\nUse coordinates 5.736, 6.112 to get original coordinates through Visual homing.\r\n</html>": [
+"org/openpnp/machine/reference/wizards/SimulationModeMachineConfigurationWizard.class"
+],
+"<html>Add a new profile.</html>": [
+"org/openpnp/machine/reference/wizards/ReferenceActuatorProfilesWizard$9.class"
+],
+"<html>Move the profile down one position.</html>": [
+"org/openpnp/machine/reference/wizards/ReferenceActuatorProfilesWizard$12.class"
+],
+"<html>\r\nUse a parametric template to encode non-boolean actuation values into the URL.<br/>\r\nThe {val} placeholder can be used. <br/>\r\nFormatting is possible in the form of {val:%f} etc.<br/>\r\n<br/>\r\n<strong>Note:</strong> no escaping is performed. If using String actuation values, <br/>\r\nyou can use complex URI fragments e.g. drive multiple parameters. \r\n</html>": [
+"org/openpnp/machine/reference/wizards/HttpActuatorConfigurationWizard.class"
+],
+"<html>Delete the selected profile.</html>": [
+"org/openpnp/machine/reference/wizards/ReferenceActuatorProfilesWizard$10.class"
+],
+"<html>Probing speed factor.<br/>\r\n<strong>NOTE:</strong> this setting will only become effective, once you<br/>\r\naccept the Issues & Solutions G-code suggestion.</html>": [
+"org/openpnp/machine/reference/wizards/ContactProbeNozzleWizard.class"
+],
+"<html>Contact probing start offset in Z above the nominal location.<br/>\r\nNote: for part height probing, the maximum part height on the NozzleTip <br/>\r\nis used instead, if the part height is not yet known. \r\n</html>": [
+"org/openpnp/machine/reference/wizards/ContactProbeNozzleWizard.class"
+],
+"<html>\r\nContact probing final adjustment in Z (positive values point upwards in Z).<br/>\r\n<ul>\r\n<li>Use positive values to compensate probing overshoot.</li>\r\n<li>Use negative values to add additional nozzle tip spring tensioning.</li>\r\n</ul>\r\n</html>": [
+"org/openpnp/machine/reference/wizards/ContactProbeNozzleWizard.class"
+],
+"<html>Probe for feeder heights. On some feeder types, this can probe for the <strong>Part Height</strong>, when it is unknown.</html>": [
+"org/openpnp/machine/reference/wizards/ContactProbeNozzleWizard.class"
+],
+"<html>Probe for placement heights. Includes probing for <strong>Part Height</strong>, when it is unknown.</html>": [
+"org/openpnp/machine/reference/wizards/ContactProbeNozzleWizard.class"
+],
+"<html>Enable contact probing for discard. There must be a surface that the nozzle<br/>\r\ncan probe into that is likely to brush/tilt off a part from the nozzle, like a (ESD safe) soft<br/>\r\nmaterial or a slanted surface. \r\n</html>": [
+"org/openpnp/machine/reference/wizards/ContactProbeNozzleWizard.class"
+],
+"<html>\r\nOn interlock the actuator will be read and the numeric value compared to this range <br/>\r\n(lower/upper limit). If the value is outside the range, the interlock fails, i.e. an error is raised.\r\n</html>": [
+"org/openpnp/machine/reference/wizards/ActuatorInterlockMonitorConfigurationWizard.class"
+],
+"<html>\r\nOn interlock the actuator will be read. The reading will be compared to the pattern.<br/>\r\nIf the reading does not match, the interlock fails, i.e. an error is raised. \r\n</html>": [
+"org/openpnp/machine/reference/wizards/ActuatorInterlockMonitorConfigurationWizard.class"
+],
+"<html>The interlock is only active if the effective speed factor is within this range.<br/>\r\nTypically used to allow slow movement even when the interlock confirmation failed.\r\n</html>": [
+"org/openpnp/machine/reference/wizards/ActuatorInterlockMonitorConfigurationWizard.class"
+],
+"<html>Move the profile up one position.</html>": [
+"org/openpnp/machine/reference/wizards/ReferenceActuatorProfilesWizard$11.class"
+],
+"<html><span color=\"red\">CAUTION:</span> This is a troubleshooting option, offered to remove the ReferenceAdvancedMotionPlanner if it causes problems, or if you don't want it after all. Going back to the plain NullPlanner will lose you all the advanced configuration.</html>": [
+"org/openpnp/machine/reference/ReferenceMachine$3.class"
+],
+"{} disabled due to fault limit": [
+"org/openpnp/machine/reference/ReferenceFeeder.class"
+],
+"\u0001 interlock actuation changes to \u0001": [
+"org/openpnp/machine/reference/ActuatorInterlockMonitor.class"
+],
+"\u0001 interlock masked by speed \u0001": [
+"org/openpnp/machine/reference/ActuatorInterlockMonitor.class"
+],
+"\u0001 interlock masked by conditionalActuator \u0001 being unchanged": [
+"org/openpnp/machine/reference/ActuatorInterlockMonitor.class"
+],
+"\u0001 interlock masked by conditionalActuator \u0001 being \u0001 handled as \u0001": [
+"org/openpnp/machine/reference/ActuatorInterlockMonitor.class"
+],
+"\u0001 interlock masked by conditionalActuator \u0001 being unknown": [
+"org/openpnp/machine/reference/ActuatorInterlockMonitor.class"
+],
+"\u0001 interlock confirmation below good range: \u0001 < \u0001": [
+"org/openpnp/machine/reference/ActuatorInterlockMonitor.class"
+],
+"\u0001 interlock confirmation above good range: \u0001 > \u0001": [
+"org/openpnp/machine/reference/ActuatorInterlockMonitor.class"
+],
+"\u0001 interlock confirmation does not match: \u0001 vs. \u0001": [
+"org/openpnp/machine/reference/ActuatorInterlockMonitor.class"
+],
+"[nozzleTipCalibration]compare measured = {}, modeled = {}": [
+"org/openpnp/machine/reference/ReferenceNozzleTipCalibration$ModelBasedRunoutCompensation.class"
+],
+"[nozzleTipCalibration]peak error location = {}, error = {}": [
+"org/openpnp/machine/reference/ReferenceNozzleTipCalibration$ModelBasedRunoutCompensation.class"
+],
+"Center %.3f, %.3f, Runout %.3f, Phase %.3f, Peak err %.3f, RMS err %.3f %s": [
+"org/openpnp/machine/reference/ReferenceNozzleTipCalibration$ModelBasedRunoutCompensation.class"
+],
+"[nozzleTipCalibration]nozzle tip affine transform = \u0001": [
+"org/openpnp/machine/reference/ReferenceNozzleTipCalibration$ModelBasedRunoutCompensation.class"
+],
+"{}.toHeadLocation({}, ...) rotation mode offset {}": [
+"org/openpnp/machine/reference/ReferenceNozzle.class"
+],
+"{}.home() nozzle tip {} calibration neeeded": [
+"org/openpnp/machine/reference/ReferenceNozzle.class"
+],
+"{}.home() nozzle tip {} calibration reset": [
+"org/openpnp/machine/reference/ReferenceNozzle.class"
+],
+"{}.loadNozzleTip({}): moveTo Start Location": [
+"org/openpnp/machine/reference/ReferenceNozzle.class"
+],
+"{}.loadNozzleTip({}): moveTo Mid Location": [
+"org/openpnp/machine/reference/ReferenceNozzle.class"
+],
+"{}.loadNozzleTip({}): moveTo Mid Location 2": [
+"org/openpnp/machine/reference/ReferenceNozzle.class"
+],
+"{}.loadNozzleTip({}): moveTo End Location": [
+"org/openpnp/machine/reference/ReferenceNozzle.class"
+],
+"{}.loadNozzleTip({}): moveTo manual Location": [
+"org/openpnp/machine/reference/ReferenceNozzle.class"
+],
+"{}.loadNozzleTip() nozzle tip {} calibration reset": [
+"org/openpnp/machine/reference/ReferenceNozzle.class"
+],
+"{}.loadNozzleTip() nozzle tip {} calibration needed": [
+"org/openpnp/machine/reference/ReferenceNozzle.class"
+],
+"{}.unloadNozzleTip(): moveTo End Location": [
+"org/openpnp/machine/reference/ReferenceNozzle.class"
+],
+"{}.unloadNozzleTip(): moveTo Mid Location 2": [
+"org/openpnp/machine/reference/ReferenceNozzle.class"
+],
+"{}.unloadNozzleTip(): moveTo Mid Location": [
+"org/openpnp/machine/reference/ReferenceNozzle.class"
+],
+"{}.unloadNozzleTip(): moveTo Start Location": [
+"org/openpnp/machine/reference/ReferenceNozzle.class"
+],
+"{}.unloadNozzleTip({}): moveTo manual Location": [
+"org/openpnp/machine/reference/ReferenceNozzle.class"
+],
+"{}.unloadNozzleTip() nozzle tip {} calibration needed": [
+"org/openpnp/machine/reference/ReferenceNozzle.class"
+],
+"\u0001\na manual nozzle tip \u0001 unload from nozzle \u0001 and": [
+"org/openpnp/machine/reference/ReferenceNozzle.class"
+],
+"\u0001\na manual nozzle tip \u0001 load on nozzle \u0001 now.": [
+"org/openpnp/machine/reference/ReferenceNozzle.class"
+],
+"\u0001\nWhen you press OK, the nozzle tip will be calibrated (if enabled).": [
+"org/openpnp/machine/reference/ReferenceNozzle.class"
+],
+"\u0001 dwell for pick vacuum \u0001ms": [
+"org/openpnp/machine/reference/ReferenceNozzle.class"
+],
+"\u0001 dwell for place vacuum dissipation \u0001ms": [
+"org/openpnp/machine/reference/ReferenceNozzle.class"
+],
+"\u0001 dwell for part off probing, open valve \u0001ms": [
+"org/openpnp/machine/reference/ReferenceNozzle.class"
+],
+"\u0001 dwell for part off probing, closed valve \u0001ms": [
+"org/openpnp/machine/reference/ReferenceNozzle.class"
+],
+"mlMinCream must either be in mil or mm": [
+"org/openpnp/gui/importer/EagleBoardImporter.class"
+],
+"mlMaxCream must either be in mil or mm": [
+"org/openpnp/gui/importer/EagleBoardImporter.class"
+],
+"%s Total %3.0f%% (%4d/%4d), Flash %3.0f%% (%4d/%4d), Line %3.0f%% (%4d/%4d), Arc %3.0f%% (%4d/%4d), Region %3.0f%% (%4d/%4d), Region line %3.0f%% (%4d/%4d), Region Arc %3.0f%% (%4d/%4d), Pads %4d": [
+"org/openpnp/gui/importer/rs274x/Rs274xParser$ParseStatistics.class"
+],
+"<html><body>Jog the camera so that an easily identifiable feature of the object (such as a sharp corner) is in the camera's field-of-view (FOV). It is better for the feature to be towards the edge of the FOV rather than centered. When ready, click the mouse on the feature to capture its apparent position.</body></html>": [
+"org/openpnp/gui/processes/EstimateObjectZCoordinateProcess.class"
+],
+"<html><body>Now jog the camera in X and/or Y so that the same feature is visible in another part of the camera's FOV. The farther away from the original position, the better.  When ready, click the mouse on the feature to capture its new apparent position and estimate its Z coordinate.</body></html>": [
+"org/openpnp/gui/processes/EstimateObjectZCoordinateProcess.class"
+],
+"<html><body>The estimated Z coordinate of the feature is <b>%s</b>. Click Cancel if finished or Again to perform another measurment.</body></html>": [
+"org/openpnp/gui/processes/EstimateObjectZCoordinateProcess.class"
+],
+"<html><body>Jog the nozzle so that an easily identifiable feature of the object (such as a sharp corner) is in the camera's field-of-view (FOV). It is better for the feature to be towards the edge of the FOV rather than centered. When ready, click the mouse on the feature to capture its apparent position.</body></html>": [
+"org/openpnp/gui/processes/EstimateObjectZCoordinateProcess.class"
+],
+"<html><body>Now jog the nozzle in X and/or Y so that the same feature is visible in another part of the camera's FOV. The farther away from the original position, the better.  When ready, click the mouse on the feature to capture its new apparent position and estimate its Z coordinate.</body></html>": [
+"org/openpnp/gui/processes/EstimateObjectZCoordinateProcess.class"
+],
+"<html><body>\u0001</body></html>": [
+"org/openpnp/gui/processes/CalibrateCameraProcess.class"
+],
+"<html><body>Select two or more (four or more is better) easily identifiable placements in the placements table. They should be near the corners of the board. Click Next to continue and the camera will move near one of the selected placements.</body></html>": [
+"org/openpnp/gui/processes/MultiPlacementBoardLocationProcess.class"
+],
+"<html><body>Now, manually jog the camera's crosshairs over the center of %s. Try to be as precise as possible. Click Next to continue to the next placement.</body></html>": [
+"org/openpnp/gui/processes/MultiPlacementBoardLocationProcess.class"
+],
+"<html><body>The board's location and rotation have been set. Click Finish to position the camera at the board's origin, or Cancel to reject the changes.</body></html>": [
+"org/openpnp/gui/processes/MultiPlacementBoardLocationProcess.class"
+],
+"<html><body>Select two or more (four or more is better) easily identifiable placements in the placements table. They should be near the corners of the board. Click Next to continue.</body></html>": [
+"org/openpnp/gui/processes/MultiPlacementBoardLocationProcess.class"
+],
+"\u0001y scaling = \u0001 which is outside the expected range of [\u0001, \u0001], ": [
+"org/openpnp/gui/processes/MultiPlacementBoardLocationProcess.class"
+],
+"\u0001x shearing = \u0001 which is outside the expected range of [\u0001, \u0001], ": [
+"org/openpnp/gui/processes/MultiPlacementBoardLocationProcess.class"
+],
+"<html><body>Camera position can be offset with jog or by selecting position in the camera view. Click Next to continue.</body></html>": [
+"org/openpnp/gui/processes/RegionOfInterestProcess.class"
+],
+"<html><body>Click on what will become the upper left corner of your region of interest. Click again to reset and retry. Click Next to continue.</body></html>": [
+"org/openpnp/gui/processes/RegionOfInterestProcess.class"
+],
+"<html><body>Now, click on what will become the upper right corner of your region of interest. Click again to reset and retry. Click Next to continue.</body></html>": [
+"org/openpnp/gui/processes/RegionOfInterestProcess.class"
+],
+"<html><body>Next, click on what will become the lower left corner of your region of interest. Click again to reset and retry. Click Next to continue.</body></html>": [
+"org/openpnp/gui/processes/RegionOfInterestProcess.class"
+],
+"<html><body>Finally, click to toggle beween a rectangular and parallelogrammatic region. Click Next to continue.</body></html>": [
+"org/openpnp/gui/processes/RegionOfInterestProcess.class"
+],
+"<html><body>The region of interest has been defined. Click Finish to accept it, or Cancel to quit.</body></html>": [
+"org/openpnp/gui/processes/RegionOfInterestProcess.class"
+],
+"<html><body>Processing calibration data - this may take a few seconds.</body></html>": [
+"org/openpnp/gui/processes/CalibrateCameraProcess$3.class"
+],
+"X 0000.0000, Y 0000.0000, Z 0000.0000, R 0000.0000": [
+"org/openpnp/gui/MainFrame.class"
+],
+"<html><body width=\"400\">\u0001</body></html>": [
+"org/openpnp/gui/MainFrame.class",
+"org/openpnp/gui/support/MessageBoxes.class"
+],
+"setUnits() not implemented for \u0001": [
+"org/openpnp/gui/JogControlsPanel.class"
+],
+"getJogIncrement() not implemented for \u0001": [
+"org/openpnp/gui/JogControlsPanel.class"
+],
+"<html>\u0001<br>[\u0001/deg]</html>": [
+"org/openpnp/gui/JogControlsPanel.class"
+],
+"<html>\u0001<br>[%]</html>": [
+"org/openpnp/gui/JogControlsPanel.class"
+],
+"<html>This will overwrite the Z reference and therefore<br/>change the meaning of previously captured Z coordinates.<br/><span color=\"red\">You will need to recapture these locations!</span><br/><br/>Are you sure?</html>": [
+"org/openpnp/gui/components/LocationButtonsPanel$7.class"
+],
+"%dpx, %dpx\n%2.3f%s, %2.3f%s": [
+"org/openpnp/gui/components/CameraView$9.class"
+],
+"<html><b>\u0001</b></html>": [
+"org/openpnp/gui/components/LabeledPopupMenu.class"
+],
+"\u0001No nozzle tip loaded on nozzle \u0001. ": [
+"org/openpnp/gui/FeedersPanel.class"
+],
+"\u0001Nozzle \u0001 loaded nozzle tip \u0001 is not compatible with package \u0001. ": [
+"org/openpnp/gui/FeedersPanel.class"
+],
+"\u0001There is already a part \u0001 loaded. ": [
+"org/openpnp/gui/FeedersPanel.class"
+],
+"\u0001Consider selecting nozzle \u0001, it has compatible nozzle tip \u0001 loaded. ": [
+"org/openpnp/gui/FeedersPanel.class"
+],
+"\u0001You may want to enable automatic nozzle tip change on manual pick on the Nozzle / Tool Changer. ": [
+"org/openpnp/gui/FeedersPanel.class"
+],
+"\u0001The pick will always be performed with the nozzle selected in the Machine Controls. ": [
+"org/openpnp/gui/FeedersPanel.class"
+],
+"X:%-9s Y:%-9s Z:%-9s C:%-9s": [
+"org/openpnp/gui/MachineControlsPanel.class"
+],
+"\u0001 would potentially crash into board \u0001. To disable the board protection go to the \"Safety\" tab in the \"Machine Controls\" panel.": [
+"org/openpnp/gui/MachineControlsPanel.class"
+],
+"\u0001 exceeded roaming distance at non-safe Z, going to safe Z. Last user action at \u0001 roamed to \u0001 distance \u0001mm.": [
+"org/openpnp/gui/MachineControlsPanel$6.class"
+],
+"<html>This will position the nozzle \u0001 over the camera \u0001. <br/><br/><span style=\"color:red;\">CAUTION:</span> Nozzle head offset, nozzle Safe Z, camera <br/>location, basic motion etc. must already be set up.<br/><br/>Are you sure?</html>": [
+"org/openpnp/gui/wizards/CameraConfigurationWizard.class"
+],
+"<html>This will move camera \u0001 over to the position of the nozzle \u0001. <br/><br/><span style=\"color:red;\">CAUTION:</span> Nozzle head offset, nozzle Safe Z, basic <br/>motion etc. must already be set up.<br/><br/>Are you sure?</html>": [
+"org/openpnp/gui/wizards/CameraConfigurationWizard.class"
+],
+"<span style=\"color:red\">WARNING: No move to Safe Z!</span><br/>": [
+"org/openpnp/gui/wizards/CameraVisionConfigurationWizard.class"
+],
+"<html>This will move \u0001 for one jog increment and back. <br/>\u0001Are you sure?</html>": [
+"org/openpnp/gui/wizards/CameraVisionConfigurationWizard.class"
+],
+"(%f, %f, %f, %f %s)": [
+"org/openpnp/model/Location.class"
+],
+"    +-- prop:%s %s @%08x": [
+"org/openpnp/model/AbstractModelObject.class"
+],
+"Placement %s @%08x defined by @%08x, location=%s, side=%s, part=%s, type=%s, rank=%s": [
+"org/openpnp/model/Placement.class"
+],
+"%s (%s) BoardLocation:@%08x defined by @%08x child of @%08x, %s, location=%s globalLocation=%s, side=%s (%s)": [
+"org/openpnp/model/BoardLocation.class"
+],
+"<package id=\"%s\" name=\"%s\">": [
+"org/openpnp/model/eagle/EagleLoader.class"
+],
+"<pad x=\"%s\" y=\"%s\" width=\"%s\" height=\"%s\"/>": [
+"org/openpnp/model/eagle/EagleLoader.class"
+],
+"<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<svg xmlns=\"http://www.w3.org/2000/svg\"\n  xmlns:xlink=\"http://www.w3.org/1999/xlink\"\n  version=\"1.1\" baseProfile=\"full\"\n  width=\"100%\" height=\"100%\" \n  viewBox=\"-10 -100 450 130\">\r\n": [
+"org/openpnp/model/AbstractMotionPath.class"
+],
+"<text x=\"0\" y=\"20\" fill=\"black\" font-family=\"sans-serif\" font-size=\"7\">": [
+"org/openpnp/model/AbstractMotionPath.class"
+],
+"\u0001: axis \u0001 v[0] is not zero": [
+"org/openpnp/model/AbstractMotionPath.class"
+],
+"\u0001: axis \u0001 a[0] is not zero": [
+"org/openpnp/model/AbstractMotionPath.class"
+],
+"\u0001: axis \u0001 location discontinous into move \u0001": [
+"org/openpnp/model/AbstractMotionPath.class"
+],
+"\u0001: axis \u0001 velocity discontinous into move \u0001": [
+"org/openpnp/model/AbstractMotionPath.class"
+],
+"\u0001: axis \u0001 acceleration discontinous into move \u0001": [
+"org/openpnp/model/AbstractMotionPath.class"
+],
+"<line x1=\"\u0001\" y1=\"\u0001\" x2=\"\u0001\" y2=\"\u0001\" stroke-linecap=\"round\" style=\"stroke-width: \u0001; stroke:grey;\"/>\n": [
+"org/openpnp/model/AbstractMotionPath.class"
+],
+"<line x1=\"\u0001\" y1=\"\u0001\" x2=\"\u0001\" y2=\"\u0001\" stroke-linecap=\"round\" style=\"stroke-width: \u0001; stroke:red;\"/>\n": [
+"org/openpnp/model/AbstractMotionPath.class"
+],
+"<circle cx=\"\u0001\" cy=\"\u0001\" r=\"\u0001\" style=\"stroke-width: \u0001; stroke:grey; fill:none;\"/>\n": [
+"org/openpnp/model/AbstractMotionPath.class"
+],
+"<circle cx=\"\u0001\" cy=\"\u0001\" r=\"\u0001\" style=\"stroke-width: \u0001; stroke:red; fill:none;\"/>\n": [
+"org/openpnp/model/AbstractMotionPath.class"
+],
+"\u0001\u0001 \u0001 has Vision Offsets \u0001, \u0001, compositing unsupported. ": [
+"org/openpnp/model/VisionCompositing$Composite.class"
+],
+"\u0001\u0001 \u0001 has no roaming radius set, compositing forbidden. ": [
+"org/openpnp/model/VisionCompositing$Composite.class"
+],
+"\u0001Package \u0001 has no footprint defined, compositing not possible. ": [
+"org/openpnp/model/VisionCompositing$Composite.class"
+],
+"\u0001Compositing method \u0001 blocks compositing. ": [
+"org/openpnp/model/VisionCompositing$Composite.class"
+],
+"\u0001\u0001 \u0001 has insufficient roaming radius, compositing blocked. ": [
+"org/openpnp/model/VisionCompositing$Composite.class"
+],
+"\u0001No solution found. Cannot isolate corners with compositable X and Y symmetries. Check footprint. ": [
+"org/openpnp/model/VisionCompositing$Composite.class"
+],
+"%.2f@%.4f, %.2f@%.4f": [
+"org/openpnp/model/MotionProfile.class"
+],
+"    found invalid mid area \u0001 s \u0001 t \u0001": [
+"org/openpnp/model/MotionProfile.class"
+],
+"    overshot, no invalid mid area \u0001 s \u0001 t \u0001": [
+"org/openpnp/model/MotionProfile.class"
+],
+"    stuck local minimum, no invalid mid area \u0001 s \u0001 t \u0001": [
+"org/openpnp/model/MotionProfile.class"
+],
+"    search for invalid mid area \u0001 gradient \u0001 delta \u0001 s \u0001 t \u0001": [
+"org/openpnp/model/MotionProfile.class"
+],
+"    not retimed tMin \u0001 time \u0001": [
+"org/openpnp/model/MotionProfile.class"
+],
+"vPeak = \u0001 s=\u0001 t-tMin=\u0001 \u0001": [
+"org/openpnp/model/MotionProfile.class"
+],
+"    need to restart synchronize, maxTime \u0001 breached with \u0001 on \u0001": [
+"org/openpnp/model/MotionProfile.class"
+],
+"<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<svg xmlns=\"http://www.w3.org/2000/svg\"\n  xmlns:xlink=\"http://www.w3.org/1999/xlink\"\n  version=\"1.1\" baseProfile=\"full\"\n  width=\"100%\" height=\"100%\" preserveAspectRatio=\"none\"\n  viewBox=\"\u0001 \u0001 \u0001 \u0001\">\r\n": [
+"org/openpnp/model/MotionProfile.class"
+],
+"<title>Profile s[0]=\u0001 s[7]=\u0001 v[0]=\u0001 v[7]=\u0001 tMin=\u0001": [
+"org/openpnp/model/MotionProfile.class"
+],
+"<line x1=\"\u0001\" y1=\"\u0001\" x2=\"\u0001\" y2=\"\u0001\" style=\"stroke-width: \u0001; stroke:orange;\"/>\n": [
+"org/openpnp/model/MotionProfile.class"
+],
+"<line x1=\"\u0001\" y1=\"\u0001\" x2=\"\u0001\" y2=\"\u0001\" style=\"stroke-width: \u0001; stroke:lightgrey;\"/>\\n": [
+"org/openpnp/model/MotionProfile.class"
+],
+"<line x1=\"\u0001\" y1=\"0\" x2=\"\u0001\" y2=\"0\" style=\"stroke-width: \u0001; stroke:grey;\"/>\\n": [
+"org/openpnp/model/MotionProfile.class"
+],
+"<line x1=\"\u0001\" y1=\"\u0001\" x2=\"\u0001\" y2=\"\u0001\" stroke-dasharray=\"5,5\" style=\"stroke-width: \u0001; stroke:grey;\"/>\\n": [
+"org/openpnp/model/MotionProfile.class"
+],
+"<line x1=\"\u0001\" y1=\"\u0001\" x2=\"\u0001\" y2=\"\u0001\" style=\"stroke-width: \u0001; stroke:green;\"/>\n": [
+"org/openpnp/model/MotionProfile.class"
+],
+"<line x1=\"\u0001\" y1=\"\u0001\" x2=\"\u0001\" y2=\"\u0001\" style=\"stroke-width: \u0001; stroke:red;\"/>\n": [
+"org/openpnp/model/MotionProfile.class"
+],
+"<line x1=\"\u0001\" y1=\"\u0001\" x2=\"\u0001\" y2=\"\u0001\" style=\"stroke-width: \u0001; stroke:\u0001;\"/>\n": [
+"org/openpnp/model/MotionProfile.class"
+],
+"<line x1=\"\u0001\" y1=\"\u0001\" x2=\"\u0001\" y2=\"\u0001\" stroke-dasharray=\"1,1\" style=\"stroke-width: \u0001; stroke:lightgreen;\"/>\\n": [
+"org/openpnp/model/MotionProfile.class"
+],
+"<line x1=\"\u0001\" y1=\"\u0001\" x2=\"\u0001\" y2=\"\u0001\" stroke-dasharray=\"1,1\" style=\"stroke-width: \u0001; stroke:pink;\"/>\\n": [
+"org/openpnp/model/MotionProfile.class"
+],
+"<line x1=\"0\" y1=\"\u0001\" x2=\"0\" y2=\"\u0001\" style=\"stroke-width: \u0001; stroke:grey;\"/>\\n": [
+"org/openpnp/model/MotionProfile.class"
+],
+"<line x1=\"\u0001\" y1=\"\u0001\" x2=\"\u0001\" y2=\"\u0001\" style=\"stroke-width: \u0001; stroke:yellow;\"/>\\n": [
+"org/openpnp/model/MotionProfile.class"
+],
+"id %s, name %s, heightUnits %s, height %f, packageId (%s)": [
+"org/openpnp/model/Part.class"
+],
+"%s (%s) PanelLocation:@%08x defined by @%08x child of @%08x, %s, location=%s , globalLocation=%s side=%s (%s)": [
+"org/openpnp/model/PanelLocation.class"
+],
+"{date:yyyy-MM-dd HH:mm:ss.SSS} {class_name} {level}: {message}": [
+"org/openpnp/Main.class"
+],
+"{try {return java.beans.Introspector.getBeanInfo($1.getClass());} catch (java.beans.IntrospectionException ie) {throw new org.jdesktop.beansbinding.PropertyResolutionException(\"Exception while introspecting \" + $1.getClass().getName(), ie);} }": [
+"org/openpnp/Main.class"
+]
+}
