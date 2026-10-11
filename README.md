@@ -12,8 +12,8 @@ OpenPnP 简体中文全量汉化包 · 适用于 **OpenPnP 2.6**
 | 项目 | 说明 |
 |---|---|
 | 汉化层数 | **两层**：语言资源文件 + class 常量池 |
-| 翻译条目 | properties 1948 条 + class 常量池 **2687 条**（累计三轮） |
-| 改动 class | **573 个**（累计去重） |
+| 翻译条目 | properties 1948 条 + class 常量池 **2765 条**（累计四轮） |
+| 改动 class | **600 个**（累计去重） |
 | 交付形式 | 一个可直接替换的 JAR，或纯资源文件 |
 | 许可 | GPL-3.0（与主程序一致，可自由分发） |
 
@@ -76,8 +76,8 @@ python 输出/class补丁/结构校验器.py <原版.jar> <输出.jar>
 ├── 输出/                          # 交付物
 │   ├── class补丁/
 │   │   ├── openpnp-gui-final.jar      # ★ 最终成品 JAR
-│   │   ├── 全量翻译映射表.json          # 2308 条中英对照
-│   │   ├── batch11~batch14*.py         # 第三轮补充翻译表
+│   │   ├── 全量翻译映射表.json          # 2339 条中英对照
+│   │   ├── batch11~batch15*.py         # 第三/四轮补充翻译表
 │   │   ├── 翻译映射表.py                # 首批 170 条对照
 │   │   ├── class重写器.py               # 常量池重写器
 │   │   ├── 翻译校验器.py                # 占位符安全校验
@@ -87,7 +87,7 @@ python 输出/class补丁/结构校验器.py <原版.jar> <输出.jar>
 │   ├── 使用说明.md                     # 详细文档
 │   └── SHA256.txt
 ├── 工作区/                        # 各批次翻译表与工具
-│   ├── batch1_solutions.py ~ batch14_html2.py
+│   ├── batch1_solutions.py ~ batch15_final.py
 │   ├── translation_pipeline.py
 │   └── struct_verify.py
 └── 备份/                          # 各阶段 JAR 备份（未入库）
@@ -103,7 +103,7 @@ python 输出/class补丁/结构校验器.py <原版.jar> <输出.jar>
 |---|---|---|
 | 结构完整性 | 按 class 规范逐字节解析 CP→字段→方法→属性 | 原始与补丁版均 **2104/2104 合法** |
 | JVM 加载 | 逐 class `defineClass` 校验 | 两版均 `OK=1427 FAIL=677`，**失败清单逐条相同**（677 条全为第三方依赖缺失） |
-| 字节级 diff | 逐文件比对原始与成品 JAR | 156 个 class 差异 / 392 个 Utf8 条目被替换；**CP 结构异常 0、非 Utf8 条目误改 0** |
+| 字节级 diff | 逐文件比对原始与成品 JAR | 27 个 class 差异 / 34 个 Utf8 条目被替换；**CP 结构异常 0、非 Utf8 条目误改 0** |
 | 冒烟测试 | 反射加载关键类 | **LOAD OK=9 FAIL=0** |
 
 ### 占位符安全校验
@@ -162,8 +162,8 @@ python 输出/class补丁/结构校验器.py <原版.jar> <输出.jar>
 
 ```
 文件:   openpnp-gui-final.jar
-大小:   11,140,260 字节
-SHA256: 92664a56e6f66c59107658004166e78cfc6955a63b5fd3890e0dfa16ba0996df
+大小:   11,140,434 字节
+SHA256: 7b3cddfccd81da7c0bf82c50c3817b44eb412776544835e0cb62d9fd1fd2cc65
 
 文件:   translations_zh_CN.properties
 大小:   240,295 字节
